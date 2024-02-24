@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KilterNed</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+		header a {
+            color: #ffffff; /* White color for links */
+            text-decoration: none;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        .element {
+            margin-bottom: 40px;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .element img {
+            max-width: 100%;
+            border-radius: 5px;
+            margin-bottom: 10px;
+            cursor: pointer;
+        }
+		.image-group-3 img {
+            width: calc(33.33% - 5px); /* Subtracting margin */
+        }
+        .image-group-3 {
+            display: flex;
+            justify-content: space-between;
+        }
+        .element p {
+            margin-bottom: 10px;
+        }
+        .element a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        .image-group {
+            display: flex;
+            justify-content: space-between;
+        }
+        .image-group img {
+            width: 48%; /* Adjust this value as needed */
+        }
+        .image-modal {
+            display: none;
+            position: fixed;
+            z-index: 9999;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.8);
+            overflow: auto;
+        }
+        .image-modal-content {
+            margin: auto;
+            display: block;
+            width: 80%;
+            max-width: 800px;
+            position: relative;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+        .image-modal-content img {
+            display: block;
+            width: 100%;
+        }
+        .close-btn {
+            color: #fff;
+            position: absolute;
+            top: 10px;
+            right: 20px;
+            font-size: 30px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>KilterNerd</h1>
+		<p>Snapshot at 15th February 2024. Full source code <a href="https://github.com/gism/kilternerd">here.</a></p>
+    </header>
+    <div class="container">
+        <div class="element">
+            <h2>Top setters</h2>
+            <p>This is the top users routesetters. <br>Thanks to all of you.</p>
+            <img src="./output/top_setters_table.png">
+			<p>Full list available <a href="./output/users_setter_count.txt">here.</a></p>
+        </div>
+        <div class="element">
+            <h2>Top video uploader</h2>
+            <p>This is the top video uploaders users. <br>Thanks to all of you.</p>
+            <img src="./output/top_video_uploader_table.png" alt="Top video uploader user">
+			<p>Full list available <a href="./output/users_video_uploader_count.txt">here.</a></p>
+        </div>
+        <div class="element">
+            <h2>Most repeated word in boulder/rouote name</h2>
+            <p>These are the most repeated words in the names of the blocks or routes. <br>The first ones are not very interesting but you can see the entire list in the link below</p>
+            <img src="./output/top_words_name_table.png" alt="Top Words in name">
+			<p>Full list available <a href="./output/boulder_name_word_count.txt">here.</a></p>
+        </div>
+		<div class="element">
+            <h2>Most repeated emojis in boulder/rouote name</h2>
+            <p>These are the most repeated emojis in the names of the blocks or routes. <br>Emojis are not properly displayed but you can check full list in the link below</p>
+            <img src="./output/top_emojis_name_table.png" alt="Top Emojis in name">
+			<p>Full list available <a href="./output/boulder_name_emoji_count.txt">here.</a></p>
+        </div>
+		<div class="element">
+            <h2>Number of Boulders/Route vs Grade</h2>
+            <p>This is the number of boulders or routes available for each grade. If the same boulder is available in different inclinations it is counted multiple times</p>
+            <div class="image-group">
+                <img class="modal-trigger" src="./output/histo_boulder_grade.png">
+                <img class="modal-trigger" src="./output/histo_boulder_grade_percent.png">
+            </div>
+        </div>
+        <div class="element">
+            <h2>Number of Boulders/Route vs board Angle</h2>
+            <p>This is the number of boulders or routes available for each board angle.</p>
+            <div class="image-group">
+                <img class="modal-trigger" src="./output/histo_boulder_angle.png">
+                <img class="modal-trigger" src="./output/histo_boulder_angle_percent.png">
+            </div>
+        </div>
+		<div class="element">
+            <h2>Number of Ascents vs Grade</h2>
+            <p>This is the number of ascends for each grade. If the same boulder has ascents recorded in different board angles it is counted multiple times</p>
+            <div class="image-group">
+                <img class="modal-trigger" src="./output/histo_ascents_grade.png">
+                <img class="modal-trigger" src="./output/histo_ascents_grade_percent.png">
+            </div>
+        </div>
+        <div class="element">
+            <h2>Number of Ascents vs board Angle</h2>
+            <p>This is the number of boulders or routes available for each board angle.</p>
+            <div class="image-group">
+                <img class="modal-trigger" src="./output/histo_ascents_angle.png">
+                <img class="modal-trigger" src="./output/histo_ascents_angle_percent.png">
+            </div>
+        </div>
+		<div class="element">
+            <h2>Number of Boulders/Route vs Grade vs Board Angle</h2>
+            <p>This is the number of boulders or routes available for each grade and board angle.<br>Zoom image to read number</p>
+            <div class="image-group">
+                <img class="modal-trigger" src="./output/boulders_routes_grade_vs_angle.png">
+                <img class="modal-trigger" src="./output/boulders_routes_grade_vs_angle_percent.png">
+            </div>
+        </div>
+		<div class="element">
+            <h2>Number of Ascents vs Grade vs Board Angle</h2>
+            <p>This is the number of boulders or routes available for for each grade and board angle.<br>Zoom image to read number</p>
+            <div class="image-group">
+                <img class="modal-trigger" src="./output/ascents_grade_vs_angle.png">
+                <img class="modal-trigger" src="./output/ascents_grade_vs_angle_percent.png">
+            </div>
+        </div>
+		<div class="element">
+            <h2>Top starter holds</h2>
+            <p>This is the number of times each hold is used as starter hold. These are our favorite starters.<br>Zoom image to read number</p>
+            <div class="image-group-3">
+                <img class="modal-trigger" src="./output/starts_array.png">
+                <img class="modal-trigger" src="./output/starts_percent_array.png">
+                <img class="modal-trigger" src="./output/starts_heatmap_array.png">
+            </div>
+			<p>Summary as text table <a href="./output/hold_summary_starts_table.txt">here.</a></p>
+			<p>Summary as a json file <a href="./output/master_hold_summary_starts.json">here.</a></p>
+        </div>
+		<div class="element">
+            <h2>Top finish holds</h2>
+            <p>This is the number of times each hold is used as finish hold. These are our favorite tops.<br>Zoom image to read number</p>
+            <div class="image-group-3">
+                <img class="modal-trigger" src="./output/top_array.png">
+                <img class="modal-trigger" src="./output/top_percent_array.png">
+                <img class="modal-trigger" src="./output/top_heatmap_array.png">
+            </div>
+			<p>Summary as text table <a href="./output/hold_summary_tops_table.txt">here.</a></p>
+			<p>Summary as a json file <a href="./output/master_hold_summary_tops.json">here.</a></p>
+        </div>
+		<div class="element">
+            <h2>Top feet holds</h2>
+            <p>This is the number of times each hold is used as foot hold. These are our favorite feet.<br>Zoom image to read number</p>
+            <div class="image-group-3">
+                <img class="modal-trigger" src="./output/foot_array.png">
+                <img class="modal-trigger" src="./output/foot_percent_array.png">
+                <img class="modal-trigger" src="./output/foot_heatmap_array.png">
+            </div>
+			<p>Summary as text table <a href="./output/hold_summary_foots_table.txt">here.</a></p>
+			<p>Summary as a json file <a href="./output/master_hold_summary_foots.json">here.</a></p>
+        </div>
+		<div class="element">
+            <h2>Top hand holds</h2>
+            <p>This is the number of times each hold is used as hand hold. These are our favorite hands.<br>Zoom image to read number</p>
+            <div class="image-group-3">
+                <img class="modal-trigger" src="./output/hands_array.png">
+                <img class="modal-trigger" src="./output/hands_percent_array.png">
+                <img class="modal-trigger" src="./output/hands_heatmap_array.png">
+            </div>
+			<p>Summary as text table <a href="./output/hold_summary_hands_table.txt">here.</a></p>
+			<p>Summary as a json file <a href="./output/master_hold_summary_hands.json">here.</a></p>
+        </div>
+	
+	    <!-- Image Modal -->
+    <div class="image-modal" id="image-modal">
+        <span class="close-btn">&times;</span>
+        <div class="image-modal-content">
+            <img src="" id="modal-image" alt="Modal Image">
+        </div>
+    </div>
+
+    <script>
+        // Get the modal
+        var modal = document.getElementById('image-modal');
+
+        // Get the image and insert it inside the modal - use its "alt" text as a caption
+        var modalImg = document.getElementById("modal-image");
+        var images = document.querySelectorAll('.modal-trigger');
+        images.forEach(function(img){
+            img.onclick = function(){
+                modal.style.display = "block";
+                modalImg.src = this.src;
+            }
+        });
+
+        // Get the <span> element that closes the modal
+        var span = document.getElementsByClassName("close-btn")[0];
+
+        // When the user clicks on <span> (x), close the modal
+        span.onclick = function() {
+            modal.style.display = "none";
+        }
+    </script>
+	
+</body>
+</html>

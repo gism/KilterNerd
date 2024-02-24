@@ -1,0 +1,4082 @@
+{
+    "1215": {
+        "hold_id": "1215",
+        "placement_id": "1278",
+        "hold_role": "14",
+        "count": 33,
+        "x": 9,
+        "y": 25
+    },
+    "1496": {
+        "hold_id": "1496",
+        "placement_id": "1339",
+        "hold_role": "14",
+        "count": 116,
+        "x": 29,
+        "y": 31
+    },
+    "1428": {
+        "hold_id": "1428",
+        "placement_id": "1387",
+        "hold_role": "14",
+        "count": 13816,
+        "x": 23,
+        "y": 37
+    },
+    "1542": {
+        "hold_id": "1542",
+        "placement_id": "1391",
+        "hold_role": "14",
+        "count": 7369,
+        "x": 31,
+        "y": 37
+    },
+    "1314": {
+        "hold_id": "1314",
+        "placement_id": "1383",
+        "hold_role": "14",
+        "count": 7542,
+        "x": 15,
+        "y": 37
+    },
+    "1485": {
+        "hold_id": "1485",
+        "placement_id": "1389",
+        "hold_role": "14",
+        "count": 7329,
+        "x": 27,
+        "y": 37
+    },
+    "1184": {
+        "hold_id": "1184",
+        "placement_id": "1226",
+        "hold_role": "14",
+        "count": 32,
+        "x": 7,
+        "y": 19
+    },
+    "1186": {
+        "hold_id": "1186",
+        "placement_id": "1243",
+        "hold_role": "14",
+        "count": 106,
+        "x": 7,
+        "y": 21
+    },
+    "1207": {
+        "hold_id": "1207",
+        "placement_id": "1380",
+        "hold_role": "14",
+        "count": 3921,
+        "x": 9,
+        "y": 37
+    },
+    "1413": {
+        "hold_id": "1413",
+        "placement_id": "1200",
+        "hold_role": "14",
+        "count": 92,
+        "x": 23,
+        "y": 15
+    },
+    "1414": {
+        "hold_id": "1414",
+        "placement_id": "1217",
+        "hold_role": "14",
+        "count": 21,
+        "x": 23,
+        "y": 17
+    },
+    "1656": {
+        "hold_id": "1656",
+        "placement_id": "1395",
+        "hold_role": "14",
+        "count": 4523,
+        "x": 39,
+        "y": 37
+    },
+    "1200": {
+        "hold_id": "1200",
+        "placement_id": "1379",
+        "hold_role": "14",
+        "count": 4941,
+        "x": 7,
+        "y": 37
+    },
+    "1500": {
+        "hold_id": "1500",
+        "placement_id": "1288",
+        "hold_role": "14",
+        "count": 84,
+        "x": 29,
+        "y": 25
+    },
+    "1557": {
+        "hold_id": "1557",
+        "placement_id": "1290",
+        "hold_role": "14",
+        "count": 20,
+        "x": 33,
+        "y": 25
+    },
+    "1484": {
+        "hold_id": "1484",
+        "placement_id": "1372",
+        "hold_role": "14",
+        "count": 1389,
+        "x": 27,
+        "y": 35
+    },
+    "1606": {
+        "hold_id": "1606",
+        "placement_id": "1394",
+        "hold_role": "14",
+        "count": 5148,
+        "x": 37,
+        "y": 37
+    },
+    "1321": {
+        "hold_id": "1321",
+        "placement_id": "1384",
+        "hold_role": "14",
+        "count": 5745,
+        "x": 17,
+        "y": 37
+    },
+    "1511": {
+        "hold_id": "1511",
+        "placement_id": "1169",
+        "hold_role": "14",
+        "count": 28,
+        "x": 29,
+        "y": 11
+    },
+    "1584": {
+        "hold_id": "1584",
+        "placement_id": "1206",
+        "hold_role": "14",
+        "count": 44,
+        "x": 35,
+        "y": 15
+    },
+    "1549": {
+        "hold_id": "1549",
+        "placement_id": "1392",
+        "hold_role": "14",
+        "count": 6263,
+        "x": 33,
+        "y": 37
+    },
+    "1335": {
+        "hold_id": "1335",
+        "placement_id": "1214",
+        "hold_role": "14",
+        "count": 19,
+        "x": 17,
+        "y": 17
+    },
+    "1194": {
+        "hold_id": "1194",
+        "placement_id": "1311",
+        "hold_role": "14",
+        "count": 86,
+        "x": 7,
+        "y": 29
+    },
+    "1252": {
+        "hold_id": "1252",
+        "placement_id": "1313",
+        "hold_role": "14",
+        "count": 65,
+        "x": 11,
+        "y": 29
+    },
+    "1599": {
+        "hold_id": "1599",
+        "placement_id": "1393",
+        "hold_role": "14",
+        "count": 4712,
+        "x": 35,
+        "y": 37
+    },
+    "1494": {
+        "hold_id": "1494",
+        "placement_id": "1356",
+        "hold_role": "14",
+        "count": 215,
+        "x": 29,
+        "y": 33
+    },
+    "1550": {
+        "hold_id": "1550",
+        "placement_id": "1375",
+        "hold_role": "14",
+        "count": 522,
+        "x": 33,
+        "y": 35
+    },
+    "1645": {
+        "hold_id": "1645",
+        "placement_id": "1259",
+        "hold_role": "14",
+        "count": 134,
+        "x": 39,
+        "y": 21
+    },
+    "1435": {
+        "hold_id": "1435",
+        "placement_id": "1388",
+        "hold_role": "14",
+        "count": 6059,
+        "x": 25,
+        "y": 37
+    },
+    "1536": {
+        "hold_id": "1536",
+        "placement_id": "1306",
+        "hold_role": "14",
+        "count": 388,
+        "x": 31,
+        "y": 27
+    },
+    "1593": {
+        "hold_id": "1593",
+        "placement_id": "1308",
+        "hold_role": "14",
+        "count": 430,
+        "x": 35,
+        "y": 27
+    },
+    "1371": {
+        "hold_id": "1371",
+        "placement_id": "1385",
+        "hold_role": "14",
+        "count": 7716,
+        "x": 19,
+        "y": 37
+    },
+    "1597": {
+        "hold_id": "1597",
+        "placement_id": "1359",
+        "hold_role": "14",
+        "count": 612,
+        "x": 35,
+        "y": 33
+    },
+    "1608": {
+        "hold_id": "1608",
+        "placement_id": "1360",
+        "hold_role": "14",
+        "count": 59,
+        "x": 37,
+        "y": 33
+    },
+    "1492": {
+        "hold_id": "1492",
+        "placement_id": "1390",
+        "hold_role": "14",
+        "count": 6017,
+        "x": 29,
+        "y": 37
+    },
+    "1264": {
+        "hold_id": "1264",
+        "placement_id": "1382",
+        "hold_role": "14",
+        "count": 6221,
+        "x": 13,
+        "y": 37
+    },
+    "1416": {
+        "hold_id": "1416",
+        "placement_id": "1234",
+        "hold_role": "14",
+        "count": 146,
+        "x": 23,
+        "y": 19
+    },
+    "1378": {
+        "hold_id": "1378",
+        "placement_id": "1386",
+        "hold_role": "14",
+        "count": 5820,
+        "x": 21,
+        "y": 37
+    },
+    "1255": {
+        "hold_id": "1255",
+        "placement_id": "1347",
+        "hold_role": "14",
+        "count": 620,
+        "x": 11,
+        "y": 33
+    },
+    "1196": {
+        "hold_id": "1196",
+        "placement_id": "1328",
+        "hold_role": "14",
+        "count": 53,
+        "x": 7,
+        "y": 31
+    },
+    "1365": {
+        "hold_id": "1365",
+        "placement_id": "1300",
+        "hold_role": "14",
+        "count": 233,
+        "x": 19,
+        "y": 27
+    },
+    "1422": {
+        "hold_id": "1422",
+        "placement_id": "1302",
+        "hold_role": "14",
+        "count": 439,
+        "x": 23,
+        "y": 27
+    },
+    "1392": {
+        "hold_id": "1392",
+        "placement_id": "1216",
+        "hold_role": "14",
+        "count": 12,
+        "x": 21,
+        "y": 17
+    },
+    "1332": {
+        "hold_id": "1332",
+        "placement_id": "1248",
+        "hold_role": "14",
+        "count": 22,
+        "x": 17,
+        "y": 21
+    },
+    "1417": {
+        "hold_id": "1417",
+        "placement_id": "1251",
+        "hold_role": "14",
+        "count": 75,
+        "x": 23,
+        "y": 21
+    },
+    "1539": {
+        "hold_id": "1539",
+        "placement_id": "1340",
+        "hold_role": "14",
+        "count": 237,
+        "x": 31,
+        "y": 31
+    },
+    "1553": {
+        "hold_id": "1553",
+        "placement_id": "1341",
+        "hold_role": "14",
+        "count": 391,
+        "x": 33,
+        "y": 31
+    },
+    "1423": {
+        "hold_id": "1423",
+        "placement_id": "1319",
+        "hold_role": "14",
+        "count": 428,
+        "x": 23,
+        "y": 29
+    },
+    "1426": {
+        "hold_id": "1426",
+        "placement_id": "1353",
+        "hold_role": "14",
+        "count": 1954,
+        "x": 23,
+        "y": 33
+    },
+    "1329": {
+        "hold_id": "1329",
+        "placement_id": "1282",
+        "hold_role": "14",
+        "count": 57,
+        "x": 17,
+        "y": 25
+    },
+    "1266": {
+        "hold_id": "1266",
+        "placement_id": "1348",
+        "hold_role": "14",
+        "count": 132,
+        "x": 13,
+        "y": 33
+    },
+    "1323": {
+        "hold_id": "1323",
+        "placement_id": "1350",
+        "hold_role": "14",
+        "count": 226,
+        "x": 17,
+        "y": 33
+    },
+    "1257": {
+        "hold_id": "1257",
+        "placement_id": "1381",
+        "hold_role": "14",
+        "count": 3276,
+        "x": 11,
+        "y": 37
+    },
+    "1192": {
+        "hold_id": "1192",
+        "placement_id": "1294",
+        "hold_role": "14",
+        "count": 258,
+        "x": 7,
+        "y": 27
+    },
+    "1493": {
+        "hold_id": "1493",
+        "placement_id": "1373",
+        "hold_role": "14",
+        "count": 263,
+        "x": 29,
+        "y": 35
+    },
+    "1280": {
+        "hold_id": "1280",
+        "placement_id": "1195",
+        "hold_role": "14",
+        "count": 9,
+        "x": 13,
+        "y": 15
+    },
+    "1299": {
+        "hold_id": "1299",
+        "placement_id": "1196",
+        "hold_role": "14",
+        "count": 15,
+        "x": 15,
+        "y": 15
+    },
+    "1313": {
+        "hold_id": "1313",
+        "placement_id": "1366",
+        "hold_role": "14",
+        "count": 356,
+        "x": 15,
+        "y": 35
+    },
+    "1379": {
+        "hold_id": "1379",
+        "placement_id": "1369",
+        "hold_role": "14",
+        "count": 268,
+        "x": 21,
+        "y": 35
+    },
+    "1427": {
+        "hold_id": "1427",
+        "placement_id": "1370",
+        "hold_role": "14",
+        "count": 446,
+        "x": 23,
+        "y": 35
+    },
+    "1208": {
+        "hold_id": "1208",
+        "placement_id": "1363",
+        "hold_role": "14",
+        "count": 311,
+        "x": 9,
+        "y": 35
+    },
+    "1541": {
+        "hold_id": "1541",
+        "placement_id": "1374",
+        "hold_role": "14",
+        "count": 297,
+        "x": 31,
+        "y": 35
+    },
+    "1385": {
+        "hold_id": "1385",
+        "placement_id": "1301",
+        "hold_role": "14",
+        "count": 98,
+        "x": 21,
+        "y": 27
+    },
+    "1278": {
+        "hold_id": "1278",
+        "placement_id": "1212",
+        "hold_role": "14",
+        "count": 68,
+        "x": 13,
+        "y": 17
+    },
+    "1300": {
+        "hold_id": "1300",
+        "placement_id": "1213",
+        "hold_role": "14",
+        "count": 22,
+        "x": 15,
+        "y": 17
+    },
+    "1388": {
+        "hold_id": "1388",
+        "placement_id": "1267",
+        "hold_role": "14",
+        "count": 119,
+        "x": 21,
+        "y": 23
+    },
+    "1445": {
+        "hold_id": "1445",
+        "placement_id": "1269",
+        "hold_role": "14",
+        "count": 102,
+        "x": 25,
+        "y": 23
+    },
+    "1502": {
+        "hold_id": "1502",
+        "placement_id": "1271",
+        "hold_role": "14",
+        "count": 66,
+        "x": 29,
+        "y": 23
+    },
+    "1479": {
+        "hold_id": "1479",
+        "placement_id": "1304",
+        "hold_role": "14",
+        "count": 41,
+        "x": 27,
+        "y": 27
+    },
+    "1294": {
+        "hold_id": "1294",
+        "placement_id": "1145",
+        "hold_role": "14",
+        "count": 22,
+        "x": 15,
+        "y": 9
+    },
+    "1565": {
+        "hold_id": "1565",
+        "placement_id": "1205",
+        "hold_role": "14",
+        "count": 34,
+        "x": 33,
+        "y": 15
+    },
+    "1368": {
+        "hold_id": "1368",
+        "placement_id": "1334",
+        "hold_role": "14",
+        "count": 126,
+        "x": 19,
+        "y": 31
+    },
+    "1174": {
+        "hold_id": "1174",
+        "placement_id": "1141",
+        "hold_role": "14",
+        "count": 41,
+        "x": 7,
+        "y": 9
+    },
+    "1386": {
+        "hold_id": "1386",
+        "placement_id": "1284",
+        "hold_role": "14",
+        "count": 135,
+        "x": 21,
+        "y": 25
+    },
+    "1199": {
+        "hold_id": "1199",
+        "placement_id": "1362",
+        "hold_role": "14",
+        "count": 397,
+        "x": 7,
+        "y": 35
+    },
+    "1527": {
+        "hold_id": "1527",
+        "placement_id": "1204",
+        "hold_role": "14",
+        "count": 36,
+        "x": 31,
+        "y": 15
+    },
+    "1528": {
+        "hold_id": "1528",
+        "placement_id": "1221",
+        "hold_role": "14",
+        "count": 66,
+        "x": 31,
+        "y": 17
+    },
+    "1370": {
+        "hold_id": "1370",
+        "placement_id": "1368",
+        "hold_role": "14",
+        "count": 425,
+        "x": 19,
+        "y": 35
+    },
+    "1626": {
+        "hold_id": "1626",
+        "placement_id": "1156",
+        "hold_role": "14",
+        "count": 42,
+        "x": 37,
+        "y": 9
+    },
+    "1636": {
+        "hold_id": "1636",
+        "placement_id": "1157",
+        "hold_role": "14",
+        "count": 105,
+        "x": 39,
+        "y": 9
+    },
+    "1271": {
+        "hold_id": "1271",
+        "placement_id": "1297",
+        "hold_role": "14",
+        "count": 160,
+        "x": 13,
+        "y": 27
+    },
+    "1309": {
+        "hold_id": "1309",
+        "placement_id": "1315",
+        "hold_role": "14",
+        "count": 90,
+        "x": 15,
+        "y": 29
+    },
+    "1306": {
+        "hold_id": "1306",
+        "placement_id": "1281",
+        "hold_role": "14",
+        "count": 95,
+        "x": 15,
+        "y": 25
+    },
+    "1521": {
+        "hold_id": "1521",
+        "placement_id": "1136",
+        "hold_role": "14",
+        "count": 32,
+        "x": 31,
+        "y": 7
+    },
+    "1572": {
+        "hold_id": "1572",
+        "placement_id": "1120",
+        "hold_role": "14",
+        "count": 5,
+        "x": 33,
+        "y": 5
+    },
+    "1571": {
+        "hold_id": "1571",
+        "placement_id": "1137",
+        "hold_role": "14",
+        "count": 12,
+        "x": 33,
+        "y": 7
+    },
+    "1395": {
+        "hold_id": "1395",
+        "placement_id": "1182",
+        "hold_role": "14",
+        "count": 11,
+        "x": 21,
+        "y": 13
+    },
+    "1275": {
+        "hold_id": "1275",
+        "placement_id": "1246",
+        "hold_role": "14",
+        "count": 50,
+        "x": 13,
+        "y": 21
+    },
+    "1305": {
+        "hold_id": "1305",
+        "placement_id": "1264",
+        "hold_role": "14",
+        "count": 29,
+        "x": 15,
+        "y": 23
+    },
+    "1268": {
+        "hold_id": "1268",
+        "placement_id": "1331",
+        "hold_role": "14",
+        "count": 244,
+        "x": 13,
+        "y": 31
+    },
+    "1220": {
+        "hold_id": "1220",
+        "placement_id": "1227",
+        "hold_role": "14",
+        "count": 12,
+        "x": 9,
+        "y": 19
+    },
+    "1286": {
+        "hold_id": "1286",
+        "placement_id": "1127",
+        "hold_role": "14",
+        "count": 12,
+        "x": 13,
+        "y": 7
+    },
+    "1442": {
+        "hold_id": "1442",
+        "placement_id": "1303",
+        "hold_role": "14",
+        "count": 72,
+        "x": 25,
+        "y": 27
+    },
+    "1588": {
+        "hold_id": "1588",
+        "placement_id": "1257",
+        "hold_role": "14",
+        "count": 236,
+        "x": 35,
+        "y": 21
+    },
+    "1497": {
+        "hold_id": "1497",
+        "placement_id": "1322",
+        "hold_role": "14",
+        "count": 71,
+        "x": 29,
+        "y": 29
+    },
+    "1212": {
+        "hold_id": "1212",
+        "placement_id": "1312",
+        "hold_role": "14",
+        "count": 87,
+        "x": 9,
+        "y": 29
+    },
+    "1415": {
+        "hold_id": "1415",
+        "placement_id": "1532",
+        "hold_role": "14",
+        "count": 1,
+        "x": 24,
+        "y": 18
+    },
+    "1449": {
+        "hold_id": "1449",
+        "placement_id": "1218",
+        "hold_role": "14",
+        "count": 8,
+        "x": 25,
+        "y": 17
+    },
+    "1251": {
+        "hold_id": "1251",
+        "placement_id": "1296",
+        "hold_role": "14",
+        "count": 36,
+        "x": 11,
+        "y": 27
+    },
+    "1382": {
+        "hold_id": "1382",
+        "placement_id": "1335",
+        "hold_role": "14",
+        "count": 132,
+        "x": 21,
+        "y": 31
+    },
+    "1425": {
+        "hold_id": "1425",
+        "placement_id": "1336",
+        "hold_role": "14",
+        "count": 128,
+        "x": 23,
+        "y": 31
+    },
+    "1322": {
+        "hold_id": "1322",
+        "placement_id": "1367",
+        "hold_role": "14",
+        "count": 833,
+        "x": 17,
+        "y": 35
+    },
+    "1302": {
+        "hold_id": "1302",
+        "placement_id": "1230",
+        "hold_role": "14",
+        "count": 12,
+        "x": 15,
+        "y": 19
+    },
+    "1440": {
+        "hold_id": "1440",
+        "placement_id": "1320",
+        "hold_role": "14",
+        "count": 107,
+        "x": 25,
+        "y": 29
+    },
+    "1311": {
+        "hold_id": "1311",
+        "placement_id": "1332",
+        "hold_role": "14",
+        "count": 96,
+        "x": 15,
+        "y": 31
+    },
+    "1381": {
+        "hold_id": "1381",
+        "placement_id": "1595",
+        "hold_role": "14",
+        "count": 47,
+        "x": 22,
+        "y": 32
+    },
+    "1419": {
+        "hold_id": "1419",
+        "placement_id": "1268",
+        "hold_role": "14",
+        "count": 90,
+        "x": 23,
+        "y": 23
+    },
+    "1443": {
+        "hold_id": "1443",
+        "placement_id": "1286",
+        "hold_role": "14",
+        "count": 74,
+        "x": 25,
+        "y": 25
+    },
+    "1477": {
+        "hold_id": "1477",
+        "placement_id": "1287",
+        "hold_role": "14",
+        "count": 56,
+        "x": 27,
+        "y": 25
+    },
+    "1369": {
+        "hold_id": "1369",
+        "placement_id": "1351",
+        "hold_role": "14",
+        "count": 197,
+        "x": 19,
+        "y": 33
+    },
+    "1617": {
+        "hold_id": "1617",
+        "placement_id": "1258",
+        "hold_role": "14",
+        "count": 55,
+        "x": 37,
+        "y": 21
+    },
+    "1654": {
+        "hold_id": "1654",
+        "placement_id": "1361",
+        "hold_role": "14",
+        "count": 250,
+        "x": 39,
+        "y": 33
+    },
+    "1221": {
+        "hold_id": "1221",
+        "placement_id": "1210",
+        "hold_role": "14",
+        "count": 47,
+        "x": 9,
+        "y": 17
+    },
+    "1585": {
+        "hold_id": "1585",
+        "placement_id": "1223",
+        "hold_role": "14",
+        "count": 45,
+        "x": 35,
+        "y": 17
+    },
+    "1620": {
+        "hold_id": "1620",
+        "placement_id": "1224",
+        "hold_role": "14",
+        "count": 26,
+        "x": 37,
+        "y": 17
+    },
+    "1188": {
+        "hold_id": "1188",
+        "placement_id": "1260",
+        "hold_role": "14",
+        "count": 96,
+        "x": 7,
+        "y": 23
+    },
+    "1476": {
+        "hold_id": "1476",
+        "placement_id": "1270",
+        "hold_role": "14",
+        "count": 32,
+        "x": 27,
+        "y": 23
+    },
+    "1166": {
+        "hold_id": "1166",
+        "placement_id": "1464",
+        "hold_role": "14",
+        "count": 11,
+        "x": 6,
+        "y": 0
+    },
+    "1326": {
+        "hold_id": "1326",
+        "placement_id": "1316",
+        "hold_role": "14",
+        "count": 65,
+        "x": 17,
+        "y": 29
+    },
+    "1325": {
+        "hold_id": "1325",
+        "placement_id": "1333",
+        "hold_role": "14",
+        "count": 192,
+        "x": 17,
+        "y": 31
+    },
+    "1448": {
+        "hold_id": "1448",
+        "placement_id": "1235",
+        "hold_role": "14",
+        "count": 60,
+        "x": 25,
+        "y": 19
+    },
+    "1473": {
+        "hold_id": "1473",
+        "placement_id": "1236",
+        "hold_role": "14",
+        "count": 58,
+        "x": 27,
+        "y": 19
+    },
+    "1293": {
+        "hold_id": "1293",
+        "placement_id": "1128",
+        "hold_role": "14",
+        "count": 28,
+        "x": 15,
+        "y": 7
+    },
+    "1344": {
+        "hold_id": "1344",
+        "placement_id": "1112",
+        "hold_role": "14",
+        "count": 1,
+        "x": 17,
+        "y": 5
+    },
+    "1296": {
+        "hold_id": "1296",
+        "placement_id": "1162",
+        "hold_role": "14",
+        "count": 19,
+        "x": 15,
+        "y": 11
+    },
+    "1598": {
+        "hold_id": "1598",
+        "placement_id": "1376",
+        "hold_role": "14",
+        "count": 263,
+        "x": 35,
+        "y": 35
+    },
+    "1655": {
+        "hold_id": "1655",
+        "placement_id": "1378",
+        "hold_role": "14",
+        "count": 256,
+        "x": 39,
+        "y": 35
+    },
+    "1303": {
+        "hold_id": "1303",
+        "placement_id": "1247",
+        "hold_role": "14",
+        "count": 74,
+        "x": 15,
+        "y": 21
+    },
+    "1446": {
+        "hold_id": "1446",
+        "placement_id": "1252",
+        "hold_role": "14",
+        "count": 41,
+        "x": 25,
+        "y": 21
+    },
+    "1474": {
+        "hold_id": "1474",
+        "placement_id": "1253",
+        "hold_role": "14",
+        "count": 23,
+        "x": 27,
+        "y": 21
+    },
+    "1534": {
+        "hold_id": "1534",
+        "placement_id": "1289",
+        "hold_role": "14",
+        "count": 67,
+        "x": 31,
+        "y": 25
+    },
+    "1436": {
+        "hold_id": "1436",
+        "placement_id": "1371",
+        "hold_role": "14",
+        "count": 614,
+        "x": 25,
+        "y": 35
+    },
+    "1514": {
+        "hold_id": "1514",
+        "placement_id": "1135",
+        "hold_role": "14",
+        "count": 8,
+        "x": 29,
+        "y": 7
+    },
+    "1607": {
+        "hold_id": "1607",
+        "placement_id": "1377",
+        "hold_role": "14",
+        "count": 211,
+        "x": 37,
+        "y": 35
+    },
+    "1501": {
+        "hold_id": "1501",
+        "placement_id": "1561",
+        "hold_role": "14",
+        "count": 7,
+        "x": 30,
+        "y": 24
+    },
+    "1609": {
+        "hold_id": "1609",
+        "placement_id": "1599",
+        "hold_role": "14",
+        "count": 24,
+        "x": 38,
+        "y": 32
+    },
+    "1439": {
+        "hold_id": "1439",
+        "placement_id": "1337",
+        "hold_role": "14",
+        "count": 180,
+        "x": 25,
+        "y": 31
+    },
+    "1551": {
+        "hold_id": "1551",
+        "placement_id": "1358",
+        "hold_role": "14",
+        "count": 95,
+        "x": 33,
+        "y": 33
+    },
+    "1366": {
+        "hold_id": "1366",
+        "placement_id": "1317",
+        "hold_role": "14",
+        "count": 97,
+        "x": 19,
+        "y": 29
+    },
+    "1437": {
+        "hold_id": "1437",
+        "placement_id": "1354",
+        "hold_role": "14",
+        "count": 172,
+        "x": 25,
+        "y": 33
+    },
+    "1410": {
+        "hold_id": "1410",
+        "placement_id": "1166",
+        "hold_role": "14",
+        "count": 41,
+        "x": 23,
+        "y": 11
+    },
+    "1340": {
+        "hold_id": "1340",
+        "placement_id": "1163",
+        "hold_role": "14",
+        "count": 49,
+        "x": 17,
+        "y": 11
+    },
+    "1552": {
+        "hold_id": "1552",
+        "placement_id": "1598",
+        "hold_role": "14",
+        "count": 48,
+        "x": 34,
+        "y": 32
+    },
+    "1256": {
+        "hold_id": "1256",
+        "placement_id": "1364",
+        "hold_role": "14",
+        "count": 272,
+        "x": 11,
+        "y": 35
+    },
+    "1483": {
+        "hold_id": "1483",
+        "placement_id": "1355",
+        "hold_role": "14",
+        "count": 265,
+        "x": 27,
+        "y": 33
+    },
+    "1312": {
+        "hold_id": "1312",
+        "placement_id": "1349",
+        "hold_role": "14",
+        "count": 161,
+        "x": 15,
+        "y": 33
+    },
+    "1362": {
+        "hold_id": "1362",
+        "placement_id": "1266",
+        "hold_role": "14",
+        "count": 29,
+        "x": 19,
+        "y": 23
+    },
+    "1647": {
+        "hold_id": "1647",
+        "placement_id": "1276",
+        "hold_role": "14",
+        "count": 66,
+        "x": 39,
+        "y": 23
+    },
+    "1646": {
+        "hold_id": "1646",
+        "placement_id": "1554",
+        "hold_role": "14",
+        "count": 6,
+        "x": 40,
+        "y": 22
+    },
+    "1389": {
+        "hold_id": "1389",
+        "placement_id": "1250",
+        "hold_role": "14",
+        "count": 53,
+        "x": 21,
+        "y": 21
+    },
+    "1360": {
+        "hold_id": "1360",
+        "placement_id": "1249",
+        "hold_role": "14",
+        "count": 39,
+        "x": 19,
+        "y": 21
+    },
+    "1408": {
+        "hold_id": "1408",
+        "placement_id": "1149",
+        "hold_role": "14",
+        "count": 39,
+        "x": 23,
+        "y": 9
+    },
+    "1465": {
+        "hold_id": "1465",
+        "placement_id": "1151",
+        "hold_role": "14",
+        "count": 9,
+        "x": 27,
+        "y": 9
+    },
+    "1638": {
+        "hold_id": "1638",
+        "placement_id": "1174",
+        "hold_role": "14",
+        "count": 56,
+        "x": 39,
+        "y": 11
+    },
+    "1356": {
+        "hold_id": "1356",
+        "placement_id": "1198",
+        "hold_role": "14",
+        "count": 26,
+        "x": 19,
+        "y": 15
+    },
+    "1495": {
+        "hold_id": "1495",
+        "placement_id": "1597",
+        "hold_role": "14",
+        "count": 51,
+        "x": 30,
+        "y": 32
+    },
+    "1265": {
+        "hold_id": "1265",
+        "placement_id": "1365",
+        "hold_role": "14",
+        "count": 315,
+        "x": 13,
+        "y": 35
+    },
+    "1272": {
+        "hold_id": "1272",
+        "placement_id": "1280",
+        "hold_role": "14",
+        "count": 59,
+        "x": 13,
+        "y": 25
+    },
+    "1380": {
+        "hold_id": "1380",
+        "placement_id": "1352",
+        "hold_role": "14",
+        "count": 248,
+        "x": 21,
+        "y": 33
+    },
+    "1246": {
+        "hold_id": "1246",
+        "placement_id": "1245",
+        "hold_role": "14",
+        "count": 44,
+        "x": 11,
+        "y": 21
+    },
+    "1554": {
+        "hold_id": "1554",
+        "placement_id": "1324",
+        "hold_role": "14",
+        "count": 45,
+        "x": 33,
+        "y": 29
+    },
+    "1610": {
+        "hold_id": "1610",
+        "placement_id": "1343",
+        "hold_role": "14",
+        "count": 102,
+        "x": 37,
+        "y": 31
+    },
+    "1198": {
+        "hold_id": "1198",
+        "placement_id": "1345",
+        "hold_role": "14",
+        "count": 343,
+        "x": 7,
+        "y": 33
+    },
+    "1499": {
+        "hold_id": "1499",
+        "placement_id": "1305",
+        "hold_role": "14",
+        "count": 49,
+        "x": 29,
+        "y": 27
+    },
+    "1650": {
+        "hold_id": "1650",
+        "placement_id": "1310",
+        "hold_role": "14",
+        "count": 53,
+        "x": 39,
+        "y": 27
+    },
+    "1227": {
+        "hold_id": "1227",
+        "placement_id": "1142",
+        "hold_role": "14",
+        "count": 78,
+        "x": 9,
+        "y": 9
+    },
+    "1176": {
+        "hold_id": "1176",
+        "placement_id": "1158",
+        "hold_role": "14",
+        "count": 12,
+        "x": 7,
+        "y": 11
+    },
+    "1560": {
+        "hold_id": "1560",
+        "placement_id": "1256",
+        "hold_role": "14",
+        "count": 22,
+        "x": 33,
+        "y": 21
+    },
+    "1579": {
+        "hold_id": "1579",
+        "placement_id": "1155",
+        "hold_role": "14",
+        "count": 89,
+        "x": 35,
+        "y": 9
+    },
+    "1629": {
+        "hold_id": "1629",
+        "placement_id": "1122",
+        "hold_role": "14",
+        "count": 6,
+        "x": 37,
+        "y": 5
+    },
+    "1401": {
+        "hold_id": "1401",
+        "placement_id": "1114",
+        "hold_role": "14",
+        "count": 8,
+        "x": 21,
+        "y": 5
+    },
+    "1254": {
+        "hold_id": "1254",
+        "placement_id": "1330",
+        "hold_role": "14",
+        "count": 64,
+        "x": 11,
+        "y": 31
+    },
+    "1616": {
+        "hold_id": "1616",
+        "placement_id": "1275",
+        "hold_role": "14",
+        "count": 64,
+        "x": 37,
+        "y": 23
+    },
+    "1243": {
+        "hold_id": "1243",
+        "placement_id": "1211",
+        "hold_role": "14",
+        "count": 9,
+        "x": 11,
+        "y": 17
+    },
+    "1613": {
+        "hold_id": "1613",
+        "placement_id": "1309",
+        "hold_role": "14",
+        "count": 38,
+        "x": 37,
+        "y": 27
+    },
+    "1569": {
+        "hold_id": "1569",
+        "placement_id": "1154",
+        "hold_role": "14",
+        "count": 37,
+        "x": 33,
+        "y": 9
+    },
+    "1540": {
+        "hold_id": "1540",
+        "placement_id": "1357",
+        "hold_role": "14",
+        "count": 204,
+        "x": 31,
+        "y": 33
+    },
+    "1319": {
+        "hold_id": "1319",
+        "placement_id": "1418",
+        "hold_role": "14",
+        "count": 3,
+        "x": 17,
+        "y": 41
+    },
+    "1376": {
+        "hold_id": "1376",
+        "placement_id": "1420",
+        "hold_role": "14",
+        "count": 3,
+        "x": 21,
+        "y": 41
+    },
+    "1411": {
+        "hold_id": "1411",
+        "placement_id": "1183",
+        "hold_role": "14",
+        "count": 24,
+        "x": 23,
+        "y": 13
+    },
+    "1337": {
+        "hold_id": "1337",
+        "placement_id": "1197",
+        "hold_role": "14",
+        "count": 16,
+        "x": 17,
+        "y": 15
+    },
+    "1489": {
+        "hold_id": "1489",
+        "placement_id": "1441",
+        "hold_role": "14",
+        "count": 4,
+        "x": 29,
+        "y": 43
+    },
+    "1383": {
+        "hold_id": "1383",
+        "placement_id": "1318",
+        "hold_role": "14",
+        "count": 78,
+        "x": 21,
+        "y": 29
+    },
+    "1238": {
+        "hold_id": "1238",
+        "placement_id": "1493",
+        "hold_role": "14",
+        "count": 3,
+        "x": 12,
+        "y": 10
+    },
+    "1241": {
+        "hold_id": "1241",
+        "placement_id": "1511",
+        "hold_role": "14",
+        "count": 4,
+        "x": 12,
+        "y": 14
+    },
+    "1180": {
+        "hold_id": "1180",
+        "placement_id": "1192",
+        "hold_role": "14",
+        "count": 103,
+        "x": 7,
+        "y": 15
+    },
+    "1568": {
+        "hold_id": "1568",
+        "placement_id": "1171",
+        "hold_role": "14",
+        "count": 36,
+        "x": 33,
+        "y": 11
+    },
+    "1596": {
+        "hold_id": "1596",
+        "placement_id": "1342",
+        "hold_role": "14",
+        "count": 72,
+        "x": 35,
+        "y": 31
+    },
+    "1341": {
+        "hold_id": "1341",
+        "placement_id": "1146",
+        "hold_role": "14",
+        "count": 13,
+        "x": 17,
+        "y": 9
+    },
+    "1274": {
+        "hold_id": "1274",
+        "placement_id": "1263",
+        "hold_role": "14",
+        "count": 29,
+        "x": 13,
+        "y": 23
+    },
+    "1533": {
+        "hold_id": "1533",
+        "placement_id": "1272",
+        "hold_role": "14",
+        "count": 30,
+        "x": 31,
+        "y": 23
+    },
+    "1240": {
+        "hold_id": "1240",
+        "placement_id": "1177",
+        "hold_role": "14",
+        "count": 21,
+        "x": 11,
+        "y": 13
+    },
+    "1651": {
+        "hold_id": "1651",
+        "placement_id": "1327",
+        "hold_role": "14",
+        "count": 43,
+        "x": 39,
+        "y": 29
+    },
+    "1308": {
+        "hold_id": "1308",
+        "placement_id": "1298",
+        "hold_role": "14",
+        "count": 48,
+        "x": 15,
+        "y": 27
+    },
+    "1470": {
+        "hold_id": "1470",
+        "placement_id": "1202",
+        "hold_role": "14",
+        "count": 16,
+        "x": 27,
+        "y": 15
+    },
+    "1334": {
+        "hold_id": "1334",
+        "placement_id": "1231",
+        "hold_role": "14",
+        "count": 43,
+        "x": 17,
+        "y": 19
+    },
+    "1281": {
+        "hold_id": "1281",
+        "placement_id": "1178",
+        "hold_role": "14",
+        "count": 10,
+        "x": 13,
+        "y": 13
+    },
+    "1653": {
+        "hold_id": "1653",
+        "placement_id": "1344",
+        "hold_role": "14",
+        "count": 143,
+        "x": 39,
+        "y": 31
+    },
+    "1537": {
+        "hold_id": "1537",
+        "placement_id": "1323",
+        "hold_role": "14",
+        "count": 57,
+        "x": 31,
+        "y": 29
+    },
+    "1397": {
+        "hold_id": "1397",
+        "placement_id": "1165",
+        "hold_role": "14",
+        "count": 15,
+        "x": 21,
+        "y": 11
+    },
+    "1482": {
+        "hold_id": "1482",
+        "placement_id": "1338",
+        "hold_role": "14",
+        "count": 95,
+        "x": 27,
+        "y": 31
+    },
+    "1480": {
+        "hold_id": "1480",
+        "placement_id": "1321",
+        "hold_role": "14",
+        "count": 53,
+        "x": 27,
+        "y": 29
+    },
+    "1622": {
+        "hold_id": "1622",
+        "placement_id": "1207",
+        "hold_role": "14",
+        "count": 28,
+        "x": 37,
+        "y": 15
+    },
+    "1400": {
+        "hold_id": "1400",
+        "placement_id": "1131",
+        "hold_role": "14",
+        "count": 12,
+        "x": 21,
+        "y": 7
+    },
+    "1524": {
+        "hold_id": "1524",
+        "placement_id": "1170",
+        "hold_role": "14",
+        "count": 40,
+        "x": 31,
+        "y": 11
+    },
+    "1181": {
+        "hold_id": "1181",
+        "placement_id": "1519",
+        "hold_role": "14",
+        "count": 5,
+        "x": 6,
+        "y": 16
+    },
+    "1582": {
+        "hold_id": "1582",
+        "placement_id": "1189",
+        "hold_role": "14",
+        "count": 29,
+        "x": 35,
+        "y": 13
+    },
+    "1614": {
+        "hold_id": "1614",
+        "placement_id": "1292",
+        "hold_role": "14",
+        "count": 66,
+        "x": 37,
+        "y": 25
+    },
+    "1213": {
+        "hold_id": "1213",
+        "placement_id": "1574",
+        "hold_role": "14",
+        "count": 11,
+        "x": 10,
+        "y": 28
+    },
+    "1178": {
+        "hold_id": "1178",
+        "placement_id": "1175",
+        "hold_role": "14",
+        "count": 29,
+        "x": 7,
+        "y": 13
+    },
+    "1209": {
+        "hold_id": "1209",
+        "placement_id": "1346",
+        "hold_role": "14",
+        "count": 78,
+        "x": 9,
+        "y": 33
+    },
+    "1611": {
+        "hold_id": "1611",
+        "placement_id": "1326",
+        "hold_role": "14",
+        "count": 46,
+        "x": 37,
+        "y": 29
+    },
+    "1197": {
+        "hold_id": "1197",
+        "placement_id": "1591",
+        "hold_role": "14",
+        "count": 51,
+        "x": 6,
+        "y": 32
+    },
+    "1391": {
+        "hold_id": "1391",
+        "placement_id": "1233",
+        "hold_role": "14",
+        "count": 50,
+        "x": 21,
+        "y": 19
+    },
+    "1338": {
+        "hold_id": "1338",
+        "placement_id": "1180",
+        "hold_role": "14",
+        "count": 6,
+        "x": 17,
+        "y": 13
+    },
+    "1284": {
+        "hold_id": "1284",
+        "placement_id": "1144",
+        "hold_role": "14",
+        "count": 39,
+        "x": 13,
+        "y": 9
+    },
+    "1455": {
+        "hold_id": "1455",
+        "placement_id": "1150",
+        "hold_role": "14",
+        "count": 14,
+        "x": 25,
+        "y": 9
+    },
+    "1649": {
+        "hold_id": "1649",
+        "placement_id": "1572",
+        "hold_role": "14",
+        "count": 10,
+        "x": 40,
+        "y": 26
+    },
+    "1438": {
+        "hold_id": "1438",
+        "placement_id": "1596",
+        "hold_role": "14",
+        "count": 45,
+        "x": 26,
+        "y": 32
+    },
+    "1648": {
+        "hold_id": "1648",
+        "placement_id": "1293",
+        "hold_role": "14",
+        "count": 47,
+        "x": 39,
+        "y": 25
+    },
+    "1211": {
+        "hold_id": "1211",
+        "placement_id": "1329",
+        "hold_role": "14",
+        "count": 58,
+        "x": 9,
+        "y": 31
+    },
+    "1587": {
+        "hold_id": "1587",
+        "placement_id": "1240",
+        "hold_role": "14",
+        "count": 30,
+        "x": 35,
+        "y": 19
+    },
+    "1359": {
+        "hold_id": "1359",
+        "placement_id": "1232",
+        "hold_role": "14",
+        "count": 15,
+        "x": 19,
+        "y": 19
+    },
+    "1237": {
+        "hold_id": "1237",
+        "placement_id": "1143",
+        "hold_role": "14",
+        "count": 43,
+        "x": 11,
+        "y": 9
+    },
+    "1452": {
+        "hold_id": "1452",
+        "placement_id": "1184",
+        "hold_role": "14",
+        "count": 15,
+        "x": 25,
+        "y": 13
+    },
+    "1214": {
+        "hold_id": "1214",
+        "placement_id": "1295",
+        "hold_role": "14",
+        "count": 32,
+        "x": 9,
+        "y": 27
+    },
+    "1641": {
+        "hold_id": "1641",
+        "placement_id": "1208",
+        "hold_role": "14",
+        "count": 63,
+        "x": 39,
+        "y": 15
+    },
+    "1204": {
+        "hold_id": "1204",
+        "placement_id": "1431",
+        "hold_role": "14",
+        "count": 3,
+        "x": 9,
+        "y": 43
+    },
+    "1248": {
+        "hold_id": "1248",
+        "placement_id": "1262",
+        "hold_role": "14",
+        "count": 56,
+        "x": 11,
+        "y": 23
+    },
+    "1424": {
+        "hold_id": "1424",
+        "placement_id": "1586",
+        "hold_role": "14",
+        "count": 12,
+        "x": 24,
+        "y": 30
+    },
+    "1454": {
+        "hold_id": "1454",
+        "placement_id": "1167",
+        "hold_role": "14",
+        "count": 13,
+        "x": 25,
+        "y": 11
+    },
+    "1468": {
+        "hold_id": "1468",
+        "placement_id": "1185",
+        "hold_role": "14",
+        "count": 17,
+        "x": 27,
+        "y": 13
+    },
+    "1269": {
+        "hold_id": "1269",
+        "placement_id": "1314",
+        "hold_role": "14",
+        "count": 40,
+        "x": 13,
+        "y": 29
+    },
+    "1625": {
+        "hold_id": "1625",
+        "placement_id": "1173",
+        "hold_role": "14",
+        "count": 63,
+        "x": 37,
+        "y": 11
+    },
+    "1591": {
+        "hold_id": "1591",
+        "placement_id": "1291",
+        "hold_role": "14",
+        "count": 48,
+        "x": 35,
+        "y": 25
+    },
+    "1559": {
+        "hold_id": "1559",
+        "placement_id": "1273",
+        "hold_role": "14",
+        "count": 36,
+        "x": 33,
+        "y": 23
+    },
+    "1152": {
+        "hold_id": "1152",
+        "placement_id": "1082",
+        "hold_role": "14",
+        "count": 3,
+        "x": 21,
+        "y": 1
+    },
+    "1575": {
+        "hold_id": "1575",
+        "placement_id": "1104",
+        "hold_role": "14",
+        "count": 3,
+        "x": 35,
+        "y": 3
+    },
+    "1210": {
+        "hold_id": "1210",
+        "placement_id": "1592",
+        "hold_role": "14",
+        "count": 35,
+        "x": 10,
+        "y": 32
+    },
+    "1324": {
+        "hold_id": "1324",
+        "placement_id": "1594",
+        "hold_role": "14",
+        "count": 45,
+        "x": 18,
+        "y": 32
+    },
+    "1328": {
+        "hold_id": "1328",
+        "placement_id": "1299",
+        "hold_role": "14",
+        "count": 43,
+        "x": 17,
+        "y": 27
+    },
+    "1374": {
+        "hold_id": "1374",
+        "placement_id": "1436",
+        "hold_role": "14",
+        "count": 6,
+        "x": 19,
+        "y": 43
+    },
+    "1444": {
+        "hold_id": "1444",
+        "placement_id": "1560",
+        "hold_role": "14",
+        "count": 3,
+        "x": 26,
+        "y": 24
+    },
+    "1267": {
+        "hold_id": "1267",
+        "placement_id": "1593",
+        "hold_role": "14",
+        "count": 49,
+        "x": 14,
+        "y": 32
+    },
+    "1331": {
+        "hold_id": "1331",
+        "placement_id": "1265",
+        "hold_role": "14",
+        "count": 24,
+        "x": 17,
+        "y": 23
+    },
+    "1642": {
+        "hold_id": "1642",
+        "placement_id": "1225",
+        "hold_role": "14",
+        "count": 23,
+        "x": 39,
+        "y": 17
+    },
+    "1531": {
+        "hold_id": "1531",
+        "placement_id": "1255",
+        "hold_role": "14",
+        "count": 28,
+        "x": 31,
+        "y": 21
+    },
+    "1190": {
+        "hold_id": "1190",
+        "placement_id": "1277",
+        "hold_role": "14",
+        "count": 47,
+        "x": 7,
+        "y": 25
+    },
+    "1644": {
+        "hold_id": "1644",
+        "placement_id": "1242",
+        "hold_role": "14",
+        "count": 42,
+        "x": 39,
+        "y": 19
+    },
+    "1260": {
+        "hold_id": "1260",
+        "placement_id": "1432",
+        "hold_role": "14",
+        "count": 2,
+        "x": 11,
+        "y": 43
+    },
+    "1195": {
+        "hold_id": "1195",
+        "placement_id": "1582",
+        "hold_role": "14",
+        "count": 13,
+        "x": 8,
+        "y": 30
+    },
+    "1377": {
+        "hold_id": "1377",
+        "placement_id": "1403",
+        "hold_role": "14",
+        "count": 2,
+        "x": 21,
+        "y": 39
+    },
+    "1304": {
+        "hold_id": "1304",
+        "placement_id": "1548",
+        "hold_role": "14",
+        "count": 3,
+        "x": 16,
+        "y": 22
+    },
+    "1522": {
+        "hold_id": "1522",
+        "placement_id": "1153",
+        "hold_role": "14",
+        "count": 16,
+        "x": 31,
+        "y": 9
+    },
+    "1357": {
+        "hold_id": "1357",
+        "placement_id": "1215",
+        "hold_role": "14",
+        "count": 19,
+        "x": 19,
+        "y": 17
+    },
+    "1503": {
+        "hold_id": "1503",
+        "placement_id": "1254",
+        "hold_role": "14",
+        "count": 18,
+        "x": 29,
+        "y": 21
+    },
+    "1639": {
+        "hold_id": "1639",
+        "placement_id": "1191",
+        "hold_role": "14",
+        "count": 32,
+        "x": 39,
+        "y": 13
+    },
+    "1467": {
+        "hold_id": "1467",
+        "placement_id": "1168",
+        "hold_role": "14",
+        "count": 17,
+        "x": 27,
+        "y": 11
+    },
+    "1420": {
+        "hold_id": "1420",
+        "placement_id": "1285",
+        "hold_role": "14",
+        "count": 52,
+        "x": 23,
+        "y": 25
+    },
+    "1555": {
+        "hold_id": "1555",
+        "placement_id": "1580",
+        "hold_role": "14",
+        "count": 14,
+        "x": 34,
+        "y": 28
+    },
+    "1612": {
+        "hold_id": "1612",
+        "placement_id": "1581",
+        "hold_role": "14",
+        "count": 5,
+        "x": 38,
+        "y": 28
+    },
+    "1478": {
+        "hold_id": "1478",
+        "placement_id": "1569",
+        "hold_role": "14",
+        "count": 7,
+        "x": 28,
+        "y": 26
+    },
+    "1481": {
+        "hold_id": "1481",
+        "placement_id": "1587",
+        "hold_role": "14",
+        "count": 8,
+        "x": 28,
+        "y": 30
+    },
+    "1394": {
+        "hold_id": "1394",
+        "placement_id": "1199",
+        "hold_role": "14",
+        "count": 12,
+        "x": 21,
+        "y": 15
+    },
+    "1351": {
+        "hold_id": "1351",
+        "placement_id": "1147",
+        "hold_role": "14",
+        "count": 15,
+        "x": 19,
+        "y": 9
+    },
+    "1523": {
+        "hold_id": "1523",
+        "placement_id": "1498",
+        "hold_role": "14",
+        "count": 2,
+        "x": 32,
+        "y": 10
+    },
+    "1447": {
+        "hold_id": "1447",
+        "placement_id": "1542",
+        "hold_role": "14",
+        "count": 5,
+        "x": 26,
+        "y": 20
+    },
+    "1277": {
+        "hold_id": "1277",
+        "placement_id": "1229",
+        "hold_role": "14",
+        "count": 11,
+        "x": 13,
+        "y": 19
+    },
+    "1623": {
+        "hold_id": "1623",
+        "placement_id": "1190",
+        "hold_role": "14",
+        "count": 32,
+        "x": 37,
+        "y": 13
+    },
+    "1530": {
+        "hold_id": "1530",
+        "placement_id": "1238",
+        "hold_role": "14",
+        "count": 10,
+        "x": 31,
+        "y": 19
+    },
+    "1562": {
+        "hold_id": "1562",
+        "placement_id": "1239",
+        "hold_role": "14",
+        "count": 50,
+        "x": 33,
+        "y": 19
+    },
+    "1490": {
+        "hold_id": "1490",
+        "placement_id": "1424",
+        "hold_role": "14",
+        "count": 1,
+        "x": 29,
+        "y": 41
+    },
+    "1398": {
+        "hold_id": "1398",
+        "placement_id": "1148",
+        "hold_role": "14",
+        "count": 7,
+        "x": 21,
+        "y": 9
+    },
+    "1384": {
+        "hold_id": "1384",
+        "placement_id": "1577",
+        "hold_role": "14",
+        "count": 9,
+        "x": 22,
+        "y": 28
+    },
+    "1441": {
+        "hold_id": "1441",
+        "placement_id": "1578",
+        "hold_role": "14",
+        "count": 13,
+        "x": 26,
+        "y": 28
+    },
+    "1538": {
+        "hold_id": "1538",
+        "placement_id": "1588",
+        "hold_role": "14",
+        "count": 6,
+        "x": 32,
+        "y": 30
+    },
+    "1471": {
+        "hold_id": "1471",
+        "placement_id": "1219",
+        "hold_role": "14",
+        "count": 24,
+        "x": 27,
+        "y": 17
+    },
+    "1235": {
+        "hold_id": "1235",
+        "placement_id": "1475",
+        "hold_role": "14",
+        "count": 2,
+        "x": 12,
+        "y": 6
+    },
+    "1223": {
+        "hold_id": "1223",
+        "placement_id": "1193",
+        "hold_role": "14",
+        "count": 10,
+        "x": 9,
+        "y": 15
+    },
+    "1242": {
+        "hold_id": "1242",
+        "placement_id": "1194",
+        "hold_role": "14",
+        "count": 16,
+        "x": 11,
+        "y": 15
+    },
+    "1512": {
+        "hold_id": "1512",
+        "placement_id": "1152",
+        "hold_role": "14",
+        "count": 16,
+        "x": 29,
+        "y": 9
+    },
+    "1283": {
+        "hold_id": "1283",
+        "placement_id": "1161",
+        "hold_role": "14",
+        "count": 32,
+        "x": 13,
+        "y": 11
+    },
+    "1261": {
+        "hold_id": "1261",
+        "placement_id": "1433",
+        "hold_role": "14",
+        "count": 2,
+        "x": 13,
+        "y": 43
+    },
+    "1224": {
+        "hold_id": "1224",
+        "placement_id": "1176",
+        "hold_role": "14",
+        "count": 19,
+        "x": 9,
+        "y": 13
+    },
+    "1407": {
+        "hold_id": "1407",
+        "placement_id": "1132",
+        "hold_role": "14",
+        "count": 7,
+        "x": 23,
+        "y": 7
+    },
+    "1619": {
+        "hold_id": "1619",
+        "placement_id": "1241",
+        "hold_role": "14",
+        "count": 22,
+        "x": 37,
+        "y": 19
+    },
+    "1586": {
+        "hold_id": "1586",
+        "placement_id": "1535",
+        "hold_role": "14",
+        "count": 1,
+        "x": 36,
+        "y": 18
+    },
+    "1375": {
+        "hold_id": "1375",
+        "placement_id": "1437",
+        "hold_role": "14",
+        "count": 3,
+        "x": 21,
+        "y": 43
+    },
+    "1249": {
+        "hold_id": "1249",
+        "placement_id": "1279",
+        "hold_role": "14",
+        "count": 29,
+        "x": 11,
+        "y": 25
+    },
+    "1297": {
+        "hold_id": "1297",
+        "placement_id": "1179",
+        "hold_role": "14",
+        "count": 10,
+        "x": 15,
+        "y": 13
+    },
+    "1363": {
+        "hold_id": "1363",
+        "placement_id": "1283",
+        "hold_role": "14",
+        "count": 24,
+        "x": 19,
+        "y": 25
+    },
+    "1509": {
+        "hold_id": "1509",
+        "placement_id": "1186",
+        "hold_role": "14",
+        "count": 13,
+        "x": 29,
+        "y": 13
+    },
+    "1486": {
+        "hold_id": "1486",
+        "placement_id": "1406",
+        "hold_role": "14",
+        "count": 1,
+        "x": 27,
+        "y": 39
+    },
+    "1543": {
+        "hold_id": "1543",
+        "placement_id": "1408",
+        "hold_role": "14",
+        "count": 1,
+        "x": 31,
+        "y": 39
+    },
+    "1218": {
+        "hold_id": "1218",
+        "placement_id": "1244",
+        "hold_role": "14",
+        "count": 24,
+        "x": 9,
+        "y": 21
+    },
+    "1460": {
+        "hold_id": "1460",
+        "placement_id": "1099",
+        "hold_role": "14",
+        "count": 4,
+        "x": 25,
+        "y": 3
+    },
+    "1518": {
+        "hold_id": "1518",
+        "placement_id": "1102",
+        "hold_role": "14",
+        "count": 5,
+        "x": 31,
+        "y": 3
+    },
+    "1594": {
+        "hold_id": "1594",
+        "placement_id": "1325",
+        "hold_role": "14",
+        "count": 37,
+        "x": 35,
+        "y": 29
+    },
+    "1187": {
+        "hold_id": "1187",
+        "placement_id": "1546",
+        "hold_role": "14",
+        "count": 3,
+        "x": 8,
+        "y": 22
+    },
+    "1216": {
+        "hold_id": "1216",
+        "placement_id": "1556",
+        "hold_role": "14",
+        "count": 7,
+        "x": 10,
+        "y": 24
+    },
+    "1226": {
+        "hold_id": "1226",
+        "placement_id": "1159",
+        "hold_role": "14",
+        "count": 17,
+        "x": 9,
+        "y": 11
+    },
+    "1354": {
+        "hold_id": "1354",
+        "placement_id": "1181",
+        "hold_role": "14",
+        "count": 16,
+        "x": 19,
+        "y": 13
+    },
+    "1457": {
+        "hold_id": "1457",
+        "placement_id": "1133",
+        "hold_role": "14",
+        "count": 9,
+        "x": 25,
+        "y": 7
+    },
+    "1367": {
+        "hold_id": "1367",
+        "placement_id": "1585",
+        "hold_role": "14",
+        "count": 9,
+        "x": 20,
+        "y": 30
+    },
+    "1147": {
+        "hold_id": "1147",
+        "placement_id": "1454",
+        "hold_role": "14",
+        "count": 1,
+        "x": 26,
+        "y": 0
+    },
+    "1149": {
+        "hold_id": "1149",
+        "placement_id": "1455",
+        "hold_role": "14",
+        "count": 3,
+        "x": 24,
+        "y": 0
+    },
+    "1343": {
+        "hold_id": "1343",
+        "placement_id": "1129",
+        "hold_role": "14",
+        "count": 3,
+        "x": 17,
+        "y": 7
+    },
+    "1464": {
+        "hold_id": "1464",
+        "placement_id": "1134",
+        "hold_role": "14",
+        "count": 6,
+        "x": 27,
+        "y": 7
+    },
+    "1603": {
+        "hold_id": "1603",
+        "placement_id": "1445",
+        "hold_role": "14",
+        "count": 1,
+        "x": 37,
+        "y": 43
+    },
+    "1659": {
+        "hold_id": "1659",
+        "placement_id": "1446",
+        "hold_role": "14",
+        "count": 1,
+        "x": 39,
+        "y": 43
+    },
+    "1628": {
+        "hold_id": "1628",
+        "placement_id": "1139",
+        "hold_role": "14",
+        "count": 13,
+        "x": 37,
+        "y": 7
+    },
+    "1182": {
+        "hold_id": "1182",
+        "placement_id": "1209",
+        "hold_role": "14",
+        "count": 30,
+        "x": 7,
+        "y": 17
+    },
+    "1556": {
+        "hold_id": "1556",
+        "placement_id": "1307",
+        "hold_role": "14",
+        "count": 37,
+        "x": 33,
+        "y": 27
+    },
+    "1640": {
+        "hold_id": "1640",
+        "placement_id": "1518",
+        "hold_role": "14",
+        "count": 2,
+        "x": 40,
+        "y": 14
+    },
+    "1347": {
+        "hold_id": "1347",
+        "placement_id": "1096",
+        "hold_role": "14",
+        "count": 4,
+        "x": 19,
+        "y": 3
+    },
+    "1590": {
+        "hold_id": "1590",
+        "placement_id": "1274",
+        "hold_role": "14",
+        "count": 42,
+        "x": 35,
+        "y": 23
+    },
+    "1239": {
+        "hold_id": "1239",
+        "placement_id": "1160",
+        "hold_role": "14",
+        "count": 12,
+        "x": 11,
+        "y": 11
+    },
+    "1172": {
+        "hold_id": "1172",
+        "placement_id": "1124",
+        "hold_role": "14",
+        "count": 7,
+        "x": 7,
+        "y": 7
+    },
+    "1566": {
+        "hold_id": "1566",
+        "placement_id": "1188",
+        "hold_role": "14",
+        "count": 15,
+        "x": 33,
+        "y": 13
+    },
+    "1505": {
+        "hold_id": "1505",
+        "placement_id": "1237",
+        "hold_role": "14",
+        "count": 33,
+        "x": 29,
+        "y": 19
+    },
+    "1310": {
+        "hold_id": "1310",
+        "placement_id": "1584",
+        "hold_role": "14",
+        "count": 8,
+        "x": 16,
+        "y": 30
+    },
+    "1506": {
+        "hold_id": "1506",
+        "placement_id": "1220",
+        "hold_role": "14",
+        "count": 7,
+        "x": 29,
+        "y": 17
+    },
+    "1510": {
+        "hold_id": "1510",
+        "placement_id": "1507",
+        "hold_role": "14",
+        "count": 2,
+        "x": 30,
+        "y": 12
+    },
+    "1191": {
+        "hold_id": "1191",
+        "placement_id": "1564",
+        "hold_role": "14",
+        "count": 8,
+        "x": 8,
+        "y": 26
+    },
+    "1404": {
+        "hold_id": "1404",
+        "placement_id": "1098",
+        "hold_role": "14",
+        "count": 4,
+        "x": 23,
+        "y": 3
+    },
+    "1159": {
+        "hold_id": "1159",
+        "placement_id": "1460",
+        "hold_role": "14",
+        "count": 2,
+        "x": 14,
+        "y": 0
+    },
+    "1263": {
+        "hold_id": "1263",
+        "placement_id": "1399",
+        "hold_role": "14",
+        "count": 2,
+        "x": 13,
+        "y": 39
+    },
+    "1317": {
+        "hold_id": "1317",
+        "placement_id": "1434",
+        "hold_role": "14",
+        "count": 2,
+        "x": 15,
+        "y": 43
+    },
+    "1353": {
+        "hold_id": "1353",
+        "placement_id": "1164",
+        "hold_role": "14",
+        "count": 6,
+        "x": 19,
+        "y": 11
+    },
+    "1318": {
+        "hold_id": "1318",
+        "placement_id": "1435",
+        "hold_role": "14",
+        "count": 3,
+        "x": 17,
+        "y": 43
+    },
+    "1475": {
+        "hold_id": "1475",
+        "placement_id": "1551",
+        "hold_role": "14",
+        "count": 1,
+        "x": 28,
+        "y": 22
+    },
+    "1545": {
+        "hold_id": "1545",
+        "placement_id": "1442",
+        "hold_role": "14",
+        "count": 2,
+        "x": 31,
+        "y": 43
+    },
+    "1429": {
+        "hold_id": "1429",
+        "placement_id": "1404",
+        "hold_role": "14",
+        "count": 2,
+        "x": 23,
+        "y": 39
+    },
+    "1146": {
+        "hold_id": "1146",
+        "placement_id": "1079",
+        "hold_role": "14",
+        "count": 5,
+        "x": 27,
+        "y": 1
+    },
+    "1150": {
+        "hold_id": "1150",
+        "placement_id": "1081",
+        "hold_role": "14",
+        "count": 3,
+        "x": 23,
+        "y": 1
+    },
+    "1217": {
+        "hold_id": "1217",
+        "placement_id": "1261",
+        "hold_role": "14",
+        "count": 12,
+        "x": 9,
+        "y": 23
+    },
+    "1488": {
+        "hold_id": "1488",
+        "placement_id": "1440",
+        "hold_role": "14",
+        "count": 1,
+        "x": 27,
+        "y": 43
+    },
+    "1203": {
+        "hold_id": "1203",
+        "placement_id": "1430",
+        "hold_role": "14",
+        "count": 1,
+        "x": 7,
+        "y": 43
+    },
+    "1144": {
+        "hold_id": "1144",
+        "placement_id": "1078",
+        "hold_role": "14",
+        "count": 1,
+        "x": 29,
+        "y": 1
+    },
+    "1372": {
+        "hold_id": "1372",
+        "placement_id": "1402",
+        "hold_role": "14",
+        "count": 1,
+        "x": 19,
+        "y": 39
+    },
+    "1581": {
+        "hold_id": "1581",
+        "placement_id": "1172",
+        "hold_role": "14",
+        "count": 11,
+        "x": 35,
+        "y": 11
+    },
+    "1458": {
+        "hold_id": "1458",
+        "placement_id": "1116",
+        "hold_role": "14",
+        "count": 3,
+        "x": 25,
+        "y": 5
+    },
+    "1508": {
+        "hold_id": "1508",
+        "placement_id": "1203",
+        "hold_role": "14",
+        "count": 22,
+        "x": 29,
+        "y": 15
+    },
+    "1390": {
+        "hold_id": "1390",
+        "placement_id": "1541",
+        "hold_role": "14",
+        "count": 2,
+        "x": 22,
+        "y": 20
+    },
+    "1405": {
+        "hold_id": "1405",
+        "placement_id": "1115",
+        "hold_role": "14",
+        "count": 3,
+        "x": 23,
+        "y": 5
+    },
+    "1652": {
+        "hold_id": "1652",
+        "placement_id": "1590",
+        "hold_role": "14",
+        "count": 18,
+        "x": 40,
+        "y": 30
+    },
+    "1602": {
+        "hold_id": "1602",
+        "placement_id": "1444",
+        "hold_role": "14",
+        "count": 1,
+        "x": 35,
+        "y": 43
+    },
+    "1498": {
+        "hold_id": "1498",
+        "placement_id": "1579",
+        "hold_role": "14",
+        "count": 6,
+        "x": 30,
+        "y": 28
+    },
+    "1156": {
+        "hold_id": "1156",
+        "placement_id": "1084",
+        "hold_role": "14",
+        "count": 3,
+        "x": 17,
+        "y": 1
+    },
+    "1350": {
+        "hold_id": "1350",
+        "placement_id": "1130",
+        "hold_role": "14",
+        "count": 6,
+        "x": 19,
+        "y": 7
+    },
+    "1451": {
+        "hold_id": "1451",
+        "placement_id": "1201",
+        "hold_role": "14",
+        "count": 10,
+        "x": 25,
+        "y": 15
+    },
+    "1167": {
+        "hold_id": "1167",
+        "placement_id": "1089",
+        "hold_role": "14",
+        "count": 7,
+        "x": 7,
+        "y": 1
+    },
+    "1247": {
+        "hold_id": "1247",
+        "placement_id": "1547",
+        "hold_role": "14",
+        "count": 2,
+        "x": 12,
+        "y": 22
+    },
+    "1230": {
+        "hold_id": "1230",
+        "placement_id": "1108",
+        "hold_role": "14",
+        "count": 5,
+        "x": 9,
+        "y": 5
+    },
+    "1234": {
+        "hold_id": "1234",
+        "placement_id": "1109",
+        "hold_role": "14",
+        "count": 1,
+        "x": 11,
+        "y": 5
+    },
+    "1315": {
+        "hold_id": "1315",
+        "placement_id": "1400",
+        "hold_role": "14",
+        "count": 1,
+        "x": 15,
+        "y": 39
+    },
+    "1578": {
+        "hold_id": "1578",
+        "placement_id": "1138",
+        "hold_role": "14",
+        "count": 14,
+        "x": 35,
+        "y": 7
+    },
+    "1165": {
+        "hold_id": "1165",
+        "placement_id": "1463",
+        "hold_role": "14",
+        "count": 2,
+        "x": 8,
+        "y": 0
+    },
+    "1563": {
+        "hold_id": "1563",
+        "placement_id": "1222",
+        "hold_role": "14",
+        "count": 14,
+        "x": 33,
+        "y": 17
+    },
+    "1433": {
+        "hold_id": "1433",
+        "placement_id": "1422",
+        "hold_role": "14",
+        "count": 1,
+        "x": 25,
+        "y": 41
+    },
+    "1558": {
+        "hold_id": "1558",
+        "placement_id": "1562",
+        "hold_role": "14",
+        "count": 2,
+        "x": 34,
+        "y": 24
+    },
+    "1631": {
+        "hold_id": "1631",
+        "placement_id": "1105",
+        "hold_role": "14",
+        "count": 1,
+        "x": 37,
+        "y": 3
+    },
+    "1258": {
+        "hold_id": "1258",
+        "placement_id": "1398",
+        "hold_role": "14",
+        "count": 1,
+        "x": 11,
+        "y": 39
+    },
+    "1364": {
+        "hold_id": "1364",
+        "placement_id": "1567",
+        "hold_role": "14",
+        "count": 4,
+        "x": 20,
+        "y": 26
+    },
+    "1595": {
+        "hold_id": "1595",
+        "placement_id": "1589",
+        "hold_role": "14",
+        "count": 9,
+        "x": 36,
+        "y": 30
+    },
+    "1515": {
+        "hold_id": "1515",
+        "placement_id": "1118",
+        "hold_role": "14",
+        "count": 3,
+        "x": 29,
+        "y": 5
+    },
+    "1361": {
+        "hold_id": "1361",
+        "placement_id": "1549",
+        "hold_role": "14",
+        "count": 3,
+        "x": 20,
+        "y": 22
+    },
+    "1348": {
+        "hold_id": "1348",
+        "placement_id": "1113",
+        "hold_role": "14",
+        "count": 2,
+        "x": 19,
+        "y": 5
+    },
+    "1160": {
+        "hold_id": "1160",
+        "placement_id": "1086",
+        "hold_role": "14",
+        "count": 2,
+        "x": 13,
+        "y": 1
+    },
+    "1418": {
+        "hold_id": "1418",
+        "placement_id": "1550",
+        "hold_role": "14",
+        "count": 2,
+        "x": 24,
+        "y": 22
+    },
+    "1290": {
+        "hold_id": "1290",
+        "placement_id": "1094",
+        "hold_role": "14",
+        "count": 2,
+        "x": 15,
+        "y": 3
+    },
+    "1291": {
+        "hold_id": "1291",
+        "placement_id": "1111",
+        "hold_role": "14",
+        "count": 5,
+        "x": 15,
+        "y": 5
+    },
+    "1519": {
+        "hold_id": "1519",
+        "placement_id": "1119",
+        "hold_role": "14",
+        "count": 4,
+        "x": 31,
+        "y": 5
+    },
+    "1525": {
+        "hold_id": "1525",
+        "placement_id": "1187",
+        "hold_role": "14",
+        "count": 14,
+        "x": 31,
+        "y": 13
+    },
+    "1336": {
+        "hold_id": "1336",
+        "placement_id": "1522",
+        "hold_role": "14",
+        "count": 1,
+        "x": 18,
+        "y": 16
+    },
+    "1168": {
+        "hold_id": "1168",
+        "placement_id": "1090",
+        "hold_role": "14",
+        "count": 2,
+        "x": 7,
+        "y": 3
+    },
+    "1632": {
+        "hold_id": "1632",
+        "placement_id": "1106",
+        "hold_role": "14",
+        "count": 6,
+        "x": 39,
+        "y": 3
+    },
+    "1170": {
+        "hold_id": "1170",
+        "placement_id": "1107",
+        "hold_role": "14",
+        "count": 4,
+        "x": 7,
+        "y": 5
+    },
+    "1633": {
+        "hold_id": "1633",
+        "placement_id": "1123",
+        "hold_role": "14",
+        "count": 3,
+        "x": 39,
+        "y": 5
+    },
+    "1635": {
+        "hold_id": "1635",
+        "placement_id": "1140",
+        "hold_role": "14",
+        "count": 8,
+        "x": 39,
+        "y": 7
+    },
+    "1133": {
+        "hold_id": "1133",
+        "placement_id": "1447",
+        "hold_role": "14",
+        "count": 11,
+        "x": 40,
+        "y": 0
+    },
+    "1273": {
+        "hold_id": "1273",
+        "placement_id": "1557",
+        "hold_role": "14",
+        "count": 5,
+        "x": 14,
+        "y": 24
+    },
+    "1576": {
+        "hold_id": "1576",
+        "placement_id": "1121",
+        "hold_role": "14",
+        "count": 8,
+        "x": 35,
+        "y": 5
+    },
+    "1163": {
+        "hold_id": "1163",
+        "placement_id": "1462",
+        "hold_role": "14",
+        "count": 2,
+        "x": 10,
+        "y": 0
+    },
+    "1245": {
+        "hold_id": "1245",
+        "placement_id": "1228",
+        "hold_role": "14",
+        "count": 21,
+        "x": 11,
+        "y": 19
+    },
+    "1504": {
+        "hold_id": "1504",
+        "placement_id": "1543",
+        "hold_role": "14",
+        "count": 4,
+        "x": 30,
+        "y": 20
+    },
+    "1472": {
+        "hold_id": "1472",
+        "placement_id": "1533",
+        "hold_role": "14",
+        "count": 2,
+        "x": 28,
+        "y": 18
+    },
+    "1148": {
+        "hold_id": "1148",
+        "placement_id": "1080",
+        "hold_role": "14",
+        "count": 1,
+        "x": 25,
+        "y": 1
+    },
+    "1162": {
+        "hold_id": "1162",
+        "placement_id": "1087",
+        "hold_role": "14",
+        "count": 1,
+        "x": 11,
+        "y": 1
+    },
+    "1421": {
+        "hold_id": "1421",
+        "placement_id": "1568",
+        "hold_role": "14",
+        "count": 5,
+        "x": 24,
+        "y": 26
+    },
+    "1253": {
+        "hold_id": "1253",
+        "placement_id": "1583",
+        "hold_role": "14",
+        "count": 11,
+        "x": 12,
+        "y": 30
+    },
+    "1301": {
+        "hold_id": "1301",
+        "placement_id": "1530",
+        "hold_role": "14",
+        "count": 1,
+        "x": 16,
+        "y": 18
+    },
+    "1327": {
+        "hold_id": "1327",
+        "placement_id": "1576",
+        "hold_role": "14",
+        "count": 5,
+        "x": 18,
+        "y": 28
+    },
+    "1185": {
+        "hold_id": "1185",
+        "placement_id": "1537",
+        "hold_role": "14",
+        "count": 6,
+        "x": 6,
+        "y": 20
+    },
+    "1193": {
+        "hold_id": "1193",
+        "placement_id": "1573",
+        "hold_role": "14",
+        "count": 13,
+        "x": 6,
+        "y": 28
+    },
+    "1643": {
+        "hold_id": "1643",
+        "placement_id": "1536",
+        "hold_role": "14",
+        "count": 6,
+        "x": 40,
+        "y": 18
+    },
+    "4299": {
+        "hold_id": "4299",
+        "placement_id": "4718",
+        "hold_role": "14",
+        "count": 87,
+        "x": 3,
+        "y": 37
+    },
+    "1287": {
+        "hold_id": "1287",
+        "placement_id": "1110",
+        "hold_role": "14",
+        "count": 4,
+        "x": 13,
+        "y": 5
+    },
+    "4318": {
+        "hold_id": "4318",
+        "placement_id": "4737",
+        "hold_role": "14",
+        "count": 114,
+        "x": 1,
+        "y": 37
+    },
+    "1236": {
+        "hold_id": "1236",
+        "placement_id": "1126",
+        "hold_role": "14",
+        "count": 6,
+        "x": 11,
+        "y": 7
+    },
+    "1520": {
+        "hold_id": "1520",
+        "placement_id": "1480",
+        "hold_role": "14",
+        "count": 1,
+        "x": 32,
+        "y": 6
+    },
+    "1570": {
+        "hold_id": "1570",
+        "placement_id": "1490",
+        "hold_role": "14",
+        "count": 1,
+        "x": 34,
+        "y": 8
+    },
+    "1135": {
+        "hold_id": "1135",
+        "placement_id": "1448",
+        "hold_role": "14",
+        "count": 3,
+        "x": 38,
+        "y": 0
+    },
+    "1289": {
+        "hold_id": "1289",
+        "placement_id": "1093",
+        "hold_role": "14",
+        "count": 2,
+        "x": 13,
+        "y": 3
+    },
+    "1393": {
+        "hold_id": "1393",
+        "placement_id": "1523",
+        "hold_role": "14",
+        "count": 1,
+        "x": 22,
+        "y": 16
+    },
+    "1574": {
+        "hold_id": "1574",
+        "placement_id": "1103",
+        "hold_role": "14",
+        "count": 3,
+        "x": 33,
+        "y": 3
+    },
+    "1298": {
+        "hold_id": "1298",
+        "placement_id": "1512",
+        "hold_role": "14",
+        "count": 3,
+        "x": 16,
+        "y": 14
+    },
+    "1177": {
+        "hold_id": "1177",
+        "placement_id": "1501",
+        "hold_role": "14",
+        "count": 5,
+        "x": 6,
+        "y": 12
+    },
+    "1134": {
+        "hold_id": "1134",
+        "placement_id": "1073",
+        "hold_role": "14",
+        "count": 3,
+        "x": 39,
+        "y": 1
+    },
+    "4280": {
+        "hold_id": "4280",
+        "placement_id": "4699",
+        "hold_role": "14",
+        "count": 81,
+        "x": 5,
+        "y": 37
+    },
+    "4375": {
+        "hold_id": "4375",
+        "placement_id": "4794",
+        "hold_role": "14",
+        "count": 127,
+        "x": 45,
+        "y": 37
+    },
+    "1232": {
+        "hold_id": "1232",
+        "placement_id": "1091",
+        "hold_role": "14",
+        "count": 2,
+        "x": 9,
+        "y": 3
+    },
+    "1624": {
+        "hold_id": "1624",
+        "placement_id": "1509",
+        "hold_role": "14",
+        "count": 2,
+        "x": 38,
+        "y": 12
+    },
+    "1618": {
+        "hold_id": "1618",
+        "placement_id": "1545",
+        "hold_role": "14",
+        "count": 2,
+        "x": 38,
+        "y": 20
+    },
+    "1387": {
+        "hold_id": "1387",
+        "placement_id": "1559",
+        "hold_role": "14",
+        "count": 5,
+        "x": 22,
+        "y": 24
+    },
+    "1229": {
+        "hold_id": "1229",
+        "placement_id": "1125",
+        "hold_role": "14",
+        "count": 6,
+        "x": 9,
+        "y": 7
+    },
+    "4425": {
+        "hold_id": "4425",
+        "placement_id": "4844",
+        "hold_role": "14",
+        "count": 1,
+        "x": 42,
+        "y": 32
+    },
+    "1270": {
+        "hold_id": "1270",
+        "placement_id": "1575",
+        "hold_role": "14",
+        "count": 6,
+        "x": 14,
+        "y": 28
+    },
+    "1307": {
+        "hold_id": "1307",
+        "placement_id": "1566",
+        "hold_role": "14",
+        "count": 4,
+        "x": 16,
+        "y": 26
+    },
+    "1412": {
+        "hold_id": "1412",
+        "placement_id": "1514",
+        "hold_role": "14",
+        "count": 1,
+        "x": 24,
+        "y": 14
+    },
+    "1189": {
+        "hold_id": "1189",
+        "placement_id": "1555",
+        "hold_role": "14",
+        "count": 5,
+        "x": 6,
+        "y": 24
+    },
+    "1402": {
+        "hold_id": "1402",
+        "placement_id": "1469",
+        "hold_role": "14",
+        "count": 1,
+        "x": 22,
+        "y": 4
+    },
+    "1250": {
+        "hold_id": "1250",
+        "placement_id": "1565",
+        "hold_role": "14",
+        "count": 4,
+        "x": 12,
+        "y": 26
+    },
+    "1282": {
+        "hold_id": "1282",
+        "placement_id": "1503",
+        "hold_role": "14",
+        "count": 1,
+        "x": 14,
+        "y": 12
+    },
+    "4337": {
+        "hold_id": "4337",
+        "placement_id": "4756",
+        "hold_role": "14",
+        "count": 79,
+        "x": 41,
+        "y": 37
+    },
+    "1175": {
+        "hold_id": "1175",
+        "placement_id": "1492",
+        "hold_role": "14",
+        "count": 2,
+        "x": 8,
+        "y": 10
+    },
+    "4356": {
+        "hold_id": "4356",
+        "placement_id": "4775",
+        "hold_role": "14",
+        "count": 85,
+        "x": 43,
+        "y": 37
+    },
+    "1151": {
+        "hold_id": "1151",
+        "placement_id": "1456",
+        "hold_role": "14",
+        "count": 1,
+        "x": 22,
+        "y": 0
+    },
+    "1295": {
+        "hold_id": "1295",
+        "placement_id": "1494",
+        "hold_role": "14",
+        "count": 4,
+        "x": 16,
+        "y": 10
+    },
+    "4371": {
+        "hold_id": "4371",
+        "placement_id": "4790",
+        "hold_role": "14",
+        "count": 5,
+        "x": 45,
+        "y": 29
+    },
+    "4403": {
+        "hold_id": "4403",
+        "placement_id": "4822",
+        "hold_role": "14",
+        "count": 1,
+        "x": 2,
+        "y": 32
+    },
+    "4426": {
+        "hold_id": "4426",
+        "placement_id": "4845",
+        "hold_role": "14",
+        "count": 1,
+        "x": 46,
+        "y": 32
+    },
+    "4278": {
+        "hold_id": "4278",
+        "placement_id": "4697",
+        "hold_role": "14",
+        "count": 12,
+        "x": 5,
+        "y": 33
+    },
+    "4298": {
+        "hold_id": "4298",
+        "placement_id": "4717",
+        "hold_role": "14",
+        "count": 2,
+        "x": 3,
+        "y": 35
+    },
+    "4348": {
+        "hold_id": "4348",
+        "placement_id": "4767",
+        "hold_role": "14",
+        "count": 3,
+        "x": 43,
+        "y": 21
+    },
+    "4317": {
+        "hold_id": "4317",
+        "placement_id": "4736",
+        "hold_role": "14",
+        "count": 5,
+        "x": 1,
+        "y": 35
+    },
+    "4268": {
+        "hold_id": "4268",
+        "placement_id": "4687",
+        "hold_role": "14",
+        "count": 2,
+        "x": 5,
+        "y": 13
+    },
+    "4287": {
+        "hold_id": "4287",
+        "placement_id": "4706",
+        "hold_role": "14",
+        "count": 1,
+        "x": 3,
+        "y": 13
+    },
+    "4279": {
+        "hold_id": "4279",
+        "placement_id": "4698",
+        "hold_role": "14",
+        "count": 3,
+        "x": 5,
+        "y": 35
+    },
+    "1143": {
+        "hold_id": "1143",
+        "placement_id": "1452",
+        "hold_role": "14",
+        "count": 1,
+        "x": 30,
+        "y": 0
+    },
+    "1561": {
+        "hold_id": "1561",
+        "placement_id": "1544",
+        "hold_role": "14",
+        "count": 5,
+        "x": 34,
+        "y": 20
+    },
+    "4286": {
+        "hold_id": "4286",
+        "placement_id": "4705",
+        "hold_role": "14",
+        "count": 1,
+        "x": 3,
+        "y": 11
+    },
+    "4305": {
+        "hold_id": "4305",
+        "placement_id": "4724",
+        "hold_role": "14",
+        "count": 3,
+        "x": 1,
+        "y": 11
+    },
+    "1513": {
+        "hold_id": "1513",
+        "placement_id": "1489",
+        "hold_role": "14",
+        "count": 2,
+        "x": 30,
+        "y": 8
+    },
+    "1487": {
+        "hold_id": "1487",
+        "placement_id": "1423",
+        "hold_role": "14",
+        "count": 1,
+        "x": 27,
+        "y": 41
+    },
+    "4334": {
+        "hold_id": "4334",
+        "placement_id": "4753",
+        "hold_role": "14",
+        "count": 3,
+        "x": 41,
+        "y": 31
+    },
+    "4316": {
+        "hold_id": "4316",
+        "placement_id": "4735",
+        "hold_role": "14",
+        "count": 2,
+        "x": 1,
+        "y": 33
+    },
+    "4336": {
+        "hold_id": "4336",
+        "placement_id": "4755",
+        "hold_role": "14",
+        "count": 6,
+        "x": 41,
+        "y": 35
+    },
+    "1154": {
+        "hold_id": "1154",
+        "placement_id": "1083",
+        "hold_role": "14",
+        "count": 1,
+        "x": 19,
+        "y": 1
+    },
+    "1434": {
+        "hold_id": "1434",
+        "placement_id": "1405",
+        "hold_role": "14",
+        "count": 1,
+        "x": 25,
+        "y": 39
+    },
+    "1233": {
+        "hold_id": "1233",
+        "placement_id": "1092",
+        "hold_role": "14",
+        "count": 2,
+        "x": 11,
+        "y": 3
+    },
+    "1179": {
+        "hold_id": "1179",
+        "placement_id": "1510",
+        "hold_role": "14",
+        "count": 2,
+        "x": 8,
+        "y": 14
+    },
+    "1137": {
+        "hold_id": "1137",
+        "placement_id": "1449",
+        "hold_role": "14",
+        "count": 2,
+        "x": 36,
+        "y": 0
+    },
+    "1589": {
+        "hold_id": "1589",
+        "placement_id": "1553",
+        "hold_role": "14",
+        "count": 5,
+        "x": 36,
+        "y": 22
+    },
+    "1161": {
+        "hold_id": "1161",
+        "placement_id": "1461",
+        "hold_role": "14",
+        "count": 1,
+        "x": 12,
+        "y": 0
+    },
+    "1657": {
+        "hold_id": "1657",
+        "placement_id": "1412",
+        "hold_role": "14",
+        "count": 1,
+        "x": 39,
+        "y": 39
+    },
+    "1136": {
+        "hold_id": "1136",
+        "placement_id": "1074",
+        "hold_role": "14",
+        "count": 1,
+        "x": 37,
+        "y": 1
+    },
+    "1532": {
+        "hold_id": "1532",
+        "placement_id": "1552",
+        "hold_role": "14",
+        "count": 2,
+        "x": 32,
+        "y": 22
+    },
+    "1535": {
+        "hold_id": "1535",
+        "placement_id": "1570",
+        "hold_role": "14",
+        "count": 3,
+        "x": 32,
+        "y": 26
+    },
+    "4335": {
+        "hold_id": "4335",
+        "placement_id": "4754",
+        "hold_role": "14",
+        "count": 3,
+        "x": 41,
+        "y": 33
+    },
+    "1621": {
+        "hold_id": "1621",
+        "placement_id": "1527",
+        "hold_role": "14",
+        "count": 2,
+        "x": 38,
+        "y": 16
+    },
+    "4355": {
+        "hold_id": "4355",
+        "placement_id": "4774",
+        "hold_role": "14",
+        "count": 3,
+        "x": 43,
+        "y": 35
+    },
+    "1219": {
+        "hold_id": "1219",
+        "placement_id": "1538",
+        "hold_role": "14",
+        "count": 2,
+        "x": 10,
+        "y": 20
+    },
+    "4366": {
+        "hold_id": "4366",
+        "placement_id": "4785",
+        "hold_role": "14",
+        "count": 1,
+        "x": 45,
+        "y": 19
+    },
+    "4274": {
+        "hold_id": "4274",
+        "placement_id": "4693",
+        "hold_role": "14",
+        "count": 1,
+        "x": 5,
+        "y": 25
+    },
+    "1358": {
+        "hold_id": "1358",
+        "placement_id": "1531",
+        "hold_role": "14",
+        "count": 1,
+        "x": 20,
+        "y": 18
+    },
+    "4297": {
+        "hold_id": "4297",
+        "placement_id": "4716",
+        "hold_role": "14",
+        "count": 1,
+        "x": 3,
+        "y": 33
+    },
+    "1157": {
+        "hold_id": "1157",
+        "placement_id": "1459",
+        "hold_role": "14",
+        "count": 2,
+        "x": 16,
+        "y": 0
+    },
+    "1450": {
+        "hold_id": "1450",
+        "placement_id": "1524",
+        "hold_role": "14",
+        "count": 1,
+        "x": 26,
+        "y": 16
+    },
+    "1592": {
+        "hold_id": "1592",
+        "placement_id": "1571",
+        "hold_role": "14",
+        "count": 1,
+        "x": 36,
+        "y": 26
+    },
+    "4361": {
+        "hold_id": "4361",
+        "placement_id": "4780",
+        "hold_role": "14",
+        "count": 2,
+        "x": 45,
+        "y": 9
+    },
+    "4325": {
+        "hold_id": "4325",
+        "placement_id": "4744",
+        "hold_role": "14",
+        "count": 1,
+        "x": 41,
+        "y": 13
+    },
+    "1171": {
+        "hold_id": "1171",
+        "placement_id": "1474",
+        "hold_role": "14",
+        "count": 1,
+        "x": 8,
+        "y": 6
+    },
+    "4333": {
+        "hold_id": "4333",
+        "placement_id": "4752",
+        "hold_role": "14",
+        "count": 2,
+        "x": 41,
+        "y": 29
+    },
+    "4373": {
+        "hold_id": "4373",
+        "placement_id": "4792",
+        "hold_role": "14",
+        "count": 5,
+        "x": 45,
+        "y": 33
+    },
+    "4307": {
+        "hold_id": "4307",
+        "placement_id": "4726",
+        "hold_role": "14",
+        "count": 2,
+        "x": 1,
+        "y": 15
+    },
+    "4354": {
+        "hold_id": "4354",
+        "placement_id": "4773",
+        "hold_role": "14",
+        "count": 2,
+        "x": 43,
+        "y": 33
+    },
+    "1276": {
+        "hold_id": "1276",
+        "placement_id": "1539",
+        "hold_role": "14",
+        "count": 1,
+        "x": 14,
+        "y": 20
+    },
+    "1573": {
+        "hold_id": "1573",
+        "placement_id": "1472",
+        "hold_role": "14",
+        "count": 1,
+        "x": 34,
+        "y": 4
+    },
+    "1634": {
+        "hold_id": "1634",
+        "placement_id": "1482",
+        "hold_role": "14",
+        "count": 2,
+        "x": 40,
+        "y": 6
+    },
+    "1396": {
+        "hold_id": "1396",
+        "placement_id": "1505",
+        "hold_role": "14",
+        "count": 1,
+        "x": 22,
+        "y": 12
+    },
+    "1615": {
+        "hold_id": "1615",
+        "placement_id": "1563",
+        "hold_role": "14",
+        "count": 1,
+        "x": 38,
+        "y": 24
+    },
+    "1637": {
+        "hold_id": "1637",
+        "placement_id": "1500",
+        "hold_role": "14",
+        "count": 1,
+        "x": 40,
+        "y": 10
+    },
+    "4314": {
+        "hold_id": "4314",
+        "placement_id": "4733",
+        "hold_role": "14",
+        "count": 1,
+        "x": 1,
+        "y": 29
+    },
+    "4328": {
+        "hold_id": "4328",
+        "placement_id": "4747",
+        "hold_role": "14",
+        "count": 1,
+        "x": 41,
+        "y": 19
+    },
+    "4374": {
+        "hold_id": "4374",
+        "placement_id": "4793",
+        "hold_role": "14",
+        "count": 2,
+        "x": 45,
+        "y": 35
+    },
+    "4276": {
+        "hold_id": "4276",
+        "placement_id": "4695",
+        "hold_role": "14",
+        "count": 1,
+        "x": 5,
+        "y": 29
+    },
+    "4362": {
+        "hold_id": "4362",
+        "placement_id": "4781",
+        "hold_role": "14",
+        "count": 2,
+        "x": 45,
+        "y": 11
+    },
+    "4345": {
+        "hold_id": "4345",
+        "placement_id": "4764",
+        "hold_role": "14",
+        "count": 2,
+        "x": 43,
+        "y": 15
+    },
+    "4352": {
+        "hold_id": "4352",
+        "placement_id": "4771",
+        "hold_role": "14",
+        "count": 1,
+        "x": 43,
+        "y": 29
+    },
+    "4331": {
+        "hold_id": "4331",
+        "placement_id": "4750",
+        "hold_role": "14",
+        "count": 1,
+        "x": 41,
+        "y": 25
+    },
+    "4369": {
+        "hold_id": "4369",
+        "placement_id": "4788",
+        "hold_role": "14",
+        "count": 2,
+        "x": 45,
+        "y": 25
+    },
+    "1580": {
+        "hold_id": "1580",
+        "placement_id": "1499",
+        "hold_role": "14",
+        "count": 1,
+        "x": 36,
+        "y": 10
+    },
+    "1469": {
+        "hold_id": "1469",
+        "placement_id": "1515",
+        "hold_role": "14",
+        "count": 1,
+        "x": 28,
+        "y": 14
+    },
+    "4277": {
+        "hold_id": "4277",
+        "placement_id": "4696",
+        "hold_role": "14",
+        "count": 1,
+        "x": 5,
+        "y": 31
+    },
+    "1564": {
+        "hold_id": "1564",
+        "placement_id": "1526",
+        "hold_role": "14",
+        "count": 2,
+        "x": 34,
+        "y": 16
+    },
+    "1333": {
+        "hold_id": "1333",
+        "placement_id": "1540",
+        "hold_role": "14",
+        "count": 1,
+        "x": 18,
+        "y": 20
+    },
+    "4326": {
+        "hold_id": "4326",
+        "placement_id": "4745",
+        "hold_role": "14",
+        "count": 1,
+        "x": 41,
+        "y": 15
+    },
+    "1169": {
+        "hold_id": "1169",
+        "placement_id": "1465",
+        "hold_role": "14",
+        "count": 1,
+        "x": 6,
+        "y": 4
+    },
+    "4293": {
+        "hold_id": "4293",
+        "placement_id": "4712",
+        "hold_role": "14",
+        "count": 1,
+        "x": 3,
+        "y": 25
+    },
+    "4367": {
+        "hold_id": "4367",
+        "placement_id": "4786",
+        "hold_role": "14",
+        "count": 1,
+        "x": 45,
+        "y": 21
+    },
+    "1453": {
+        "hold_id": "1453",
+        "placement_id": "1506",
+        "hold_role": "14",
+        "count": 1,
+        "x": 26,
+        "y": 12
+    },
+    "1288": {
+        "hold_id": "1288",
+        "placement_id": "1467",
+        "hold_role": "14",
+        "count": 1,
+        "x": 14,
+        "y": 4
+    },
+    "1225": {
+        "hold_id": "1225",
+        "placement_id": "1502",
+        "hold_role": "14",
+        "count": 1,
+        "x": 10,
+        "y": 12
+    },
+    "4273": {
+        "hold_id": "4273",
+        "placement_id": "4692",
+        "hold_role": "14",
+        "count": 1,
+        "x": 5,
+        "y": 23
+    },
+    "4292": {
+        "hold_id": "4292",
+        "placement_id": "4711",
+        "hold_role": "14",
+        "count": 1,
+        "x": 3,
+        "y": 23
+    },
+    "4343": {
+        "hold_id": "4343",
+        "placement_id": "4762",
+        "hold_role": "14",
+        "count": 1,
+        "x": 43,
+        "y": 11
+    },
+    "1330": {
+        "hold_id": "1330",
+        "placement_id": "1558",
+        "hold_role": "14",
+        "count": 1,
+        "x": 18,
+        "y": 24
+    },
+    "4350": {
+        "hold_id": "4350",
+        "placement_id": "4769",
+        "hold_role": "14",
+        "count": 1,
+        "x": 43,
+        "y": 25
+    },
+    "1658": {
+        "hold_id": "1658",
+        "placement_id": "1429",
+        "hold_role": "14",
+        "count": 1,
+        "x": 39,
+        "y": 41
+    }
+}
