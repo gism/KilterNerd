@@ -3,6 +3,8 @@ import glob
 import os
 import sys
 import sqlite3
+from pathlib import Path
+
 
 # Some needed packages
 import numpy as np
@@ -10,6 +12,7 @@ import matplotlib.pyplot as plt
 import matplotlib.ticker as mpl_tck
 from scipy import sparse
 from scipy.ndimage import gaussian_filter
+import matplotlib.dates as md
 
 # add alpha (transparency) to a colormap
 import matplotlib.cm
@@ -33,7 +36,17 @@ ROLE_FOOT = 15
 HEAT_MAP_X = 47
 HEAT_MAP_Y = 38
 
+IMAGE_SAVE_DPI = 60
+GAUSSIAN_FILTER_SIGMA = 2
+
 DISPLAY_IMAGES = False
+
+grade_labels = ['4a/V0', '4b/V0', '4c/V0', '5a/V1', '5b/V1', '5c/V2', '6a/V3', '6a+/V3',
+                '6b/V4', '6b+/V4', '6c/V5', '6c+/V5', '7a/V6', '7a+/V7', '7b/V8', '7b+/V8',
+                '7c/V9', '7c+/V10', '8a/V11', '8a+/V12', '8b/V13', '8b+/V14', '8c/V15', '8c+/V16']
+
+angle_labels = ['0°', '5°', '10°', '15°', '20°', '25°', '30°', '35°', '40°', '45°', '50°', '55°', '60°', '65°',
+                '70°']
 
 
 def get_latest_db():
@@ -331,6 +344,90 @@ def generate_text_analysis(database_file):
             transparent=True,
             bbox_inches='tight'
         )
+
+    except sqlite3.Error as error:
+        print("Error while connecting to sqlite", error)
+    finally:
+        if sqlite_connection:
+            sqlite_connection.close()
+            print("The SQLite connection is closed")
+
+
+def generate_growth_summary(database_file):
+    try:
+        sqlite_connection = sqlite3.connect(database_file)
+        cursor = sqlite_connection.cursor()
+
+        # GET relevant BOULDER lines + ROUTES lines from DDBB:
+        sql_query = 'SELECT layout_id, created_at FROM climbs WHERE layout_id = 1 OR layout_id = 8 ORDER BY created_at ASC;'
+        cursor.execute(sql_query)
+        boulder_layout_1 = cursor.fetchall()
+
+        date_data = []
+        layout_1 = []
+        layout_8 = []
+        layout_all = []
+        for board_layout, date in boulder_layout_1:
+            if board_layout == 1 or board_layout == 8:
+                day = date.split(' ')[0]
+
+                if len(date_data) == 0:
+                    date_data.append(day)
+                    if board_layout == 1:
+                        layout_1.append(1)
+                        layout_8.append(0)
+                        layout_all.append(1)
+                    else:
+                        layout_1.append(0)
+                        layout_8.append(1)
+                        layout_all.append(1)
+                else:
+                    if day > date_data[-1]:
+                        date_data.append(day)
+                        if board_layout == 1:
+                            layout_1.append(layout_1[-1] + 1)
+                            layout_8.append(layout_8[-1])
+                        else:
+                            layout_1.append(layout_1[-1])
+                            layout_8.append(layout_8[-1] + 1)
+                        layout_all.append(layout_all[-1] + 1)
+                    else:
+                        if board_layout == 1:
+                            layout_1[-1] = layout_1[-1] + 1
+                        else:
+                            layout_8[-1] = layout_8[-1] + 1
+                        layout_all[-1] = layout_all[-1] + 1
+
+        fig, (ax1, ax2) = plt.subplots(2, 1)
+
+        ax1.set_title('Kilter Board Original - Boulder Number Growth')
+        ax2.set_title('Kilter Board Homewall - Boulder Number Growth')
+
+        date_data = pd.to_datetime(date_data)
+        df_layout_1 = pd.DataFrame()
+        df_layout_1['Kilter Board Original'] = layout_1
+        df_layout_1 = df_layout_1.set_index(date_data)
+
+        df_layout_8 = pd.DataFrame()
+        df_layout_8['Kilter Board Homewall'] = layout_8
+        df_layout_8 = df_layout_8.set_index(date_data)
+
+        ax1 = df_layout_1.plot(figsize=(10, 10), ax=ax1, color='blueviolet')
+        df_layout_8.plot(figsize=(10, 10), ax=ax2, color='blueviolet')
+        plt.xticks(fontsize=10)
+
+        for ax in (ax1, ax2):
+            ax.xaxis.set_major_locator(md.MonthLocator(bymonth=range(1, 13, 6)))
+            ax.xaxis.set_major_formatter(md.DateFormatter('%b\n%Y'))
+            ax.xaxis.set_minor_locator(md.MonthLocator())
+            plt.setp(ax.xaxis.get_majorticklabels(), rotation=0)
+
+        plt.subplots_adjust(top=0.96, bottom=0.057, right=0.988, left=0.08, hspace=0.283)
+
+        plt.savefig('output/kilter_board_growth.png')
+        if DISPLAY_IMAGES:
+            plt.show()
+        plt.show()
 
     except sqlite3.Error as error:
         print("Error while connecting to sqlite", error)
@@ -711,9 +808,18 @@ def generate_board_heatmap(data_array, title, file):
     plt.xlabel('Board row', fontsize=15)  # x-axis label with fontsize 15
     plt.ylabel('Board column', fontsize=15)  # y-axis label with fontsize 15
 
-    plt.savefig(file, dpi=300)
+    p = Path(file)
+    folder = p.parent
+    folder.mkdir(parents=True, exist_ok=True)
+
+    plt.savefig(file, dpi=IMAGE_SAVE_DPI)
     if DISPLAY_IMAGES:
         plt.show()
+
+    plt.cla()
+    plt.clf()
+    plt.close()
+    plt.close('all')
 
 
 def generate_heatmap(data_array, y_axis_labels, x_axis_labels, title, file):
@@ -792,16 +898,6 @@ def generate_boulder_analysis(database_file):
         sql_query = 'SELECT climb_uuid, angle, display_difficulty, ascensionist_count FROM climb_stats;'
         cursor.execute(sql_query)
         climb_stats = cursor.fetchall()
-
-        grade_labels = ['4a/V0 or 5b/5.9', '4b/V0 or 5c/5.10a', '4c/V0 or 6a/5.10b', '5a/V1 or 6a+/5.10c',
-                        '5b/V1 or 6b/5.10d', '5c/V2 or 6b+/5.11a', '6a/V3 or 6c/5.11b', '6a+/V3 or 6c+/5.11c',
-                        '6b/V4 or 7a/5.11d', '6b+/V4 or 7a+/5.12a', '6c/V5 or 7b/5.12b', '6c+/V5 or 7b+/5.12c',
-                        '7a/V6 or 7c/5.12d', '7a+/V7 or 7c+/5.13a', '7b/V8 or 8a/5.13b', '7b+/V8 or 8a+/5.13c',
-                        '7c/V9 or 8b/5.13d', '7c+/V10 or 8b+/5.14a', '8a/V11 or 8c/5.14b', '8a+/V12 or 8c+/5.14c',
-                        '8b/V13 or 9a/5.14d', '8b+/V14 or 9a+/5.15a', '8c/V15 or 9b/5.15b', '8c+/V16 or 9b+/5.15c']
-
-        angle_labels = ['0°', '5°', '10°', '15°', '20°', '25°', '30°', '35°', '40°', '45°', '50°', '55°', '60°', '65°',
-                        '70°']
 
         number_boulders_vs_grade_bar_chart_data = np.zeros(shape=24)
         number_ascents_vs_grade_bar_chart_data = np.zeros(shape=24)
@@ -1284,6 +1380,245 @@ def generate_boulder_analysis(database_file):
             sqlite_connection.close()
             print("The SQLite connection is closed")
 
+def generate_boulder_analysis_2d(database_file):
+    try:
+        sqlite_connection = sqlite3.connect(database_file)
+        cursor = sqlite_connection.cursor()
+
+        # GET relevant BOULDER lines + ROUTES lines from DDBB:
+        sql_query = 'SELECT uuid, frames FROM climbs WHERE layout_id = 1 AND is_listed = 1;'
+        cursor.execute(sql_query)
+        boulder_layout_1 = cursor.fetchall()
+
+        relevant_boulders = {}
+        for boulder_id, holds in boulder_layout_1:
+            relevant_boulders[boulder_id] = holds
+
+        sql_query = 'SELECT climb_uuid, angle, display_difficulty, ascensionist_count FROM climb_stats;'
+        cursor.execute(sql_query)
+        climb_stats = cursor.fetchall()
+
+        number_grades = len(grade_labels)
+        number_angles = len(angle_labels)
+        boulder_id_array = []
+        for x in range(number_grades):
+            grade_array = []
+            for y in range(number_angles):
+                grade_array.append([])
+            boulder_id_array.append(grade_array)
+
+        number_boulders_array = np.zeros(shape=(number_grades, number_angles))
+        boulder_ascents_array = np.zeros(shape=(number_grades, number_angles))
+
+        total_boulders = 0
+        total_ascents = 0
+        # Build hold dictionary with Hold ID, Hold X and Hold Y
+        for climb_id, angle, difficulty, ascents in climb_stats:
+
+            # Let's add information only if this is relevant boulder (layout 1)
+            if climb_id in relevant_boulders:
+                grade_index = int(difficulty) - 10
+                angle_index = int(angle / 5)
+
+                number_boulders_array[grade_index][angle_index] = number_boulders_array[grade_index][angle_index] + 1
+                boulder_ascents_array[grade_index][angle_index] = boulder_ascents_array[grade_index][angle_index] + ascents
+
+                boulder_id_array[grade_index][angle_index].append(climb_id)
+        climb_stats = None
+
+        # GET position for each board hold and build dictionary:
+        sql_query = 'SELECT id, x, y FROM holes;'
+        cursor.execute(sql_query)
+        holds_position_table = cursor.fetchall()
+        print(f'TOTAL hold/holes positions found: {len(holds_position_table)}')
+
+        # Build hold dictionary with Hold ID, Hold X and Hold Y
+        holds_dict = {}
+        for hold_id, hold_x, hold_y in holds_position_table:
+            holds_dict[str(hold_id)] = {
+                'x': hold_x,
+                'y': hold_y
+            }
+        holds_position_table = None
+
+        sql_query = 'SELECT id, hole_id FROM placements WHERE layout_id = 1;'
+        cursor.execute(sql_query)
+        holds_placement_raw = cursor.fetchall()
+        print(f'TOTAL holds placement found: {len(holds_placement_raw)}')
+
+        # Add placement information to holds dictionary
+        holds_placement = {}
+        for placement_id, hold_id in holds_placement_raw:
+            holds_placement[str(placement_id)] = str(hold_id)
+
+            # add placement information to hold dictionary
+            holds_dict[str(hold_id)]['placement_id'] = str(placement_id)
+        holds_placement_raw = None
+
+        # This is obviously incorrect.
+        # TODO fix this
+        hold_type = ['Starts', 'Tops', 'Hands', 'Feet']
+        number_grades = len(grade_labels)
+        number_angles = len(angle_labels)
+        number_holds_type = len(hold_type)
+        holds_data = []
+        total_holds_count = []
+        for grade_index in range(number_grades):
+            grade_array = []
+            total_holds_count_row = []
+            for angle_index in range(number_angles):
+                grade_array.append([])
+                total_holds_count_row.append([])
+                for hold_index in range(number_holds_type):
+                    grade_array[angle_index].append({})
+                    total_holds_count_row[angle_index].append(0)
+            holds_data.append(grade_array)
+            total_holds_count.append(total_holds_count_row)
+
+        for grade_index in range(number_grades):
+            for angle_index in range(number_angles):
+                for boulder_id in boulder_id_array[grade_index][angle_index]:
+                    holds_string = relevant_boulders[boulder_id]
+                    holds_placement_role_array = get_holds_summary(holds_string)
+
+                    for hold_info in holds_placement_role_array:
+                        hold_placement_id = hold_info[0]
+                        hold_role = hold_info[1]
+                        hold_id = holds_placement[hold_placement_id]
+
+                        if hold_role_is_start(hold_role):
+                            hold_role_index = 0
+                        elif hold_role_is_finish(hold_role):
+                            hold_role_index = 1
+                        elif hold_role_is_hand(hold_role):
+                            hold_role_index = 2
+                        elif hold_role_is_feet(hold_role):
+                            hold_role_index = 3
+                        else:
+                            print('WARNING: Unknown hold role')
+
+                        total_holds_count[grade_index][angle_index][hold_role_index] = total_holds_count[grade_index][hold_role_index][hold_role_index] + 1
+
+                        if hold_id in holds_data[grade_index][angle_index][hold_role_index]:
+                            h = holds_data[grade_index][angle_index][hold_role_index][hold_id]
+                            h['count'] = h['count'] + 1
+                            holds_data[grade_index][angle_index][hold_role_index][hold_id] = h
+                        else:
+
+                            array_y = int(int(holds_dict[hold_id]['y']) / 4) - 1
+                            array_x = int(int(holds_dict[hold_id]['x']) / 4) + 5
+
+                            holds_data[grade_index][angle_index][hold_role_index][hold_id] = {'hold_id': hold_id,
+                                                                                              'placement_id': hold_placement_id,
+                                                                                              'hold_role': hold_role,
+                                                                                              'count': 1,
+                                                                                              'x': array_x,
+                                                                                              'y': array_y
+                                                                                              }
+        # 8a/V11 or 8c/5.14b Angle: 25° Role: Feet
+        for grade_index in range(18, number_grades):
+            for angle_index in range(number_angles):
+                for hold_role in range(len(hold_type)):
+                    print(f'Grade: {grade_labels[grade_index]} Angle: {angle_labels[angle_index]} Role: {hold_type[hold_role]}')
+
+                    holds_array = np.zeros(shape=(HEAT_MAP_Y, HEAT_MAP_X))
+                    holds_percent_array = np.zeros(shape=(HEAT_MAP_Y, HEAT_MAP_X))
+                    for hold in holds_data[grade_index][angle_index][hold_role]:
+                        x_value = int(holds_data[grade_index][angle_index][hold_role][hold]['x'])
+                        y_value = int(holds_data[grade_index][angle_index][hold_role][hold]['y'])
+                        count =   int(holds_data[grade_index][angle_index][hold_role][hold]['count'])
+
+                        # Actually there are boulders with holds out of board boundaries
+                        # You can check on application: Extension by DrPlim
+                        if y_value <= HEAT_MAP_Y and x_value <= HEAT_MAP_X:
+                            holds_array[y_value, x_value] = count
+                            holds_percent_array[y_value, x_value] = count / total_holds_count[grade_index][angle_index][hold_role]
+
+                    # Do Smooth heatmap
+                    holds_array_smooth = gaussian_filter(holds_array, sigma=GAUSSIAN_FILTER_SIGMA)
+
+                    generate_board_heatmap(holds_array,
+                                           f'Holds {hold_type[hold_role]} Count. Grade {grade_labels[grade_index]} at {angle_labels[angle_index]}',
+                                           f'output/grade_{grade_index}/angle_{angle_index}/role_{hold_role}/hold_count_g{grade_index}_a{angle_index}_{hold_type[hold_role]}.png')
+
+                    generate_board_heatmap(holds_percent_array,
+                                           f'Holds {hold_type[hold_role]} Percentage. Grade {grade_labels[grade_index]} at {angle_labels[angle_index]}',
+                                           f'output/grade_{grade_index}/angle_{angle_index}/role_{hold_role}/hold_count_percent_g{grade_index}_a{angle_index}_{hold_type[hold_role]}.png')
+
+                    generate_board_heatmap(holds_array_smooth,
+                                           f'Holds {hold_type[hold_role]} Heatmap. Grade {grade_labels[grade_index]} at {angle_labels[angle_index]}',
+                                           f'output/grade_{grade_index}/angle_{angle_index}/role_{hold_role}/hold_heatmap_g{grade_index}_a{angle_index}_{hold_type[hold_role]}.png')
+
+        for hold_role in range(len(hold_type)):
+            print(f'Global heatmap Role: {hold_type[hold_role]}')
+
+            holds_array = np.zeros(shape=(HEAT_MAP_Y, HEAT_MAP_X))
+            holds_percent_array = np.zeros(shape=(HEAT_MAP_Y, HEAT_MAP_X))
+
+            for grade_index in range(number_grades):
+                for angle_index in range(number_angles):
+
+                    for hold in holds_data[grade_index][angle_index][hold_role]:
+                        x_value = int(holds_data[grade_index][angle_index][hold_role][hold]['x'])
+                        y_value = int(holds_data[grade_index][angle_index][hold_role][hold]['y'])
+                        count =   int(holds_data[grade_index][angle_index][hold_role][hold]['count'])
+
+                        # Actually there are boulders with holds out of board boundaries
+                        # You can check on application: Extension by DrPlim
+                        if y_value <= HEAT_MAP_Y and x_value <= HEAT_MAP_X:
+                            holds_array[y_value, x_value] = count
+                            holds_percent_array[y_value, x_value] = count / total_holds_count[grade_index][angle_index][hold_role]
+            # Do Smooth heatmap
+            holds_array_smooth = gaussian_filter(holds_array, sigma=GAUSSIAN_FILTER_SIGMA)
+
+            generate_board_heatmap(holds_array,
+                                   f'Total Holds Count as {hold_type[hold_role]}',
+                                   f'output/total_hold_count_{hold_type[hold_role]}.png')
+
+            generate_board_heatmap(holds_percent_array,
+                                   f'Percentage Holds Count as {hold_type[hold_role]}',
+                                   f'output/total_hold_count_percent_{hold_type[hold_role]}.png')
+
+            generate_board_heatmap(holds_array_smooth,
+                                   f'Global Heatmap {hold_type[hold_role]}',
+                                   f'output/total_hold_heatmap_{hold_type[hold_role]}.png')
+
+
+    except sqlite3.Error as error:
+        print("Error while connecting to sqlite", error)
+    finally:
+        if sqlite_connection:
+            sqlite_connection.close()
+            print("The SQLite connection is closed")
+
+def hold_role_is_start(role):
+    role = str(role)
+    if role == '12' or role == '20' or role == '24' or role == '28' or role == '32' or role == '39' or role == '42':
+        return True
+    else:
+        return False
+
+def hold_role_is_hand(role):
+    role = str(role)
+    if role == '13' or role == '21' or role == '25' or role == '29' or role == '33' or role == '36' or role == '37' or role == '41' or role == '43':
+        return True
+    else:
+        return False
+
+def hold_role_is_finish(role):
+    role = str(role)
+    if role == '14' or role == '22' or role == '26' or role == '30' or role == '34' or role == '44' or role == '42':
+        return True
+    else:
+        return False
+
+def hold_role_is_feet(role):
+    role = str(role)
+    if role == '15' or role == '23' or role == '27' or role == '31' or role == '35' or role == '45':
+        return True
+    else:
+        return False
+
 
 def main(argv, null=None):
     inputfile = ''
@@ -1312,9 +1647,12 @@ def main(argv, null=None):
     print('Input file is "', inputfile)
     print('Output file is (not used)"', outputfile)
 
+    generate_growth_summary(inputfile)
     generate_text_analysis(inputfile)
     generate_users_analysis(inputfile)
     generate_boulder_analysis(inputfile)
+    generate_boulder_analysis_2d(inputfile)
+
 
 if __name__ == "__main__":
     main(sys.argv[1:])

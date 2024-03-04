@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KilterNed</title>
+    <title>KilterNerd</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -92,6 +92,24 @@
             font-size: 30px;
             cursor: pointer;
         }
+			.slider-container {
+			margin-bottom: 20px;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+		.slider-label {
+			width: 150px;
+			text-align: right;
+			margin-right: 10px;
+		}
+		.slider-input {
+			width: 300px;
+			margin: 0 10px;
+		}
+		.slider-value {
+			width: 50px;
+		}
     </style>
 </head>
 <body>
@@ -100,6 +118,11 @@
 		<p>Snapshot at 15th February 2024. Full source code <a href="https://github.com/gism/kilternerd">here.</a></p>
     </header>
     <div class="container">
+		<div class="element">
+            <h2>Boulder growth rate</h2>
+            <p>This is number of boulder/routes vs time.<br>Some of them are not listed on the application.</p>
+            <img src="./output/kilter_board_growth.png">
+        </div>
         <div class="element">
             <h2>Top setters</h2>
             <p>This is the top users routesetters. <br>Thanks to all of you.</p>
@@ -217,6 +240,33 @@
 			<p>Summary as a json file <a href="./output/master_hold_summary_hands.json">here.</a></p>
         </div>
 		<div class="element">
+            <h2>Top Holds by Grade, Angle and Role</h2>
+            <p>This is the number of times each hold is used.<br>Zoom image to read number</p>
+			
+			<div class="slider-container">
+				<label class="slider-label" for="hold_count_grade">Grade:</label>
+				<input type="range" min="0" max="23" value="0" class="slider slider-input" id="hold_count_grade">
+				<span id="hold_count_grade-value" class="slider-value"></span>
+			</div>
+			<div class="slider-container">
+				<label class="slider-label" for="hold_count_angle">Board angle:</label>
+				<input type="range" min="0" max="14" value="0" class="slider slider-input" id="hold_count_angle">
+				<span id="hold_count_angle-value" class="slider-value"></span>
+			</div>
+			<div class="slider-container">
+				<label class="slider-label" for="hold_count_type">Hold type:</label>
+				<input type="range" min="0" max="3" value="0" class="slider slider-input" id="hold_count_type">
+				<span id="hold_count_type-value" class="slider-value"></span>
+			</div>
+			
+            <div class="image-group-3">
+                <img id="img_slider_1" class="modal-trigger" src="./output/hands_array.png">
+                <img id="img_slider_2" class="modal-trigger" src="./output/hands_percent_array.png">
+                <img id="img_slider_3" class="modal-trigger" src="./output/hands_heatmap_array.png">
+            </div>
+			<p>Numbers displayed may be different from previous images, as this excludes boulder and routes hidden on the application (is_listed == 1).</p>
+        </div>
+		<div class="element">
             <h2>Placement ID and Holds ID</h2>
             <p>If you read database by yourself. This si if for each hold placement and hold.<br>Zoom image to read number</p>
             <div class="image-group">
@@ -233,6 +283,64 @@
     </div>
 
     <script>
+	
+		const grade_labels = ["4a/V0", "4b/V0", "4c/V0", "5a/V1", "5b/V1", "5c/V2", "6a/V3", "6a+/V3",
+							  "6b/V4", "6b+/V4", "6c/V5", "6c+/V5", "7a/V6", "7a+/V7", "7b/V8", "7b+/V8",
+							  "7c/V9", "7c+/V10", "8a/V11", "8a+/V12", "8b/V13", "8b+/V14", "8c/V15", "8c+/V16"]
+		const angle_labels = ["0°", "5°", "10°", "15°", "20°", "25°", "30°", "35°", "40°", "45°", "50°", "55°", "60°", "65°", "70°"]
+		const holdTypes = ["Starts", "Tops", "Hands", "Feet"];
+		
+		const images_slider_group_1 = document.querySelectorAll("[id^='img_slider']");
+		const sliders = document.querySelectorAll('.slider');
+		
+		function updateImages() {
+			const sliderValues = Array.from(sliders).map(slider => parseInt(slider.value));
+			const image_src = `./output/grade_${sliderValues[0]}/angle_${sliderValues[1]}/role_${sliderValues[2]}/image_type_g${sliderValues[0]}_a${sliderValues[1]}_${holdTypes[sliderValues[2]]}.png`;
+			images_slider_group_1.forEach((img, index) => {
+					console.log(image_src)
+					console.log(index)
+					if (index == 0) {
+						img.src = image_src.replace('image_type', 'hold_count')
+					}else if (index == 1) {
+						img.src = image_src.replace('image_type', 'hold_count_percent')
+					}else if (index == 2) {
+						img.src = image_src.replace('image_type', 'hold_heatmap')
+					}
+					
+					});
+				}
+
+		sliders.forEach(slider => {
+			slider.addEventListener('input', () => {
+				const spanId = slider.id + '-value';
+				
+				if (slider.id === 'hold_count_grade') {
+					document.getElementById(spanId).textContent = `${grade_labels[parseInt(slider.value)]}`;
+				}else if (slider.id === 'hold_count_angle') {
+					document.getElementById(spanId).textContent = `${angle_labels[parseInt(slider.value)]}`;
+				}else if (slider.id === 'hold_count_type') {
+					document.getElementById(spanId).textContent = `${holdTypes[parseInt(slider.value)]}`;
+				}
+				
+				updateImages();
+			});
+		});
+	
+	
+		sliders.forEach(slider => {
+			const spanId = slider.id + '-value';
+			if (slider.id === 'hold_count_grade') {
+				document.getElementById(spanId).textContent = `${grade_labels[parseInt(slider.value)]}`;
+			}else if (slider.id === 'hold_count_angle') {
+				document.getElementById(spanId).textContent = `${angle_labels[parseInt(slider.value)]}`;
+			}else if (slider.id === 'hold_count_type') {
+				document.getElementById(spanId).textContent = `${holdTypes[parseInt(slider.value)]}`;
+			}
+		});
+	
+	
+	
+	
         // Get the modal
         var modal = document.getElementById('image-modal');
 
