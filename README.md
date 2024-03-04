@@ -1,6 +1,6 @@
 # This is KilterNerd
 
-Check last release [kilterNerd.github.io](https://kilterNerd.github.io).
+Check last release [https://gism.github.io/KilterNerd/](https://gism.github.io/KilterNerd/).
 
 To run by yourself:
 * Place kilterboard database in DDBB folder
