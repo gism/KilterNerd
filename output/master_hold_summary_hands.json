@@ -3,7 +3,7 @@
         "hold_id": "1506",
         "placement_id": "1220",
         "hold_role": "13",
-        "count": 2050,
+        "count": 2954,
         "x": 29,
         "y": 17
     },
@@ -11,7 +11,7 @@
         "hold_id": "1275",
         "placement_id": "1246",
         "hold_role": "13",
-        "count": 3646,
+        "count": 5250,
         "x": 13,
         "y": 21
     },
@@ -19,7 +19,7 @@
         "hold_id": "1474",
         "placement_id": "1253",
         "hold_role": "13",
-        "count": 3645,
+        "count": 5149,
         "x": 27,
         "y": 21
     },
@@ -27,7 +27,7 @@
         "hold_id": "1331",
         "placement_id": "1265",
         "hold_role": "13",
-        "count": 3365,
+        "count": 4433,
         "x": 17,
         "y": 23
     },
@@ -35,7 +35,7 @@
         "hold_id": "1419",
         "placement_id": "1268",
         "hold_role": "13",
-        "count": 5561,
+        "count": 7920,
         "x": 23,
         "y": 23
     },
@@ -43,7 +43,7 @@
         "hold_id": "1531",
         "placement_id": "1255",
         "hold_role": "13",
-        "count": 2293,
+        "count": 3367,
         "x": 31,
         "y": 21
     },
@@ -51,7 +51,7 @@
         "hold_id": "1617",
         "placement_id": "1258",
         "hold_role": "13",
-        "count": 1321,
+        "count": 1867,
         "x": 37,
         "y": 21
     },
@@ -59,7 +59,7 @@
         "hold_id": "1509",
         "placement_id": "1186",
         "hold_role": "13",
-        "count": 2556,
+        "count": 3292,
         "x": 29,
         "y": 13
     },
@@ -67,7 +67,7 @@
         "hold_id": "1356",
         "placement_id": "1198",
         "hold_role": "13",
-        "count": 5350,
+        "count": 7317,
         "x": 19,
         "y": 15
     },
@@ -75,7 +75,7 @@
         "hold_id": "1363",
         "placement_id": "1283",
         "hold_role": "13",
-        "count": 7083,
+        "count": 9461,
         "x": 19,
         "y": 25
     },
@@ -83,7 +83,7 @@
         "hold_id": "1386",
         "placement_id": "1284",
         "hold_role": "13",
-        "count": 7619,
+        "count": 10256,
         "x": 21,
         "y": 25
     },
@@ -91,7 +91,7 @@
         "hold_id": "1323",
         "placement_id": "1350",
         "hold_role": "13",
-        "count": 3401,
+        "count": 4745,
         "x": 17,
         "y": 33
     },
@@ -99,7 +99,7 @@
         "hold_id": "1380",
         "placement_id": "1352",
         "hold_role": "13",
-        "count": 6458,
+        "count": 8519,
         "x": 21,
         "y": 33
     },
@@ -107,7 +107,7 @@
         "hold_id": "1416",
         "placement_id": "1234",
         "hold_role": "13",
-        "count": 8687,
+        "count": 12162,
         "x": 23,
         "y": 19
     },
@@ -115,7 +115,7 @@
         "hold_id": "1426",
         "placement_id": "1353",
         "hold_role": "13",
-        "count": 8271,
+        "count": 11685,
         "x": 23,
         "y": 33
     },
@@ -123,7 +123,7 @@
         "hold_id": "1299",
         "placement_id": "1196",
         "hold_role": "13",
-        "count": 2481,
+        "count": 3258,
         "x": 15,
         "y": 15
     },
@@ -131,7 +131,7 @@
         "hold_id": "1359",
         "placement_id": "1232",
         "hold_role": "13",
-        "count": 4313,
+        "count": 5645,
         "x": 19,
         "y": 19
     },
@@ -139,7 +139,7 @@
         "hold_id": "1303",
         "placement_id": "1247",
         "hold_role": "13",
-        "count": 4782,
+        "count": 6808,
         "x": 15,
         "y": 21
     },
@@ -147,7 +147,7 @@
         "hold_id": "1329",
         "placement_id": "1282",
         "hold_role": "13",
-        "count": 2985,
+        "count": 4237,
         "x": 17,
         "y": 25
     },
@@ -155,7 +155,7 @@
         "hold_id": "1383",
         "placement_id": "1318",
         "hold_role": "13",
-        "count": 5881,
+        "count": 7402,
         "x": 21,
         "y": 29
     },
@@ -163,7 +163,7 @@
         "hold_id": "1369",
         "placement_id": "1351",
         "hold_role": "13",
-        "count": 3854,
+        "count": 5503,
         "x": 19,
         "y": 33
     },
@@ -171,7 +171,7 @@
         "hold_id": "1365",
         "placement_id": "1300",
         "hold_role": "13",
-        "count": 6122,
+        "count": 8788,
         "x": 19,
         "y": 27
     },
@@ -179,7 +179,7 @@
         "hold_id": "1302",
         "placement_id": "1230",
         "hold_role": "13",
-        "count": 5225,
+        "count": 7024,
         "x": 15,
         "y": 19
     },
@@ -187,7 +187,7 @@
         "hold_id": "1505",
         "placement_id": "1237",
         "hold_role": "13",
-        "count": 3341,
+        "count": 4900,
         "x": 29,
         "y": 19
     },
@@ -195,7 +195,7 @@
         "hold_id": "1248",
         "placement_id": "1262",
         "hold_role": "13",
-        "count": 1411,
+        "count": 2179,
         "x": 11,
         "y": 23
     },
@@ -203,7 +203,7 @@
         "hold_id": "1559",
         "placement_id": "1273",
         "hold_role": "13",
-        "count": 3274,
+        "count": 4641,
         "x": 33,
         "y": 23
     },
@@ -211,7 +211,7 @@
         "hold_id": "1251",
         "placement_id": "1296",
         "hold_role": "13",
-        "count": 1546,
+        "count": 2258,
         "x": 11,
         "y": 27
     },
@@ -219,7 +219,7 @@
         "hold_id": "1382",
         "placement_id": "1335",
         "hold_role": "13",
-        "count": 4906,
+        "count": 6710,
         "x": 21,
         "y": 31
     },
@@ -227,7 +227,7 @@
         "hold_id": "1553",
         "placement_id": "1341",
         "hold_role": "13",
-        "count": 2715,
+        "count": 3712,
         "x": 33,
         "y": 31
     },
@@ -235,7 +235,7 @@
         "hold_id": "1312",
         "placement_id": "1349",
         "hold_role": "13",
-        "count": 2330,
+        "count": 3465,
         "x": 15,
         "y": 33
     },
@@ -243,7 +243,7 @@
         "hold_id": "1654",
         "placement_id": "1361",
         "hold_role": "13",
-        "count": 667,
+        "count": 1094,
         "x": 39,
         "y": 33
     },
@@ -251,7 +251,7 @@
         "hold_id": "1436",
         "placement_id": "1371",
         "hold_role": "13",
-        "count": 4074,
+        "count": 5822,
         "x": 25,
         "y": 35
     },
@@ -259,7 +259,7 @@
         "hold_id": "1542",
         "placement_id": "1391",
         "hold_role": "13",
-        "count": 863,
+        "count": 1459,
         "x": 31,
         "y": 37
     },
@@ -267,7 +267,7 @@
         "hold_id": "1508",
         "placement_id": "1203",
         "hold_role": "13",
-        "count": 4136,
+        "count": 5598,
         "x": 29,
         "y": 15
     },
@@ -275,7 +275,7 @@
         "hold_id": "1496",
         "placement_id": "1339",
         "hold_role": "13",
-        "count": 5977,
+        "count": 8160,
         "x": 29,
         "y": 31
     },
@@ -283,7 +283,7 @@
         "hold_id": "1447",
         "placement_id": "1542",
         "hold_role": "13",
-        "count": 825,
+        "count": 1231,
         "x": 26,
         "y": 20
     },
@@ -291,7 +291,7 @@
         "hold_id": "1501",
         "placement_id": "1561",
         "hold_role": "13",
-        "count": 337,
+        "count": 472,
         "x": 30,
         "y": 24
     },
@@ -299,7 +299,7 @@
         "hold_id": "1441",
         "placement_id": "1578",
         "hold_role": "13",
-        "count": 818,
+        "count": 1108,
         "x": 26,
         "y": 28
     },
@@ -307,7 +307,7 @@
         "hold_id": "1337",
         "placement_id": "1197",
         "hold_role": "13",
-        "count": 3422,
+        "count": 4758,
         "x": 17,
         "y": 15
     },
@@ -315,7 +315,7 @@
         "hold_id": "1220",
         "placement_id": "1227",
         "hold_role": "13",
-        "count": 1254,
+        "count": 1799,
         "x": 9,
         "y": 19
     },
@@ -323,7 +323,7 @@
         "hold_id": "1391",
         "placement_id": "1233",
         "hold_role": "13",
-        "count": 6473,
+        "count": 8703,
         "x": 21,
         "y": 19
     },
@@ -331,7 +331,7 @@
         "hold_id": "1326",
         "placement_id": "1316",
         "hold_role": "13",
-        "count": 2661,
+        "count": 3864,
         "x": 17,
         "y": 29
     },
@@ -339,7 +339,7 @@
         "hold_id": "1211",
         "placement_id": "1329",
         "hold_role": "13",
-        "count": 1057,
+        "count": 1464,
         "x": 9,
         "y": 31
     },
@@ -347,7 +347,7 @@
         "hold_id": "1209",
         "placement_id": "1346",
         "hold_role": "13",
-        "count": 587,
+        "count": 852,
         "x": 9,
         "y": 33
     },
@@ -355,7 +355,7 @@
         "hold_id": "1350",
         "placement_id": "1130",
         "hold_role": "13",
-        "count": 158,
+        "count": 325,
         "x": 19,
         "y": 7
     },
@@ -363,7 +363,7 @@
         "hold_id": "1407",
         "placement_id": "1132",
         "hold_role": "13",
-        "count": 217,
+        "count": 413,
         "x": 23,
         "y": 7
     },
@@ -371,7 +371,7 @@
         "hold_id": "1341",
         "placement_id": "1146",
         "hold_role": "13",
-        "count": 335,
+        "count": 526,
         "x": 17,
         "y": 9
     },
@@ -379,7 +379,7 @@
         "hold_id": "1408",
         "placement_id": "1149",
         "hold_role": "13",
-        "count": 1003,
+        "count": 1507,
         "x": 23,
         "y": 9
     },
@@ -387,7 +387,7 @@
         "hold_id": "1410",
         "placement_id": "1166",
         "hold_role": "13",
-        "count": 1470,
+        "count": 2037,
         "x": 23,
         "y": 11
     },
@@ -395,7 +395,7 @@
         "hold_id": "1411",
         "placement_id": "1183",
         "hold_role": "13",
-        "count": 1795,
+        "count": 2452,
         "x": 23,
         "y": 13
     },
@@ -403,7 +403,7 @@
         "hold_id": "1180",
         "placement_id": "1192",
         "hold_role": "13",
-        "count": 1508,
+        "count": 2257,
         "x": 7,
         "y": 15
     },
@@ -411,7 +411,7 @@
         "hold_id": "1278",
         "placement_id": "1212",
         "hold_role": "13",
-        "count": 3019,
+        "count": 4077,
         "x": 13,
         "y": 17
     },
@@ -419,7 +419,7 @@
         "hold_id": "1471",
         "placement_id": "1219",
         "hold_role": "13",
-        "count": 3682,
+        "count": 5016,
         "x": 27,
         "y": 17
     },
@@ -427,7 +427,7 @@
         "hold_id": "1272",
         "placement_id": "1280",
         "hold_role": "13",
-        "count": 2452,
+        "count": 3317,
         "x": 13,
         "y": 25
     },
@@ -435,7 +435,7 @@
         "hold_id": "1192",
         "placement_id": "1294",
         "hold_role": "13",
-        "count": 1900,
+        "count": 2859,
         "x": 7,
         "y": 27
     },
@@ -443,7 +443,7 @@
         "hold_id": "1370",
         "placement_id": "1368",
         "hold_role": "13",
-        "count": 2707,
+        "count": 3784,
         "x": 19,
         "y": 35
     },
@@ -451,7 +451,7 @@
         "hold_id": "1257",
         "placement_id": "1381",
         "hold_role": "13",
-        "count": 192,
+        "count": 339,
         "x": 11,
         "y": 37
     },
@@ -459,7 +459,7 @@
         "hold_id": "1599",
         "placement_id": "1393",
         "hold_role": "13",
-        "count": 219,
+        "count": 401,
         "x": 35,
         "y": 37
     },
@@ -467,7 +467,7 @@
         "hold_id": "1357",
         "placement_id": "1215",
         "hold_role": "13",
-        "count": 5310,
+        "count": 7664,
         "x": 19,
         "y": 17
     },
@@ -475,7 +475,7 @@
         "hold_id": "1563",
         "placement_id": "1222",
         "hold_role": "13",
-        "count": 2547,
+        "count": 3422,
         "x": 33,
         "y": 17
     },
@@ -483,7 +483,7 @@
         "hold_id": "1306",
         "placement_id": "1281",
         "hold_role": "13",
-        "count": 4697,
+        "count": 6686,
         "x": 15,
         "y": 25
     },
@@ -491,7 +491,7 @@
         "hold_id": "1268",
         "placement_id": "1331",
         "hold_role": "13",
-        "count": 3715,
+        "count": 5264,
         "x": 13,
         "y": 31
     },
@@ -499,7 +499,7 @@
         "hold_id": "1468",
         "placement_id": "1185",
         "hold_role": "13",
-        "count": 2411,
+        "count": 3120,
         "x": 27,
         "y": 13
     },
@@ -507,7 +507,7 @@
         "hold_id": "1414",
         "placement_id": "1217",
         "hold_role": "13",
-        "count": 1988,
+        "count": 2929,
         "x": 23,
         "y": 17
     },
@@ -515,7 +515,7 @@
         "hold_id": "1502",
         "placement_id": "1271",
         "hold_role": "13",
-        "count": 6220,
+        "count": 8450,
         "x": 29,
         "y": 23
     },
@@ -523,7 +523,7 @@
         "hold_id": "1533",
         "placement_id": "1272",
         "hold_role": "13",
-        "count": 3788,
+        "count": 5429,
         "x": 31,
         "y": 23
     },
@@ -531,7 +531,7 @@
         "hold_id": "1534",
         "placement_id": "1289",
         "hold_role": "13",
-        "count": 3587,
+        "count": 5394,
         "x": 31,
         "y": 25
     },
@@ -539,7 +539,7 @@
         "hold_id": "1422",
         "placement_id": "1302",
         "hold_role": "13",
-        "count": 8487,
+        "count": 13049,
         "x": 23,
         "y": 27
     },
@@ -547,7 +547,7 @@
         "hold_id": "1448",
         "placement_id": "1235",
         "hold_role": "13",
-        "count": 6869,
+        "count": 9226,
         "x": 25,
         "y": 19
     },
@@ -555,7 +555,7 @@
         "hold_id": "1283",
         "placement_id": "1161",
         "hold_role": "13",
-        "count": 692,
+        "count": 990,
         "x": 13,
         "y": 11
     },
@@ -563,7 +563,7 @@
         "hold_id": "1243",
         "placement_id": "1211",
         "hold_role": "13",
-        "count": 420,
+        "count": 627,
         "x": 11,
         "y": 17
     },
@@ -571,7 +571,7 @@
         "hold_id": "1360",
         "placement_id": "1249",
         "hold_role": "13",
-        "count": 4503,
+        "count": 6361,
         "x": 19,
         "y": 21
     },
@@ -579,7 +579,7 @@
         "hold_id": "1274",
         "placement_id": "1263",
         "hold_role": "13",
-        "count": 2518,
+        "count": 3764,
         "x": 13,
         "y": 23
     },
@@ -587,7 +587,7 @@
         "hold_id": "1269",
         "placement_id": "1314",
         "hold_role": "13",
-        "count": 3024,
+        "count": 3993,
         "x": 13,
         "y": 29
     },
@@ -595,7 +595,7 @@
         "hold_id": "1622",
         "placement_id": "1207",
         "hold_role": "13",
-        "count": 739,
+        "count": 1067,
         "x": 37,
         "y": 15
     },
@@ -603,7 +603,7 @@
         "hold_id": "1420",
         "placement_id": "1285",
         "hold_role": "13",
-        "count": 5819,
+        "count": 7591,
         "x": 23,
         "y": 25
     },
@@ -611,7 +611,7 @@
         "hold_id": "1497",
         "placement_id": "1322",
         "hold_role": "13",
-        "count": 5197,
+        "count": 7107,
         "x": 29,
         "y": 29
     },
@@ -619,7 +619,7 @@
         "hold_id": "1539",
         "placement_id": "1340",
         "hold_role": "13",
-        "count": 6424,
+        "count": 9447,
         "x": 31,
         "y": 31
     },
@@ -627,7 +627,7 @@
         "hold_id": "1608",
         "placement_id": "1360",
         "hold_role": "13",
-        "count": 612,
+        "count": 919,
         "x": 37,
         "y": 33
     },
@@ -635,7 +635,7 @@
         "hold_id": "1256",
         "placement_id": "1364",
         "hold_role": "13",
-        "count": 463,
+        "count": 686,
         "x": 11,
         "y": 35
     },
@@ -643,7 +643,7 @@
         "hold_id": "1354",
         "placement_id": "1181",
         "hold_role": "13",
-        "count": 1754,
+        "count": 2446,
         "x": 19,
         "y": 13
     },
@@ -651,7 +651,7 @@
         "hold_id": "1395",
         "placement_id": "1182",
         "hold_role": "13",
-        "count": 1862,
+        "count": 2630,
         "x": 21,
         "y": 13
     },
@@ -659,7 +659,7 @@
         "hold_id": "1525",
         "placement_id": "1187",
         "hold_role": "13",
-        "count": 1574,
+        "count": 2316,
         "x": 31,
         "y": 13
     },
@@ -667,7 +667,7 @@
         "hold_id": "1451",
         "placement_id": "1201",
         "hold_role": "13",
-        "count": 4303,
+        "count": 5942,
         "x": 25,
         "y": 15
     },
@@ -675,7 +675,7 @@
         "hold_id": "1473",
         "placement_id": "1236",
         "hold_role": "13",
-        "count": 6663,
+        "count": 9629,
         "x": 27,
         "y": 19
     },
@@ -683,7 +683,7 @@
         "hold_id": "1368",
         "placement_id": "1334",
         "hold_role": "13",
-        "count": 4951,
+        "count": 6920,
         "x": 19,
         "y": 31
     },
@@ -691,7 +691,7 @@
         "hold_id": "1266",
         "placement_id": "1348",
         "hold_role": "13",
-        "count": 1652,
+        "count": 2328,
         "x": 13,
         "y": 33
     },
@@ -699,7 +699,7 @@
         "hold_id": "1470",
         "placement_id": "1202",
         "hold_role": "13",
-        "count": 3450,
+        "count": 4955,
         "x": 27,
         "y": 15
     },
@@ -707,7 +707,7 @@
         "hold_id": "1388",
         "placement_id": "1267",
         "hold_role": "13",
-        "count": 5622,
+        "count": 8237,
         "x": 21,
         "y": 23
     },
@@ -715,7 +715,7 @@
         "hold_id": "1439",
         "placement_id": "1337",
         "hold_role": "13",
-        "count": 3678,
+        "count": 5117,
         "x": 25,
         "y": 31
     },
@@ -723,7 +723,7 @@
         "hold_id": "1625",
         "placement_id": "1173",
         "hold_role": "13",
-        "count": 260,
+        "count": 384,
         "x": 37,
         "y": 11
     },
@@ -731,7 +731,7 @@
         "hold_id": "1281",
         "placement_id": "1178",
         "hold_role": "13",
-        "count": 1133,
+        "count": 1536,
         "x": 13,
         "y": 13
     },
@@ -739,7 +739,7 @@
         "hold_id": "1527",
         "placement_id": "1204",
         "hold_role": "13",
-        "count": 2665,
+        "count": 3656,
         "x": 31,
         "y": 15
     },
@@ -747,7 +747,7 @@
         "hold_id": "1620",
         "placement_id": "1224",
         "hold_role": "13",
-        "count": 484,
+        "count": 762,
         "x": 37,
         "y": 17
     },
@@ -755,7 +755,7 @@
         "hold_id": "1184",
         "placement_id": "1226",
         "hold_role": "13",
-        "count": 596,
+        "count": 902,
         "x": 7,
         "y": 19
     },
@@ -763,7 +763,7 @@
         "hold_id": "1588",
         "placement_id": "1257",
         "hold_role": "13",
-        "count": 4144,
+        "count": 6122,
         "x": 35,
         "y": 21
     },
@@ -771,7 +771,7 @@
         "hold_id": "1500",
         "placement_id": "1288",
         "hold_role": "13",
-        "count": 3020,
+        "count": 4337,
         "x": 29,
         "y": 25
     },
@@ -779,7 +779,7 @@
         "hold_id": "1593",
         "placement_id": "1308",
         "hold_role": "13",
-        "count": 4455,
+        "count": 6775,
         "x": 35,
         "y": 27
     },
@@ -787,7 +787,7 @@
         "hold_id": "1482",
         "placement_id": "1338",
         "hold_role": "13",
-        "count": 3593,
+        "count": 4945,
         "x": 27,
         "y": 31
     },
@@ -795,7 +795,7 @@
         "hold_id": "1378",
         "placement_id": "1386",
         "hold_role": "13",
-        "count": 618,
+        "count": 939,
         "x": 21,
         "y": 37
     },
@@ -803,7 +803,7 @@
         "hold_id": "1340",
         "placement_id": "1163",
         "hold_role": "13",
-        "count": 2168,
+        "count": 3112,
         "x": 17,
         "y": 11
     },
@@ -811,7 +811,7 @@
         "hold_id": "1338",
         "placement_id": "1180",
         "hold_role": "13",
-        "count": 1933,
+        "count": 2620,
         "x": 17,
         "y": 13
     },
@@ -819,7 +819,7 @@
         "hold_id": "1413",
         "placement_id": "1200",
         "hold_role": "13",
-        "count": 5681,
+        "count": 7619,
         "x": 23,
         "y": 15
     },
@@ -827,7 +827,7 @@
         "hold_id": "1528",
         "placement_id": "1221",
         "hold_role": "13",
-        "count": 3537,
+        "count": 4817,
         "x": 31,
         "y": 17
     },
@@ -835,7 +835,7 @@
         "hold_id": "1389",
         "placement_id": "1250",
         "hold_role": "13",
-        "count": 6960,
+        "count": 9655,
         "x": 21,
         "y": 21
     },
@@ -843,7 +843,7 @@
         "hold_id": "1440",
         "placement_id": "1320",
         "hold_role": "13",
-        "count": 8505,
+        "count": 11325,
         "x": 25,
         "y": 29
     },
@@ -851,7 +851,7 @@
         "hold_id": "1551",
         "placement_id": "1358",
         "hold_role": "13",
-        "count": 1755,
+        "count": 2398,
         "x": 33,
         "y": 33
     },
@@ -859,7 +859,7 @@
         "hold_id": "1397",
         "placement_id": "1165",
         "hold_role": "13",
-        "count": 964,
+        "count": 1333,
         "x": 21,
         "y": 11
     },
@@ -867,7 +867,7 @@
         "hold_id": "1221",
         "placement_id": "1210",
         "hold_role": "13",
-        "count": 1398,
+        "count": 2099,
         "x": 9,
         "y": 17
     },
@@ -875,7 +875,7 @@
         "hold_id": "1186",
         "placement_id": "1243",
         "hold_role": "13",
-        "count": 1455,
+        "count": 2096,
         "x": 7,
         "y": 21
     },
@@ -883,7 +883,7 @@
         "hold_id": "1190",
         "placement_id": "1277",
         "hold_role": "13",
-        "count": 604,
+        "count": 874,
         "x": 7,
         "y": 25
     },
@@ -891,7 +891,7 @@
         "hold_id": "1215",
         "placement_id": "1278",
         "hold_role": "13",
-        "count": 1035,
+        "count": 1536,
         "x": 9,
         "y": 25
     },
@@ -899,7 +899,7 @@
         "hold_id": "1536",
         "placement_id": "1306",
         "hold_role": "13",
-        "count": 5621,
+        "count": 7851,
         "x": 31,
         "y": 27
     },
@@ -907,7 +907,7 @@
         "hold_id": "1476",
         "placement_id": "1270",
         "hold_role": "13",
-        "count": 5847,
+        "count": 8474,
         "x": 27,
         "y": 23
     },
@@ -915,7 +915,7 @@
         "hold_id": "1557",
         "placement_id": "1290",
         "hold_role": "13",
-        "count": 2411,
+        "count": 3271,
         "x": 33,
         "y": 25
     },
@@ -923,7 +923,7 @@
         "hold_id": "1494",
         "placement_id": "1356",
         "hold_role": "13",
-        "count": 3029,
+        "count": 4465,
         "x": 29,
         "y": 33
     },
@@ -931,7 +931,7 @@
         "hold_id": "1585",
         "placement_id": "1223",
         "hold_role": "13",
-        "count": 2371,
+        "count": 3318,
         "x": 35,
         "y": 17
     },
@@ -939,7 +939,7 @@
         "hold_id": "1562",
         "placement_id": "1239",
         "hold_role": "13",
-        "count": 3211,
+        "count": 4805,
         "x": 33,
         "y": 19
     },
@@ -947,7 +947,7 @@
         "hold_id": "1503",
         "placement_id": "1254",
         "hold_role": "13",
-        "count": 7057,
+        "count": 9467,
         "x": 29,
         "y": 21
     },
@@ -955,7 +955,7 @@
         "hold_id": "1556",
         "placement_id": "1307",
         "hold_role": "13",
-        "count": 1798,
+        "count": 2652,
         "x": 33,
         "y": 27
     },
@@ -963,7 +963,7 @@
         "hold_id": "1540",
         "placement_id": "1357",
         "hold_role": "13",
-        "count": 4217,
+        "count": 5854,
         "x": 31,
         "y": 33
     },
@@ -971,7 +971,7 @@
         "hold_id": "1245",
         "placement_id": "1228",
         "hold_role": "13",
-        "count": 3693,
+        "count": 5053,
         "x": 11,
         "y": 19
     },
@@ -979,7 +979,7 @@
         "hold_id": "1568",
         "placement_id": "1171",
         "hold_role": "13",
-        "count": 565,
+        "count": 795,
         "x": 33,
         "y": 11
     },
@@ -987,7 +987,7 @@
         "hold_id": "1582",
         "placement_id": "1189",
         "hold_role": "13",
-        "count": 792,
+        "count": 1152,
         "x": 35,
         "y": 13
     },
@@ -995,7 +995,7 @@
         "hold_id": "1305",
         "placement_id": "1264",
         "hold_role": "13",
-        "count": 3935,
+        "count": 5532,
         "x": 15,
         "y": 23
     },
@@ -1003,7 +1003,7 @@
         "hold_id": "1541",
         "placement_id": "1374",
         "hold_role": "13",
-        "count": 1562,
+        "count": 2265,
         "x": 31,
         "y": 35
     },
@@ -1011,7 +1011,7 @@
         "hold_id": "1212",
         "placement_id": "1312",
         "hold_role": "13",
-        "count": 931,
+        "count": 1385,
         "x": 9,
         "y": 29
     },
@@ -1019,7 +1019,7 @@
         "hold_id": "1255",
         "placement_id": "1347",
         "hold_role": "13",
-        "count": 2814,
+        "count": 4295,
         "x": 11,
         "y": 33
     },
@@ -1027,7 +1027,7 @@
         "hold_id": "1362",
         "placement_id": "1266",
         "hold_role": "13",
-        "count": 4998,
+        "count": 6902,
         "x": 19,
         "y": 23
     },
@@ -1035,7 +1035,7 @@
         "hold_id": "1477",
         "placement_id": "1287",
         "hold_role": "13",
-        "count": 7308,
+        "count": 9684,
         "x": 27,
         "y": 25
     },
@@ -1043,7 +1043,7 @@
         "hold_id": "1554",
         "placement_id": "1324",
         "hold_role": "13",
-        "count": 2004,
+        "count": 3057,
         "x": 33,
         "y": 29
     },
@@ -1051,7 +1051,7 @@
         "hold_id": "1334",
         "placement_id": "1231",
         "hold_role": "13",
-        "count": 4777,
+        "count": 6821,
         "x": 17,
         "y": 19
     },
@@ -1059,7 +1059,7 @@
         "hold_id": "1328",
         "placement_id": "1299",
         "hold_role": "13",
-        "count": 3813,
+        "count": 5509,
         "x": 17,
         "y": 27
     },
@@ -1067,7 +1067,7 @@
         "hold_id": "1530",
         "placement_id": "1238",
         "hold_role": "13",
-        "count": 2204,
+        "count": 2966,
         "x": 31,
         "y": 19
     },
@@ -1075,7 +1075,7 @@
         "hold_id": "1445",
         "placement_id": "1269",
         "hold_role": "13",
-        "count": 7395,
+        "count": 10196,
         "x": 25,
         "y": 23
     },
@@ -1083,7 +1083,7 @@
         "hold_id": "1385",
         "placement_id": "1301",
         "hold_role": "13",
-        "count": 5021,
+        "count": 7155,
         "x": 21,
         "y": 27
     },
@@ -1091,7 +1091,7 @@
         "hold_id": "1442",
         "placement_id": "1303",
         "hold_role": "13",
-        "count": 3598,
+        "count": 5296,
         "x": 25,
         "y": 27
     },
@@ -1099,7 +1099,7 @@
         "hold_id": "1379",
         "placement_id": "1369",
         "hold_role": "13",
-        "count": 2101,
+        "count": 3005,
         "x": 21,
         "y": 35
     },
@@ -1107,7 +1107,7 @@
         "hold_id": "1332",
         "placement_id": "1248",
         "hold_role": "13",
-        "count": 4257,
+        "count": 6022,
         "x": 17,
         "y": 21
     },
@@ -1115,7 +1115,7 @@
         "hold_id": "1560",
         "placement_id": "1256",
         "hold_role": "13",
-        "count": 2665,
+        "count": 3777,
         "x": 33,
         "y": 21
     },
@@ -1123,7 +1123,7 @@
         "hold_id": "1611",
         "placement_id": "1326",
         "hold_role": "13",
-        "count": 1269,
+        "count": 1798,
         "x": 37,
         "y": 29
     },
@@ -1131,7 +1131,7 @@
         "hold_id": "1423",
         "placement_id": "1319",
         "hold_role": "13",
-        "count": 5029,
+        "count": 6864,
         "x": 23,
         "y": 29
     },
@@ -1139,7 +1139,7 @@
         "hold_id": "1480",
         "placement_id": "1321",
         "hold_role": "13",
-        "count": 3703,
+        "count": 5267,
         "x": 27,
         "y": 29
     },
@@ -1147,7 +1147,7 @@
         "hold_id": "1175",
         "placement_id": "1492",
         "hold_role": "13",
-        "count": 13,
+        "count": 17,
         "x": 8,
         "y": 10
     },
@@ -1155,7 +1155,7 @@
         "hold_id": "1238",
         "placement_id": "1493",
         "hold_role": "13",
-        "count": 23,
+        "count": 29,
         "x": 12,
         "y": 10
     },
@@ -1163,7 +1163,7 @@
         "hold_id": "1295",
         "placement_id": "1494",
         "hold_role": "13",
-        "count": 23,
+        "count": 36,
         "x": 16,
         "y": 10
     },
@@ -1171,7 +1171,7 @@
         "hold_id": "1225",
         "placement_id": "1502",
         "hold_role": "13",
-        "count": 29,
+        "count": 42,
         "x": 10,
         "y": 12
     },
@@ -1179,7 +1179,7 @@
         "hold_id": "1282",
         "placement_id": "1503",
         "hold_role": "13",
-        "count": 96,
+        "count": 107,
         "x": 14,
         "y": 12
     },
@@ -1187,7 +1187,7 @@
         "hold_id": "1241",
         "placement_id": "1511",
         "hold_role": "13",
-        "count": 99,
+        "count": 137,
         "x": 12,
         "y": 14
     },
@@ -1195,7 +1195,7 @@
         "hold_id": "1270",
         "placement_id": "1575",
         "hold_role": "13",
-        "count": 105,
+        "count": 132,
         "x": 14,
         "y": 28
     },
@@ -1203,7 +1203,7 @@
         "hold_id": "1253",
         "placement_id": "1583",
         "hold_role": "13",
-        "count": 90,
+        "count": 116,
         "x": 12,
         "y": 30
     },
@@ -1211,7 +1211,7 @@
         "hold_id": "1310",
         "placement_id": "1584",
         "hold_role": "13",
-        "count": 141,
+        "count": 169,
         "x": 16,
         "y": 30
     },
@@ -1219,7 +1219,7 @@
         "hold_id": "1210",
         "placement_id": "1592",
         "hold_role": "13",
-        "count": 59,
+        "count": 60,
         "x": 10,
         "y": 32
     },
@@ -1227,7 +1227,7 @@
         "hold_id": "1267",
         "placement_id": "1593",
         "hold_role": "13",
-        "count": 206,
+        "count": 256,
         "x": 14,
         "y": 32
     },
@@ -1235,7 +1235,7 @@
         "hold_id": "1324",
         "placement_id": "1594",
         "hold_role": "13",
-        "count": 366,
+        "count": 456,
         "x": 18,
         "y": 32
     },
@@ -1243,7 +1243,7 @@
         "hold_id": "1280",
         "placement_id": "1195",
         "hold_role": "13",
-        "count": 1948,
+        "count": 2661,
         "x": 13,
         "y": 15
     },
@@ -1251,7 +1251,7 @@
         "hold_id": "1446",
         "placement_id": "1252",
         "hold_role": "13",
-        "count": 3408,
+        "count": 5047,
         "x": 25,
         "y": 21
     },
@@ -1259,7 +1259,7 @@
         "hold_id": "1254",
         "placement_id": "1330",
         "hold_role": "13",
-        "count": 1207,
+        "count": 1819,
         "x": 11,
         "y": 31
     },
@@ -1267,7 +1267,7 @@
         "hold_id": "1393",
         "placement_id": "1523",
         "hold_role": "13",
-        "count": 569,
+        "count": 828,
         "x": 22,
         "y": 16
     },
@@ -1275,7 +1275,7 @@
         "hold_id": "1417",
         "placement_id": "1251",
         "hold_role": "13",
-        "count": 3154,
+        "count": 4637,
         "x": 23,
         "y": 21
     },
@@ -1283,7 +1283,7 @@
         "hold_id": "1484",
         "placement_id": "1372",
         "hold_role": "13",
-        "count": 2825,
+        "count": 3788,
         "x": 27,
         "y": 35
     },
@@ -1291,7 +1291,7 @@
         "hold_id": "1194",
         "placement_id": "1311",
         "hold_role": "13",
-        "count": 798,
+        "count": 1212,
         "x": 7,
         "y": 29
     },
@@ -1299,7 +1299,7 @@
         "hold_id": "1566",
         "placement_id": "1188",
         "hold_role": "13",
-        "count": 1134,
+        "count": 1520,
         "x": 33,
         "y": 13
     },
@@ -1307,7 +1307,7 @@
         "hold_id": "1449",
         "placement_id": "1218",
         "hold_role": "13",
-        "count": 3102,
+        "count": 4381,
         "x": 25,
         "y": 17
     },
@@ -1315,7 +1315,7 @@
         "hold_id": "1226",
         "placement_id": "1159",
         "hold_role": "13",
-        "count": 261,
+        "count": 402,
         "x": 9,
         "y": 11
     },
@@ -1323,7 +1323,7 @@
         "hold_id": "1242",
         "placement_id": "1194",
         "hold_role": "13",
-        "count": 1278,
+        "count": 1849,
         "x": 11,
         "y": 15
     },
@@ -1331,7 +1331,7 @@
         "hold_id": "1218",
         "placement_id": "1244",
         "hold_role": "13",
-        "count": 867,
+        "count": 1282,
         "x": 9,
         "y": 21
     },
@@ -1339,7 +1339,7 @@
         "hold_id": "1188",
         "placement_id": "1260",
         "hold_role": "13",
-        "count": 996,
+        "count": 1531,
         "x": 7,
         "y": 23
     },
@@ -1347,7 +1347,7 @@
         "hold_id": "1271",
         "placement_id": "1297",
         "hold_role": "13",
-        "count": 2449,
+        "count": 3407,
         "x": 13,
         "y": 27
     },
@@ -1355,7 +1355,7 @@
         "hold_id": "1425",
         "placement_id": "1336",
         "hold_role": "13",
-        "count": 3958,
+        "count": 5847,
         "x": 23,
         "y": 31
     },
@@ -1363,7 +1363,7 @@
         "hold_id": "1483",
         "placement_id": "1355",
         "hold_role": "13",
-        "count": 3490,
+        "count": 5012,
         "x": 27,
         "y": 33
     },
@@ -1371,7 +1371,7 @@
         "hold_id": "1353",
         "placement_id": "1164",
         "hold_role": "13",
-        "count": 909,
+        "count": 1416,
         "x": 19,
         "y": 11
     },
@@ -1379,7 +1379,7 @@
         "hold_id": "1361",
         "placement_id": "1549",
         "hold_role": "13",
-        "count": 352,
+        "count": 469,
         "x": 20,
         "y": 22
     },
@@ -1387,7 +1387,7 @@
         "hold_id": "1418",
         "placement_id": "1550",
         "hold_role": "13",
-        "count": 592,
+        "count": 783,
         "x": 24,
         "y": 22
     },
@@ -1395,7 +1395,7 @@
         "hold_id": "1454",
         "placement_id": "1167",
         "hold_role": "13",
-        "count": 858,
+        "count": 1246,
         "x": 25,
         "y": 11
     },
@@ -1403,7 +1403,7 @@
         "hold_id": "1613",
         "placement_id": "1309",
         "hold_role": "13",
-        "count": 914,
+        "count": 1355,
         "x": 37,
         "y": 27
     },
@@ -1411,7 +1411,7 @@
         "hold_id": "1265",
         "placement_id": "1365",
         "hold_role": "13",
-        "count": 1241,
+        "count": 1747,
         "x": 13,
         "y": 35
     },
@@ -1419,7 +1419,7 @@
         "hold_id": "1550",
         "placement_id": "1375",
         "hold_role": "13",
-        "count": 1992,
+        "count": 2865,
         "x": 33,
         "y": 35
     },
@@ -1427,7 +1427,7 @@
         "hold_id": "1655",
         "placement_id": "1378",
         "hold_role": "13",
-        "count": 174,
+        "count": 264,
         "x": 39,
         "y": 35
     },
@@ -1435,7 +1435,7 @@
         "hold_id": "1309",
         "placement_id": "1315",
         "hold_role": "13",
-        "count": 4258,
+        "count": 6317,
         "x": 15,
         "y": 29
     },
@@ -1443,7 +1443,7 @@
         "hold_id": "1499",
         "placement_id": "1305",
         "hold_role": "13",
-        "count": 3402,
+        "count": 5101,
         "x": 29,
         "y": 27
     },
@@ -1451,7 +1451,7 @@
         "hold_id": "1518",
         "placement_id": "1102",
         "hold_role": "13",
-        "count": 24,
+        "count": 71,
         "x": 31,
         "y": 3
     },
@@ -1459,7 +1459,7 @@
         "hold_id": "1574",
         "placement_id": "1103",
         "hold_role": "13",
-        "count": 31,
+        "count": 64,
         "x": 33,
         "y": 3
     },
@@ -1467,7 +1467,7 @@
         "hold_id": "1519",
         "placement_id": "1119",
         "hold_role": "13",
-        "count": 52,
+        "count": 90,
         "x": 31,
         "y": 5
     },
@@ -1475,7 +1475,7 @@
         "hold_id": "1572",
         "placement_id": "1120",
         "hold_role": "13",
-        "count": 51,
+        "count": 104,
         "x": 33,
         "y": 5
     },
@@ -1483,7 +1483,7 @@
         "hold_id": "1521",
         "placement_id": "1136",
         "hold_role": "13",
-        "count": 160,
+        "count": 268,
         "x": 31,
         "y": 7
     },
@@ -1491,7 +1491,7 @@
         "hold_id": "1571",
         "placement_id": "1137",
         "hold_role": "13",
-        "count": 82,
+        "count": 154,
         "x": 33,
         "y": 7
     },
@@ -1499,7 +1499,7 @@
         "hold_id": "1522",
         "placement_id": "1153",
         "hold_role": "13",
-        "count": 516,
+        "count": 740,
         "x": 31,
         "y": 9
     },
@@ -1507,7 +1507,7 @@
         "hold_id": "1569",
         "placement_id": "1154",
         "hold_role": "13",
-        "count": 302,
+        "count": 495,
         "x": 33,
         "y": 9
     },
@@ -1515,7 +1515,7 @@
         "hold_id": "1565",
         "placement_id": "1205",
         "hold_role": "13",
-        "count": 1810,
+        "count": 2585,
         "x": 33,
         "y": 15
     },
@@ -1523,7 +1523,7 @@
         "hold_id": "1537",
         "placement_id": "1323",
         "hold_role": "13",
-        "count": 2636,
+        "count": 3688,
         "x": 31,
         "y": 29
     },
@@ -1531,7 +1531,7 @@
         "hold_id": "1623",
         "placement_id": "1190",
         "hold_role": "13",
-        "count": 678,
+        "count": 968,
         "x": 37,
         "y": 13
     },
@@ -1539,7 +1539,7 @@
         "hold_id": "1610",
         "placement_id": "1343",
         "hold_role": "13",
-        "count": 952,
+        "count": 1512,
         "x": 37,
         "y": 31
     },
@@ -1547,7 +1547,7 @@
         "hold_id": "1597",
         "placement_id": "1359",
         "hold_role": "13",
-        "count": 2599,
+        "count": 3773,
         "x": 35,
         "y": 33
     },
@@ -1555,7 +1555,7 @@
         "hold_id": "1596",
         "placement_id": "1342",
         "hold_role": "13",
-        "count": 1298,
+        "count": 1925,
         "x": 35,
         "y": 31
     },
@@ -1563,7 +1563,7 @@
         "hold_id": "1479",
         "placement_id": "1304",
         "hold_role": "13",
-        "count": 6859,
+        "count": 9620,
         "x": 27,
         "y": 27
     },
@@ -1571,7 +1571,7 @@
         "hold_id": "1392",
         "placement_id": "1216",
         "hold_role": "13",
-        "count": 5561,
+        "count": 7376,
         "x": 21,
         "y": 17
     },
@@ -1579,7 +1579,7 @@
         "hold_id": "1277",
         "placement_id": "1229",
         "hold_role": "13",
-        "count": 1851,
+        "count": 2624,
         "x": 13,
         "y": 19
     },
@@ -1587,7 +1587,7 @@
         "hold_id": "1443",
         "placement_id": "1286",
         "hold_role": "13",
-        "count": 4910,
+        "count": 7061,
         "x": 25,
         "y": 25
     },
@@ -1595,7 +1595,7 @@
         "hold_id": "1437",
         "placement_id": "1354",
         "hold_role": "13",
-        "count": 3314,
+        "count": 4701,
         "x": 25,
         "y": 33
     },
@@ -1603,7 +1603,7 @@
         "hold_id": "1347",
         "placement_id": "1096",
         "hold_role": "13",
-        "count": 68,
+        "count": 124,
         "x": 19,
         "y": 3
     },
@@ -1611,7 +1611,7 @@
         "hold_id": "1401",
         "placement_id": "1114",
         "hold_role": "13",
-        "count": 119,
+        "count": 209,
         "x": 21,
         "y": 5
     },
@@ -1619,7 +1619,7 @@
         "hold_id": "1394",
         "placement_id": "1199",
         "hold_role": "13",
-        "count": 3514,
+        "count": 4890,
         "x": 21,
         "y": 15
     },
@@ -1627,7 +1627,7 @@
         "hold_id": "1492",
         "placement_id": "1390",
         "hold_role": "13",
-        "count": 723,
+        "count": 1167,
         "x": 29,
         "y": 37
     },
@@ -1635,7 +1635,7 @@
         "hold_id": "1465",
         "placement_id": "1151",
         "hold_role": "13",
-        "count": 295,
+        "count": 459,
         "x": 27,
         "y": 9
     },
@@ -1643,7 +1643,7 @@
         "hold_id": "1511",
         "placement_id": "1169",
         "hold_role": "13",
-        "count": 1427,
+        "count": 2111,
         "x": 29,
         "y": 11
     },
@@ -1651,7 +1651,7 @@
         "hold_id": "1300",
         "placement_id": "1213",
         "hold_role": "13",
-        "count": 1939,
+        "count": 2830,
         "x": 15,
         "y": 17
     },
@@ -1659,7 +1659,7 @@
         "hold_id": "1400",
         "placement_id": "1131",
         "hold_role": "13",
-        "count": 252,
+        "count": 450,
         "x": 21,
         "y": 7
     },
@@ -1667,7 +1667,7 @@
         "hold_id": "1313",
         "placement_id": "1366",
         "hold_role": "13",
-        "count": 1434,
+        "count": 2184,
         "x": 15,
         "y": 35
     },
@@ -1675,7 +1675,7 @@
         "hold_id": "1239",
         "placement_id": "1160",
         "hold_role": "13",
-        "count": 325,
+        "count": 472,
         "x": 11,
         "y": 11
     },
@@ -1683,7 +1683,7 @@
         "hold_id": "1178",
         "placement_id": "1175",
         "hold_role": "13",
-        "count": 457,
+        "count": 678,
         "x": 7,
         "y": 13
     },
@@ -1691,7 +1691,7 @@
         "hold_id": "1452",
         "placement_id": "1184",
         "hold_role": "13",
-        "count": 1705,
+        "count": 2323,
         "x": 25,
         "y": 13
     },
@@ -1699,7 +1699,7 @@
         "hold_id": "1297",
         "placement_id": "1179",
         "hold_role": "13",
-        "count": 1336,
+        "count": 2021,
         "x": 15,
         "y": 13
     },
@@ -1707,7 +1707,7 @@
         "hold_id": "1308",
         "placement_id": "1298",
         "hold_role": "13",
-        "count": 3378,
+        "count": 4433,
         "x": 15,
         "y": 27
     },
@@ -1715,7 +1715,7 @@
         "hold_id": "1252",
         "placement_id": "1313",
         "hold_role": "13",
-        "count": 1098,
+        "count": 1735,
         "x": 11,
         "y": 29
     },
@@ -1723,7 +1723,7 @@
         "hold_id": "1335",
         "placement_id": "1214",
         "hold_role": "13",
-        "count": 3763,
+        "count": 5507,
         "x": 17,
         "y": 17
     },
@@ -1731,7 +1731,7 @@
         "hold_id": "1325",
         "placement_id": "1333",
         "hold_role": "13",
-        "count": 3127,
+        "count": 4236,
         "x": 17,
         "y": 31
     },
@@ -1739,7 +1739,7 @@
         "hold_id": "1590",
         "placement_id": "1274",
         "hold_role": "13",
-        "count": 1412,
+        "count": 2266,
         "x": 35,
         "y": 23
     },
@@ -1747,7 +1747,7 @@
         "hold_id": "1647",
         "placement_id": "1276",
         "hold_role": "13",
-        "count": 1084,
+        "count": 1575,
         "x": 39,
         "y": 23
     },
@@ -1755,7 +1755,7 @@
         "hold_id": "1653",
         "placement_id": "1344",
         "hold_role": "13",
-        "count": 1259,
+        "count": 1722,
         "x": 39,
         "y": 31
     },
@@ -1763,7 +1763,7 @@
         "hold_id": "1524",
         "placement_id": "1170",
         "hold_role": "13",
-        "count": 687,
+        "count": 1014,
         "x": 31,
         "y": 11
     },
@@ -1771,7 +1771,7 @@
         "hold_id": "1427",
         "placement_id": "1370",
         "hold_role": "13",
-        "count": 1851,
+        "count": 2728,
         "x": 23,
         "y": 35
     },
@@ -1779,7 +1779,7 @@
         "hold_id": "1485",
         "placement_id": "1389",
         "hold_role": "13",
-        "count": 996,
+        "count": 1637,
         "x": 27,
         "y": 37
     },
@@ -1787,7 +1787,7 @@
         "hold_id": "1366",
         "placement_id": "1317",
         "hold_role": "13",
-        "count": 3483,
+        "count": 5184,
         "x": 19,
         "y": 29
     },
@@ -1795,7 +1795,7 @@
         "hold_id": "1591",
         "placement_id": "1291",
         "hold_role": "13",
-        "count": 3216,
+        "count": 4430,
         "x": 35,
         "y": 25
     },
@@ -1803,7 +1803,7 @@
         "hold_id": "1457",
         "placement_id": "1133",
         "hold_role": "13",
-        "count": 221,
+        "count": 377,
         "x": 25,
         "y": 7
     },
@@ -1811,7 +1811,7 @@
         "hold_id": "1355",
         "placement_id": "1513",
         "hold_role": "13",
-        "count": 340,
+        "count": 460,
         "x": 20,
         "y": 14
     },
@@ -1819,7 +1819,7 @@
         "hold_id": "1214",
         "placement_id": "1295",
         "hold_role": "13",
-        "count": 1769,
+        "count": 2416,
         "x": 9,
         "y": 27
     },
@@ -1827,7 +1827,7 @@
         "hold_id": "1579",
         "placement_id": "1155",
         "hold_role": "13",
-        "count": 251,
+        "count": 385,
         "x": 35,
         "y": 9
     },
@@ -1835,7 +1835,7 @@
         "hold_id": "1587",
         "placement_id": "1240",
         "hold_role": "13",
-        "count": 1425,
+        "count": 2184,
         "x": 35,
         "y": 19
     },
@@ -1843,7 +1843,7 @@
         "hold_id": "1594",
         "placement_id": "1325",
         "hold_role": "13",
-        "count": 2002,
+        "count": 2811,
         "x": 35,
         "y": 29
     },
@@ -1851,7 +1851,7 @@
         "hold_id": "1598",
         "placement_id": "1376",
         "hold_role": "13",
-        "count": 757,
+        "count": 1116,
         "x": 35,
         "y": 35
     },
@@ -1859,7 +1859,7 @@
         "hold_id": "1555",
         "placement_id": "1580",
         "hold_role": "13",
-        "count": 207,
+        "count": 293,
         "x": 34,
         "y": 28
     },
@@ -1867,7 +1867,7 @@
         "hold_id": "1223",
         "placement_id": "1193",
         "hold_role": "13",
-        "count": 796,
+        "count": 1139,
         "x": 9,
         "y": 15
     },
@@ -1875,7 +1875,7 @@
         "hold_id": "1199",
         "placement_id": "1362",
         "hold_role": "13",
-        "count": 229,
+        "count": 380,
         "x": 7,
         "y": 35
     },
@@ -1883,7 +1883,7 @@
         "hold_id": "1198",
         "placement_id": "1345",
         "hold_role": "13",
-        "count": 1270,
+        "count": 1810,
         "x": 7,
         "y": 33
     },
@@ -1891,7 +1891,7 @@
         "hold_id": "1321",
         "placement_id": "1384",
         "hold_role": "13",
-        "count": 716,
+        "count": 1193,
         "x": 17,
         "y": 37
     },
@@ -1899,7 +1899,7 @@
         "hold_id": "1428",
         "placement_id": "1387",
         "hold_role": "13",
-        "count": 1144,
+        "count": 1876,
         "x": 23,
         "y": 37
     },
@@ -1907,7 +1907,7 @@
         "hold_id": "1322",
         "placement_id": "1367",
         "hold_role": "13",
-        "count": 2038,
+        "count": 2782,
         "x": 17,
         "y": 35
     },
@@ -1915,7 +1915,7 @@
         "hold_id": "1296",
         "placement_id": "1162",
         "hold_role": "13",
-        "count": 682,
+        "count": 1020,
         "x": 15,
         "y": 11
     },
@@ -1923,7 +1923,7 @@
         "hold_id": "1240",
         "placement_id": "1177",
         "hold_role": "13",
-        "count": 842,
+        "count": 1190,
         "x": 11,
         "y": 13
     },
@@ -1931,7 +1931,7 @@
         "hold_id": "1644",
         "placement_id": "1242",
         "hold_role": "13",
-        "count": 487,
+        "count": 739,
         "x": 39,
         "y": 19
     },
@@ -1939,7 +1939,7 @@
         "hold_id": "1311",
         "placement_id": "1332",
         "hold_role": "13",
-        "count": 4133,
+        "count": 5359,
         "x": 15,
         "y": 31
     },
@@ -1947,7 +1947,7 @@
         "hold_id": "1217",
         "placement_id": "1261",
         "hold_role": "13",
-        "count": 1369,
+        "count": 1856,
         "x": 9,
         "y": 23
     },
@@ -1955,7 +1955,7 @@
         "hold_id": "1222",
         "placement_id": "1520",
         "hold_role": "13",
-        "count": 96,
+        "count": 126,
         "x": 10,
         "y": 16
     },
@@ -1963,7 +1963,7 @@
         "hold_id": "1384",
         "placement_id": "1577",
         "hold_role": "13",
-        "count": 495,
+        "count": 664,
         "x": 22,
         "y": 28
     },
@@ -1971,7 +1971,7 @@
         "hold_id": "1642",
         "placement_id": "1225",
         "hold_role": "13",
-        "count": 578,
+        "count": 802,
         "x": 39,
         "y": 17
     },
@@ -1979,7 +1979,7 @@
         "hold_id": "1435",
         "placement_id": "1388",
         "hold_role": "13",
-        "count": 506,
+        "count": 806,
         "x": 25,
         "y": 37
     },
@@ -1987,7 +1987,7 @@
         "hold_id": "1549",
         "placement_id": "1392",
         "hold_role": "13",
-        "count": 334,
+        "count": 528,
         "x": 33,
         "y": 37
     },
@@ -1995,7 +1995,7 @@
         "hold_id": "1607",
         "placement_id": "1377",
         "hold_role": "13",
-        "count": 340,
+        "count": 541,
         "x": 37,
         "y": 35
     },
@@ -2003,7 +2003,7 @@
         "hold_id": "1504",
         "placement_id": "1543",
         "hold_role": "13",
-        "count": 750,
+        "count": 1087,
         "x": 30,
         "y": 20
     },
@@ -2011,7 +2011,7 @@
         "hold_id": "1638",
         "placement_id": "1174",
         "hold_role": "13",
-        "count": 216,
+        "count": 331,
         "x": 39,
         "y": 11
     },
@@ -2019,7 +2019,7 @@
         "hold_id": "1639",
         "placement_id": "1191",
         "hold_role": "13",
-        "count": 303,
+        "count": 413,
         "x": 39,
         "y": 13
     },
@@ -2027,7 +2027,7 @@
         "hold_id": "1651",
         "placement_id": "1327",
         "hold_role": "13",
-        "count": 633,
+        "count": 987,
         "x": 39,
         "y": 29
     },
@@ -2035,7 +2035,7 @@
         "hold_id": "1227",
         "placement_id": "1142",
         "hold_role": "13",
-        "count": 193,
+        "count": 286,
         "x": 9,
         "y": 9
     },
@@ -2043,7 +2043,7 @@
         "hold_id": "1237",
         "placement_id": "1143",
         "hold_role": "13",
-        "count": 214,
+        "count": 346,
         "x": 11,
         "y": 9
     },
@@ -2051,7 +2051,7 @@
         "hold_id": "1284",
         "placement_id": "1144",
         "hold_role": "13",
-        "count": 297,
+        "count": 489,
         "x": 13,
         "y": 9
     },
@@ -2059,7 +2059,7 @@
         "hold_id": "1294",
         "placement_id": "1145",
         "hold_role": "13",
-        "count": 319,
+        "count": 492,
         "x": 15,
         "y": 9
     },
@@ -2067,7 +2067,7 @@
         "hold_id": "1351",
         "placement_id": "1147",
         "hold_role": "13",
-        "count": 826,
+        "count": 1265,
         "x": 19,
         "y": 9
     },
@@ -2075,7 +2075,7 @@
         "hold_id": "1398",
         "placement_id": "1148",
         "hold_role": "13",
-        "count": 640,
+        "count": 913,
         "x": 21,
         "y": 9
     },
@@ -2083,7 +2083,7 @@
         "hold_id": "1455",
         "placement_id": "1150",
         "hold_role": "13",
-        "count": 424,
+        "count": 663,
         "x": 25,
         "y": 9
     },
@@ -2091,7 +2091,7 @@
         "hold_id": "1512",
         "placement_id": "1152",
         "hold_role": "13",
-        "count": 403,
+        "count": 607,
         "x": 29,
         "y": 9
     },
@@ -2099,7 +2099,7 @@
         "hold_id": "1182",
         "placement_id": "1209",
         "hold_role": "13",
-        "count": 723,
+        "count": 1048,
         "x": 7,
         "y": 17
     },
@@ -2107,7 +2107,7 @@
         "hold_id": "1249",
         "placement_id": "1279",
         "hold_role": "13",
-        "count": 1409,
+        "count": 2030,
         "x": 11,
         "y": 25
     },
@@ -2115,7 +2115,7 @@
         "hold_id": "1208",
         "placement_id": "1363",
         "hold_role": "13",
-        "count": 332,
+        "count": 509,
         "x": 9,
         "y": 35
     },
@@ -2123,7 +2123,7 @@
         "hold_id": "1150",
         "placement_id": "1081",
         "hold_role": "13",
-        "count": 125,
+        "count": 223,
         "x": 23,
         "y": 1
     },
@@ -2131,7 +2131,7 @@
         "hold_id": "1467",
         "placement_id": "1168",
         "hold_role": "13",
-        "count": 1135,
+        "count": 1632,
         "x": 27,
         "y": 11
     },
@@ -2139,7 +2139,7 @@
         "hold_id": "1581",
         "placement_id": "1172",
         "hold_role": "13",
-        "count": 273,
+        "count": 378,
         "x": 35,
         "y": 11
     },
@@ -2147,7 +2147,7 @@
         "hold_id": "1648",
         "placement_id": "1293",
         "hold_role": "13",
-        "count": 661,
+        "count": 920,
         "x": 39,
         "y": 25
     },
@@ -2155,7 +2155,7 @@
         "hold_id": "1529",
         "placement_id": "1534",
         "hold_role": "13",
-        "count": 96,
+        "count": 123,
         "x": 32,
         "y": 18
     },
@@ -2163,7 +2163,7 @@
         "hold_id": "1538",
         "placement_id": "1588",
         "hold_role": "13",
-        "count": 143,
+        "count": 186,
         "x": 32,
         "y": 30
     },
@@ -2171,7 +2171,7 @@
         "hold_id": "1381",
         "placement_id": "1595",
         "hold_role": "13",
-        "count": 212,
+        "count": 262,
         "x": 22,
         "y": 32
     },
@@ -2179,7 +2179,7 @@
         "hold_id": "1495",
         "placement_id": "1597",
         "hold_role": "13",
-        "count": 353,
+        "count": 440,
         "x": 30,
         "y": 32
     },
@@ -2187,7 +2187,7 @@
         "hold_id": "1390",
         "placement_id": "1541",
         "hold_role": "13",
-        "count": 567,
+        "count": 763,
         "x": 22,
         "y": 20
     },
@@ -2195,7 +2195,7 @@
         "hold_id": "1616",
         "placement_id": "1275",
         "hold_role": "13",
-        "count": 637,
+        "count": 977,
         "x": 37,
         "y": 23
     },
@@ -2203,7 +2203,7 @@
         "hold_id": "1152",
         "placement_id": "1082",
         "hold_role": "13",
-        "count": 74,
+        "count": 133,
         "x": 21,
         "y": 1
     },
@@ -2211,7 +2211,7 @@
         "hold_id": "1344",
         "placement_id": "1112",
         "hold_role": "13",
-        "count": 50,
+        "count": 107,
         "x": 17,
         "y": 5
     },
@@ -2219,7 +2219,7 @@
         "hold_id": "1405",
         "placement_id": "1115",
         "hold_role": "13",
-        "count": 64,
+        "count": 163,
         "x": 23,
         "y": 5
     },
@@ -2227,7 +2227,7 @@
         "hold_id": "1286",
         "placement_id": "1127",
         "hold_role": "13",
-        "count": 90,
+        "count": 169,
         "x": 13,
         "y": 7
     },
@@ -2235,7 +2235,7 @@
         "hold_id": "1293",
         "placement_id": "1128",
         "hold_role": "13",
-        "count": 144,
+        "count": 262,
         "x": 15,
         "y": 7
     },
@@ -2243,7 +2243,7 @@
         "hold_id": "1224",
         "placement_id": "1176",
         "hold_role": "13",
-        "count": 853,
+        "count": 1137,
         "x": 9,
         "y": 13
     },
@@ -2251,7 +2251,7 @@
         "hold_id": "1330",
         "placement_id": "1558",
         "hold_role": "13",
-        "count": 181,
+        "count": 233,
         "x": 18,
         "y": 24
     },
@@ -2259,7 +2259,7 @@
         "hold_id": "1614",
         "placement_id": "1292",
         "hold_role": "13",
-        "count": 876,
+        "count": 1313,
         "x": 37,
         "y": 25
     },
@@ -2267,7 +2267,7 @@
         "hold_id": "1140",
         "placement_id": "1076",
         "hold_role": "13",
-        "count": 33,
+        "count": 66,
         "x": 33,
         "y": 1
     },
@@ -2275,7 +2275,7 @@
         "hold_id": "1142",
         "placement_id": "1077",
         "hold_role": "13",
-        "count": 41,
+        "count": 66,
         "x": 31,
         "y": 1
     },
@@ -2283,7 +2283,7 @@
         "hold_id": "1144",
         "placement_id": "1078",
         "hold_role": "13",
-        "count": 45,
+        "count": 83,
         "x": 29,
         "y": 1
     },
@@ -2291,7 +2291,7 @@
         "hold_id": "1146",
         "placement_id": "1079",
         "hold_role": "13",
-        "count": 70,
+        "count": 127,
         "x": 27,
         "y": 1
     },
@@ -2299,7 +2299,7 @@
         "hold_id": "1148",
         "placement_id": "1080",
         "hold_role": "13",
-        "count": 75,
+        "count": 126,
         "x": 25,
         "y": 1
     },
@@ -2307,7 +2307,7 @@
         "hold_id": "1154",
         "placement_id": "1083",
         "hold_role": "13",
-        "count": 76,
+        "count": 131,
         "x": 19,
         "y": 1
     },
@@ -2315,7 +2315,7 @@
         "hold_id": "1156",
         "placement_id": "1084",
         "hold_role": "13",
-        "count": 66,
+        "count": 108,
         "x": 17,
         "y": 1
     },
@@ -2323,7 +2323,7 @@
         "hold_id": "1158",
         "placement_id": "1085",
         "hold_role": "13",
-        "count": 43,
+        "count": 85,
         "x": 15,
         "y": 1
     },
@@ -2331,7 +2331,7 @@
         "hold_id": "1160",
         "placement_id": "1086",
         "hold_role": "13",
-        "count": 60,
+        "count": 102,
         "x": 13,
         "y": 1
     },
@@ -2339,7 +2339,7 @@
         "hold_id": "1289",
         "placement_id": "1093",
         "hold_role": "13",
-        "count": 38,
+        "count": 76,
         "x": 13,
         "y": 3
     },
@@ -2347,7 +2347,7 @@
         "hold_id": "1290",
         "placement_id": "1094",
         "hold_role": "13",
-        "count": 22,
+        "count": 64,
         "x": 15,
         "y": 3
     },
@@ -2355,7 +2355,7 @@
         "hold_id": "1346",
         "placement_id": "1095",
         "hold_role": "13",
-        "count": 32,
+        "count": 95,
         "x": 17,
         "y": 3
     },
@@ -2363,7 +2363,7 @@
         "hold_id": "1403",
         "placement_id": "1097",
         "hold_role": "13",
-        "count": 71,
+        "count": 138,
         "x": 21,
         "y": 3
     },
@@ -2371,7 +2371,7 @@
         "hold_id": "1404",
         "placement_id": "1098",
         "hold_role": "13",
-        "count": 55,
+        "count": 132,
         "x": 23,
         "y": 3
     },
@@ -2379,7 +2379,7 @@
         "hold_id": "1460",
         "placement_id": "1099",
         "hold_role": "13",
-        "count": 57,
+        "count": 125,
         "x": 25,
         "y": 3
     },
@@ -2387,7 +2387,7 @@
         "hold_id": "1461",
         "placement_id": "1100",
         "hold_role": "13",
-        "count": 50,
+        "count": 108,
         "x": 27,
         "y": 3
     },
@@ -2395,7 +2395,7 @@
         "hold_id": "1517",
         "placement_id": "1101",
         "hold_role": "13",
-        "count": 20,
+        "count": 72,
         "x": 29,
         "y": 3
     },
@@ -2403,7 +2403,7 @@
         "hold_id": "1287",
         "placement_id": "1110",
         "hold_role": "13",
-        "count": 39,
+        "count": 79,
         "x": 13,
         "y": 5
     },
@@ -2411,7 +2411,7 @@
         "hold_id": "1291",
         "placement_id": "1111",
         "hold_role": "13",
-        "count": 38,
+        "count": 96,
         "x": 15,
         "y": 5
     },
@@ -2419,7 +2419,7 @@
         "hold_id": "1348",
         "placement_id": "1113",
         "hold_role": "13",
-        "count": 66,
+        "count": 143,
         "x": 19,
         "y": 5
     },
@@ -2427,7 +2427,7 @@
         "hold_id": "1458",
         "placement_id": "1116",
         "hold_role": "13",
-        "count": 77,
+        "count": 145,
         "x": 25,
         "y": 5
     },
@@ -2435,7 +2435,7 @@
         "hold_id": "1462",
         "placement_id": "1117",
         "hold_role": "13",
-        "count": 72,
+        "count": 148,
         "x": 27,
         "y": 5
     },
@@ -2443,7 +2443,7 @@
         "hold_id": "1515",
         "placement_id": "1118",
         "hold_role": "13",
-        "count": 51,
+        "count": 116,
         "x": 29,
         "y": 5
     },
@@ -2451,7 +2451,7 @@
         "hold_id": "1371",
         "placement_id": "1385",
         "hold_role": "13",
-        "count": 1172,
+        "count": 1923,
         "x": 19,
         "y": 37
     },
@@ -2459,7 +2459,7 @@
         "hold_id": "1276",
         "placement_id": "1539",
         "hold_role": "13",
-        "count": 272,
+        "count": 381,
         "x": 14,
         "y": 20
     },
@@ -2467,7 +2467,7 @@
         "hold_id": "1314",
         "placement_id": "1383",
         "hold_role": "13",
-        "count": 778,
+        "count": 1348,
         "x": 15,
         "y": 37
     },
@@ -2475,7 +2475,7 @@
         "hold_id": "1138",
         "placement_id": "1075",
         "hold_role": "13",
-        "count": 29,
+        "count": 53,
         "x": 35,
         "y": 1
     },
@@ -2483,7 +2483,7 @@
         "hold_id": "1137",
         "placement_id": "1449",
         "hold_role": "13",
-        "count": 16,
+        "count": 22,
         "x": 36,
         "y": 0
     },
@@ -2491,7 +2491,7 @@
         "hold_id": "1406",
         "placement_id": "1478",
         "hold_role": "13",
-        "count": 22,
+        "count": 38,
         "x": 24,
         "y": 6
     },
@@ -2499,7 +2499,7 @@
         "hold_id": "1229",
         "placement_id": "1125",
         "hold_role": "13",
-        "count": 46,
+        "count": 77,
         "x": 9,
         "y": 7
     },
@@ -2507,7 +2507,7 @@
         "hold_id": "1645",
         "placement_id": "1259",
         "hold_role": "13",
-        "count": 932,
+        "count": 1434,
         "x": 39,
         "y": 21
     },
@@ -2515,7 +2515,7 @@
         "hold_id": "1196",
         "placement_id": "1328",
         "hold_role": "13",
-        "count": 483,
+        "count": 715,
         "x": 7,
         "y": 31
     },
@@ -2523,7 +2523,7 @@
         "hold_id": "1493",
         "placement_id": "1373",
         "hold_role": "13",
-        "count": 2202,
+        "count": 3154,
         "x": 29,
         "y": 35
     },
@@ -2531,7 +2531,7 @@
         "hold_id": "1469",
         "placement_id": "1515",
         "hold_role": "13",
-        "count": 264,
+        "count": 339,
         "x": 28,
         "y": 14
     },
@@ -2539,7 +2539,7 @@
         "hold_id": "1246",
         "placement_id": "1245",
         "hold_role": "13",
-        "count": 1549,
+        "count": 2310,
         "x": 11,
         "y": 21
     },
@@ -2547,7 +2547,7 @@
         "hold_id": "1179",
         "placement_id": "1510",
         "hold_role": "13",
-        "count": 18,
+        "count": 23,
         "x": 8,
         "y": 14
     },
@@ -2555,7 +2555,7 @@
         "hold_id": "1301",
         "placement_id": "1530",
         "hold_role": "13",
-        "count": 218,
+        "count": 297,
         "x": 16,
         "y": 18
     },
@@ -2563,7 +2563,7 @@
         "hold_id": "1636",
         "placement_id": "1157",
         "hold_role": "13",
-        "count": 101,
+        "count": 171,
         "x": 39,
         "y": 9
     },
@@ -2571,7 +2571,7 @@
         "hold_id": "1415",
         "placement_id": "1532",
         "hold_role": "13",
-        "count": 251,
+        "count": 350,
         "x": 24,
         "y": 18
     },
@@ -2579,7 +2579,7 @@
         "hold_id": "1478",
         "placement_id": "1569",
         "hold_role": "13",
-        "count": 515,
+        "count": 684,
         "x": 28,
         "y": 26
     },
@@ -2587,7 +2587,7 @@
         "hold_id": "1472",
         "placement_id": "1533",
         "hold_role": "13",
-        "count": 232,
+        "count": 332,
         "x": 28,
         "y": 18
     },
@@ -2595,7 +2595,7 @@
         "hold_id": "1507",
         "placement_id": "1525",
         "hold_role": "13",
-        "count": 339,
+        "count": 449,
         "x": 30,
         "y": 16
     },
@@ -2603,7 +2603,7 @@
         "hold_id": "1412",
         "placement_id": "1514",
         "hold_role": "13",
-        "count": 314,
+        "count": 437,
         "x": 24,
         "y": 14
     },
@@ -2611,7 +2611,7 @@
         "hold_id": "1298",
         "placement_id": "1512",
         "hold_role": "13",
-        "count": 278,
+        "count": 366,
         "x": 16,
         "y": 14
     },
@@ -2619,7 +2619,7 @@
         "hold_id": "1535",
         "placement_id": "1570",
         "hold_role": "13",
-        "count": 103,
+        "count": 142,
         "x": 32,
         "y": 26
     },
@@ -2627,7 +2627,7 @@
         "hold_id": "1584",
         "placement_id": "1206",
         "hold_role": "13",
-        "count": 1118,
+        "count": 1588,
         "x": 35,
         "y": 15
     },
@@ -2635,7 +2635,7 @@
         "hold_id": "1641",
         "placement_id": "1208",
         "hold_role": "13",
-        "count": 531,
+        "count": 765,
         "x": 39,
         "y": 15
     },
@@ -2643,7 +2643,7 @@
         "hold_id": "1526",
         "placement_id": "1516",
         "hold_role": "13",
-        "count": 165,
+        "count": 229,
         "x": 32,
         "y": 14
     },
@@ -2651,7 +2651,7 @@
         "hold_id": "1279",
         "placement_id": "1521",
         "hold_role": "13",
-        "count": 252,
+        "count": 353,
         "x": 14,
         "y": 16
     },
@@ -2659,7 +2659,7 @@
         "hold_id": "1343",
         "placement_id": "1129",
         "hold_role": "13",
-        "count": 154,
+        "count": 246,
         "x": 17,
         "y": 7
     },
@@ -2667,7 +2667,7 @@
         "hold_id": "1157",
         "placement_id": "1459",
         "hold_role": "13",
-        "count": 16,
+        "count": 34,
         "x": 16,
         "y": 0
     },
@@ -2675,7 +2675,7 @@
         "hold_id": "1464",
         "placement_id": "1134",
         "hold_role": "13",
-        "count": 238,
+        "count": 371,
         "x": 27,
         "y": 7
     },
@@ -2683,7 +2683,7 @@
         "hold_id": "1514",
         "placement_id": "1135",
         "hold_role": "13",
-        "count": 129,
+        "count": 235,
         "x": 29,
         "y": 7
     },
@@ -2691,7 +2691,7 @@
         "hold_id": "1181",
         "placement_id": "1519",
         "hold_role": "13",
-        "count": 29,
+        "count": 45,
         "x": 6,
         "y": 16
     },
@@ -2699,7 +2699,7 @@
         "hold_id": "1185",
         "placement_id": "1537",
         "hold_role": "13",
-        "count": 36,
+        "count": 37,
         "x": 6,
         "y": 20
     },
@@ -2707,7 +2707,7 @@
         "hold_id": "1619",
         "placement_id": "1241",
         "hold_role": "13",
-        "count": 2115,
+        "count": 2890,
         "x": 37,
         "y": 19
     },
@@ -2715,7 +2715,7 @@
         "hold_id": "1650",
         "placement_id": "1310",
         "hold_role": "13",
-        "count": 435,
+        "count": 675,
         "x": 39,
         "y": 27
     },
@@ -2723,7 +2723,7 @@
         "hold_id": "1264",
         "placement_id": "1382",
         "hold_role": "13",
-        "count": 452,
+        "count": 809,
         "x": 13,
         "y": 37
     },
@@ -2731,7 +2731,7 @@
         "hold_id": "1656",
         "placement_id": "1395",
         "hold_role": "13",
-        "count": 73,
+        "count": 173,
         "x": 39,
         "y": 37
     },
@@ -2739,7 +2739,7 @@
         "hold_id": "1133",
         "placement_id": "1447",
         "hold_role": "13",
-        "count": 19,
+        "count": 35,
         "x": 40,
         "y": 0
     },
@@ -2747,7 +2747,7 @@
         "hold_id": "1141",
         "placement_id": "1451",
         "hold_role": "13",
-        "count": 17,
+        "count": 20,
         "x": 32,
         "y": 0
     },
@@ -2755,7 +2755,7 @@
         "hold_id": "1145",
         "placement_id": "1453",
         "hold_role": "13",
-        "count": 15,
+        "count": 27,
         "x": 28,
         "y": 0
     },
@@ -2763,7 +2763,7 @@
         "hold_id": "1149",
         "placement_id": "1455",
         "hold_role": "13",
-        "count": 23,
+        "count": 44,
         "x": 24,
         "y": 0
     },
@@ -2771,7 +2771,7 @@
         "hold_id": "1153",
         "placement_id": "1457",
         "hold_role": "13",
-        "count": 18,
+        "count": 28,
         "x": 20,
         "y": 0
     },
@@ -2779,7 +2779,7 @@
         "hold_id": "1161",
         "placement_id": "1461",
         "hold_role": "13",
-        "count": 15,
+        "count": 28,
         "x": 12,
         "y": 0
     },
@@ -2787,7 +2787,7 @@
         "hold_id": "1165",
         "placement_id": "1463",
         "hold_role": "13",
-        "count": 5,
+        "count": 9,
         "x": 8,
         "y": 0
     },
@@ -2795,7 +2795,7 @@
         "hold_id": "1475",
         "placement_id": "1551",
         "hold_role": "13",
-        "count": 259,
+        "count": 341,
         "x": 28,
         "y": 22
     },
@@ -2803,7 +2803,7 @@
         "hold_id": "1327",
         "placement_id": "1576",
         "hold_role": "13",
-        "count": 453,
+        "count": 594,
         "x": 18,
         "y": 28
     },
@@ -2811,7 +2811,7 @@
         "hold_id": "1652",
         "placement_id": "1590",
         "hold_role": "13",
-        "count": 28,
+        "count": 33,
         "x": 40,
         "y": 30
     },
@@ -2819,7 +2819,7 @@
         "hold_id": "1570",
         "placement_id": "1490",
         "hold_role": "13",
-        "count": 10,
+        "count": 11,
         "x": 34,
         "y": 8
     },
@@ -2827,7 +2827,7 @@
         "hold_id": "1387",
         "placement_id": "1559",
         "hold_role": "13",
-        "count": 693,
+        "count": 965,
         "x": 22,
         "y": 24
     },
@@ -2835,7 +2835,7 @@
         "hold_id": "1207",
         "placement_id": "1380",
         "hold_role": "13",
-        "count": 160,
+        "count": 281,
         "x": 9,
         "y": 37
     },
@@ -2843,7 +2843,7 @@
         "hold_id": "1606",
         "placement_id": "1394",
         "hold_role": "13",
-        "count": 163,
+        "count": 310,
         "x": 37,
         "y": 37
     },
@@ -2851,7 +2851,7 @@
         "hold_id": "1134",
         "placement_id": "1073",
         "hold_role": "13",
-        "count": 37,
+        "count": 59,
         "x": 39,
         "y": 1
     },
@@ -2859,7 +2859,7 @@
         "hold_id": "1136",
         "placement_id": "1074",
         "hold_role": "13",
-        "count": 30,
+        "count": 44,
         "x": 37,
         "y": 1
     },
@@ -2867,7 +2867,7 @@
         "hold_id": "1164",
         "placement_id": "1088",
         "hold_role": "13",
-        "count": 31,
+        "count": 58,
         "x": 9,
         "y": 1
     },
@@ -2875,7 +2875,7 @@
         "hold_id": "1167",
         "placement_id": "1089",
         "hold_role": "13",
-        "count": 41,
+        "count": 79,
         "x": 7,
         "y": 1
     },
@@ -2883,7 +2883,7 @@
         "hold_id": "1399",
         "placement_id": "1487",
         "hold_role": "13",
-        "count": 19,
+        "count": 37,
         "x": 22,
         "y": 8
     },
@@ -2891,7 +2891,7 @@
         "hold_id": "1409",
         "placement_id": "1496",
         "hold_role": "13",
-        "count": 60,
+        "count": 95,
         "x": 24,
         "y": 10
     },
@@ -2899,7 +2899,7 @@
         "hold_id": "1498",
         "placement_id": "1579",
         "hold_role": "13",
-        "count": 148,
+        "count": 193,
         "x": 30,
         "y": 28
     },
@@ -2907,7 +2907,7 @@
         "hold_id": "1635",
         "placement_id": "1140",
         "hold_role": "13",
-        "count": 28,
+        "count": 55,
         "x": 39,
         "y": 7
     },
@@ -2915,7 +2915,7 @@
         "hold_id": "1162",
         "placement_id": "1087",
         "hold_role": "13",
-        "count": 29,
+        "count": 68,
         "x": 11,
         "y": 1
     },
@@ -2923,7 +2923,7 @@
         "hold_id": "1575",
         "placement_id": "1104",
         "hold_role": "13",
-        "count": 19,
+        "count": 52,
         "x": 35,
         "y": 3
     },
@@ -2931,7 +2931,7 @@
         "hold_id": "1629",
         "placement_id": "1122",
         "hold_role": "13",
-        "count": 29,
+        "count": 48,
         "x": 37,
         "y": 5
     },
@@ -2939,7 +2939,7 @@
         "hold_id": "1236",
         "placement_id": "1126",
         "hold_role": "13",
-        "count": 70,
+        "count": 135,
         "x": 11,
         "y": 7
     },
@@ -2947,7 +2947,7 @@
         "hold_id": "1578",
         "placement_id": "1138",
         "hold_role": "13",
-        "count": 60,
+        "count": 104,
         "x": 35,
         "y": 7
     },
@@ -2955,7 +2955,7 @@
         "hold_id": "1612",
         "placement_id": "1581",
         "hold_role": "13",
-        "count": 18,
+        "count": 27,
         "x": 38,
         "y": 28
     },
@@ -2963,7 +2963,7 @@
         "hold_id": "1510",
         "placement_id": "1507",
         "hold_role": "13",
-        "count": 69,
+        "count": 92,
         "x": 30,
         "y": 12
     },
@@ -2971,7 +2971,7 @@
         "hold_id": "1333",
         "placement_id": "1540",
         "hold_role": "13",
-        "count": 403,
+        "count": 546,
         "x": 18,
         "y": 20
     },
@@ -2979,7 +2979,7 @@
         "hold_id": "1580",
         "placement_id": "1499",
         "hold_role": "13",
-        "count": 13,
+        "count": 16,
         "x": 36,
         "y": 10
     },
@@ -2987,7 +2987,7 @@
         "hold_id": "1481",
         "placement_id": "1587",
         "hold_role": "13",
-        "count": 193,
+        "count": 282,
         "x": 28,
         "y": 30
     },
@@ -2995,7 +2995,7 @@
         "hold_id": "1247",
         "placement_id": "1547",
         "hold_role": "13",
-        "count": 155,
+        "count": 212,
         "x": 12,
         "y": 22
     },
@@ -3003,31 +3003,15 @@
         "hold_id": "1626",
         "placement_id": "1156",
         "hold_role": "13",
-        "count": 125,
+        "count": 205,
         "x": 37,
         "y": 9
-    },
-    "1273": {
-        "hold_id": "1273",
-        "placement_id": "1557",
-        "hold_role": "13",
-        "count": 265,
-        "x": 14,
-        "y": 24
-    },
-    "1213": {
-        "hold_id": "1213",
-        "placement_id": "1574",
-        "hold_role": "13",
-        "count": 68,
-        "x": 10,
-        "y": 28
     },
     "1367": {
         "hold_id": "1367",
         "placement_id": "1585",
         "hold_role": "13",
-        "count": 171,
+        "count": 210,
         "x": 20,
         "y": 30
     },
@@ -3035,7 +3019,7 @@
         "hold_id": "1364",
         "placement_id": "1567",
         "hold_role": "13",
-        "count": 285,
+        "count": 385,
         "x": 20,
         "y": 26
     },
@@ -3043,7 +3027,7 @@
         "hold_id": "1304",
         "placement_id": "1548",
         "hold_role": "13",
-        "count": 187,
+        "count": 234,
         "x": 16,
         "y": 22
     },
@@ -3051,7 +3035,7 @@
         "hold_id": "1589",
         "placement_id": "1553",
         "hold_role": "13",
-        "count": 150,
+        "count": 211,
         "x": 36,
         "y": 22
     },
@@ -3059,7 +3043,7 @@
         "hold_id": "1424",
         "placement_id": "1586",
         "hold_role": "13",
-        "count": 171,
+        "count": 234,
         "x": 24,
         "y": 30
     },
@@ -3067,7 +3051,7 @@
         "hold_id": "1516",
         "placement_id": "1471",
         "hold_role": "13",
-        "count": 10,
+        "count": 20,
         "x": 30,
         "y": 4
     },
@@ -3075,7 +3059,7 @@
         "hold_id": "1634",
         "placement_id": "1482",
         "hold_role": "13",
-        "count": 7,
+        "count": 8,
         "x": 40,
         "y": 6
     },
@@ -3083,15 +3067,23 @@
         "hold_id": "1637",
         "placement_id": "1500",
         "hold_role": "13",
-        "count": 13,
+        "count": 16,
         "x": 40,
         "y": 10
+    },
+    "1273": {
+        "hold_id": "1273",
+        "placement_id": "1557",
+        "hold_role": "13",
+        "count": 341,
+        "x": 14,
+        "y": 24
     },
     "1358": {
         "hold_id": "1358",
         "placement_id": "1531",
         "hold_role": "13",
-        "count": 178,
+        "count": 244,
         "x": 20,
         "y": 18
     },
@@ -3099,7 +3091,7 @@
         "hold_id": "1193",
         "placement_id": "1573",
         "hold_role": "13",
-        "count": 29,
+        "count": 55,
         "x": 6,
         "y": 28
     },
@@ -3107,7 +3099,7 @@
         "hold_id": "1197",
         "placement_id": "1591",
         "hold_role": "13",
-        "count": 16,
+        "count": 20,
         "x": 6,
         "y": 32
     },
@@ -3115,7 +3107,7 @@
         "hold_id": "1151",
         "placement_id": "1456",
         "hold_role": "13",
-        "count": 13,
+        "count": 27,
         "x": 22,
         "y": 0
     },
@@ -3123,7 +3115,7 @@
         "hold_id": "1177",
         "placement_id": "1501",
         "hold_role": "13",
-        "count": 13,
+        "count": 12,
         "x": 6,
         "y": 12
     },
@@ -3131,7 +3123,7 @@
         "hold_id": "1339",
         "placement_id": "1504",
         "hold_role": "13",
-        "count": 67,
+        "count": 103,
         "x": 18,
         "y": 12
     },
@@ -3139,7 +3131,7 @@
         "hold_id": "1201",
         "placement_id": "1396",
         "hold_role": "13",
-        "count": 9,
+        "count": 10,
         "x": 7,
         "y": 39
     },
@@ -3147,7 +3139,7 @@
         "hold_id": "1258",
         "placement_id": "1398",
         "hold_role": "13",
-        "count": 6,
+        "count": 7,
         "x": 11,
         "y": 39
     },
@@ -3163,7 +3155,7 @@
         "hold_id": "1372",
         "placement_id": "1402",
         "hold_role": "13",
-        "count": 14,
+        "count": 13,
         "x": 19,
         "y": 39
     },
@@ -3171,7 +3163,7 @@
         "hold_id": "1429",
         "placement_id": "1404",
         "hold_role": "13",
-        "count": 17,
+        "count": 15,
         "x": 23,
         "y": 39
     },
@@ -3179,7 +3171,7 @@
         "hold_id": "1486",
         "placement_id": "1406",
         "hold_role": "13",
-        "count": 13,
+        "count": 12,
         "x": 27,
         "y": 39
     },
@@ -3187,7 +3179,7 @@
         "hold_id": "1543",
         "placement_id": "1408",
         "hold_role": "13",
-        "count": 11,
+        "count": 10,
         "x": 31,
         "y": 39
     },
@@ -3211,7 +3203,7 @@
         "hold_id": "1205",
         "placement_id": "1414",
         "hold_role": "13",
-        "count": 10,
+        "count": 12,
         "x": 9,
         "y": 41
     },
@@ -3227,7 +3219,7 @@
         "hold_id": "1319",
         "placement_id": "1418",
         "hold_role": "13",
-        "count": 12,
+        "count": 13,
         "x": 17,
         "y": 41
     },
@@ -3243,7 +3235,7 @@
         "hold_id": "1433",
         "placement_id": "1422",
         "hold_role": "13",
-        "count": 14,
+        "count": 15,
         "x": 25,
         "y": 41
     },
@@ -3251,7 +3243,7 @@
         "hold_id": "1490",
         "placement_id": "1424",
         "hold_role": "13",
-        "count": 12,
+        "count": 10,
         "x": 29,
         "y": 41
     },
@@ -3259,7 +3251,7 @@
         "hold_id": "1547",
         "placement_id": "1426",
         "hold_role": "13",
-        "count": 10,
+        "count": 9,
         "x": 33,
         "y": 41
     },
@@ -3275,7 +3267,7 @@
         "hold_id": "1466",
         "placement_id": "1497",
         "hold_role": "13",
-        "count": 31,
+        "count": 47,
         "x": 28,
         "y": 10
     },
@@ -3283,7 +3275,7 @@
         "hold_id": "1438",
         "placement_id": "1596",
         "hold_role": "13",
-        "count": 248,
+        "count": 310,
         "x": 26,
         "y": 32
     },
@@ -3291,7 +3283,7 @@
         "hold_id": "1450",
         "placement_id": "1524",
         "hold_role": "13",
-        "count": 51,
+        "count": 85,
         "x": 26,
         "y": 16
     },
@@ -3299,7 +3291,7 @@
         "hold_id": "1444",
         "placement_id": "1560",
         "hold_role": "13",
-        "count": 167,
+        "count": 247,
         "x": 26,
         "y": 24
     },
@@ -3307,7 +3299,7 @@
         "hold_id": "1520",
         "placement_id": "1480",
         "hold_role": "13",
-        "count": 13,
+        "count": 16,
         "x": 32,
         "y": 6
     },
@@ -3315,7 +3307,7 @@
         "hold_id": "1567",
         "placement_id": "1508",
         "hold_role": "13",
-        "count": 39,
+        "count": 56,
         "x": 34,
         "y": 12
     },
@@ -3323,7 +3315,7 @@
         "hold_id": "1561",
         "placement_id": "1544",
         "hold_role": "13",
-        "count": 231,
+        "count": 297,
         "x": 34,
         "y": 20
     },
@@ -3331,7 +3323,7 @@
         "hold_id": "1307",
         "placement_id": "1566",
         "hold_role": "13",
-        "count": 131,
+        "count": 183,
         "x": 16,
         "y": 26
     },
@@ -3339,7 +3331,7 @@
         "hold_id": "1216",
         "placement_id": "1556",
         "hold_role": "13",
-        "count": 104,
+        "count": 133,
         "x": 10,
         "y": 24
     },
@@ -3347,7 +3339,7 @@
         "hold_id": "1595",
         "placement_id": "1589",
         "hold_role": "21",
-        "count": 57,
+        "count": 94,
         "x": 36,
         "y": 30
     },
@@ -3355,7 +3347,7 @@
         "hold_id": "1176",
         "placement_id": "1158",
         "hold_role": "13",
-        "count": 98,
+        "count": 193,
         "x": 7,
         "y": 11
     },
@@ -3363,7 +3355,7 @@
         "hold_id": "1336",
         "placement_id": "1522",
         "hold_role": "13",
-        "count": 38,
+        "count": 49,
         "x": 18,
         "y": 16
     },
@@ -3371,7 +3363,7 @@
         "hold_id": "1206",
         "placement_id": "1397",
         "hold_role": "13",
-        "count": 3,
+        "count": 5,
         "x": 9,
         "y": 39
     },
@@ -3379,7 +3371,7 @@
         "hold_id": "1320",
         "placement_id": "1401",
         "hold_role": "13",
-        "count": 9,
+        "count": 8,
         "x": 17,
         "y": 39
     },
@@ -3395,7 +3387,7 @@
         "hold_id": "1605",
         "placement_id": "1411",
         "hold_role": "13",
-        "count": 4,
+        "count": 5,
         "x": 37,
         "y": 39
     },
@@ -3403,7 +3395,7 @@
         "hold_id": "1453",
         "placement_id": "1506",
         "hold_role": "13",
-        "count": 79,
+        "count": 116,
         "x": 26,
         "y": 12
     },
@@ -3411,7 +3403,7 @@
         "hold_id": "1230",
         "placement_id": "1108",
         "hold_role": "13",
-        "count": 31,
+        "count": 63,
         "x": 9,
         "y": 5
     },
@@ -3419,7 +3411,7 @@
         "hold_id": "1316",
         "placement_id": "1417",
         "hold_role": "13",
-        "count": 7,
+        "count": 8,
         "x": 15,
         "y": 41
     },
@@ -3427,7 +3419,7 @@
         "hold_id": "1200",
         "placement_id": "1379",
         "hold_role": "13",
-        "count": 86,
+        "count": 193,
         "x": 7,
         "y": 37
     },
@@ -3435,7 +3427,7 @@
         "hold_id": "1618",
         "placement_id": "1545",
         "hold_role": "13",
-        "count": 52,
+        "count": 76,
         "x": 38,
         "y": 20
     },
@@ -3443,7 +3435,7 @@
         "hold_id": "1583",
         "placement_id": "1517",
         "hold_role": "13",
-        "count": 29,
+        "count": 34,
         "x": 36,
         "y": 14
     },
@@ -3451,7 +3443,7 @@
         "hold_id": "1649",
         "placement_id": "1572",
         "hold_role": "13",
-        "count": 29,
+        "count": 40,
         "x": 40,
         "y": 26
     },
@@ -3459,15 +3451,23 @@
         "hold_id": "1631",
         "placement_id": "1105",
         "hold_role": "13",
-        "count": 14,
+        "count": 31,
         "x": 37,
         "y": 3
+    },
+    "1213": {
+        "hold_id": "1213",
+        "placement_id": "1574",
+        "hold_role": "13",
+        "count": 86,
+        "x": 10,
+        "y": 28
     },
     "1147": {
         "hold_id": "1147",
         "placement_id": "1454",
         "hold_role": "13",
-        "count": 26,
+        "count": 37,
         "x": 26,
         "y": 0
     },
@@ -3475,7 +3475,7 @@
         "hold_id": "1377",
         "placement_id": "1403",
         "hold_role": "13",
-        "count": 13,
+        "count": 11,
         "x": 21,
         "y": 39
     },
@@ -3483,7 +3483,7 @@
         "hold_id": "1421",
         "placement_id": "1568",
         "hold_role": "13",
-        "count": 161,
+        "count": 246,
         "x": 24,
         "y": 26
     },
@@ -3491,7 +3491,7 @@
         "hold_id": "1532",
         "placement_id": "1552",
         "hold_role": "13",
-        "count": 107,
+        "count": 138,
         "x": 32,
         "y": 22
     },
@@ -3499,7 +3499,7 @@
         "hold_id": "1615",
         "placement_id": "1563",
         "hold_role": "13",
-        "count": 70,
+        "count": 97,
         "x": 38,
         "y": 24
     },
@@ -3507,7 +3507,7 @@
         "hold_id": "1219",
         "placement_id": "1538",
         "hold_role": "13",
-        "count": 54,
+        "count": 92,
         "x": 10,
         "y": 20
     },
@@ -3515,7 +3515,7 @@
         "hold_id": "1523",
         "placement_id": "1498",
         "hold_role": "13",
-        "count": 23,
+        "count": 36,
         "x": 32,
         "y": 10
     },
@@ -3523,7 +3523,7 @@
         "hold_id": "1259",
         "placement_id": "1415",
         "hold_role": "13",
-        "count": 6,
+        "count": 7,
         "x": 11,
         "y": 41
     },
@@ -3531,7 +3531,7 @@
         "hold_id": "1373",
         "placement_id": "1419",
         "hold_role": "13",
-        "count": 8,
+        "count": 7,
         "x": 19,
         "y": 41
     },
@@ -3539,7 +3539,7 @@
         "hold_id": "1204",
         "placement_id": "1431",
         "hold_role": "13",
-        "count": 3,
+        "count": 4,
         "x": 9,
         "y": 43
     },
@@ -3547,7 +3547,7 @@
         "hold_id": "1260",
         "placement_id": "1432",
         "hold_role": "13",
-        "count": 3,
+        "count": 4,
         "x": 11,
         "y": 43
     },
@@ -3555,7 +3555,7 @@
         "hold_id": "1318",
         "placement_id": "1435",
         "hold_role": "13",
-        "count": 5,
+        "count": 4,
         "x": 17,
         "y": 43
     },
@@ -3563,7 +3563,7 @@
         "hold_id": "1374",
         "placement_id": "1436",
         "hold_role": "13",
-        "count": 5,
+        "count": 4,
         "x": 19,
         "y": 43
     },
@@ -3571,7 +3571,7 @@
         "hold_id": "1352",
         "placement_id": "1495",
         "hold_role": "13",
-        "count": 35,
+        "count": 55,
         "x": 20,
         "y": 10
     },
@@ -3579,7 +3579,7 @@
         "hold_id": "1564",
         "placement_id": "1526",
         "hold_role": "13",
-        "count": 24,
+        "count": 43,
         "x": 34,
         "y": 16
     },
@@ -3587,7 +3587,7 @@
         "hold_id": "1552",
         "placement_id": "1598",
         "hold_role": "13",
-        "count": 94,
+        "count": 117,
         "x": 34,
         "y": 32
     },
@@ -3595,7 +3595,7 @@
         "hold_id": "1155",
         "placement_id": "1458",
         "hold_role": "13",
-        "count": 13,
+        "count": 21,
         "x": 18,
         "y": 0
     },
@@ -3603,7 +3603,7 @@
         "hold_id": "1159",
         "placement_id": "1460",
         "hold_role": "13",
-        "count": 11,
+        "count": 23,
         "x": 14,
         "y": 0
     },
@@ -3611,7 +3611,7 @@
         "hold_id": "1163",
         "placement_id": "1462",
         "hold_role": "13",
-        "count": 8,
+        "count": 16,
         "x": 10,
         "y": 0
     },
@@ -3619,23 +3619,15 @@
         "hold_id": "1166",
         "placement_id": "1464",
         "hold_role": "13",
-        "count": 17,
+        "count": 26,
         "x": 6,
         "y": 0
-    },
-    "1232": {
-        "hold_id": "1232",
-        "placement_id": "1091",
-        "hold_role": "13",
-        "count": 27,
-        "x": 9,
-        "y": 3
     },
     "1646": {
         "hold_id": "1646",
         "placement_id": "1554",
         "hold_role": "13",
-        "count": 30,
+        "count": 40,
         "x": 40,
         "y": 22
     },
@@ -3643,7 +3635,7 @@
         "hold_id": "1609",
         "placement_id": "1599",
         "hold_role": "13",
-        "count": 24,
+        "count": 38,
         "x": 38,
         "y": 32
     },
@@ -3651,7 +3643,7 @@
         "hold_id": "1586",
         "placement_id": "1535",
         "hold_role": "13",
-        "count": 41,
+        "count": 57,
         "x": 36,
         "y": 18
     },
@@ -3659,7 +3651,7 @@
         "hold_id": "1396",
         "placement_id": "1505",
         "hold_role": "13",
-        "count": 84,
+        "count": 124,
         "x": 22,
         "y": 12
     },
@@ -3667,7 +3659,7 @@
         "hold_id": "1174",
         "placement_id": "1141",
         "hold_role": "13",
-        "count": 77,
+        "count": 139,
         "x": 7,
         "y": 9
     },
@@ -3675,7 +3667,7 @@
         "hold_id": "1402",
         "placement_id": "1469",
         "hold_role": "13",
-        "count": 9,
+        "count": 16,
         "x": 22,
         "y": 4
     },
@@ -3683,7 +3675,7 @@
         "hold_id": "1250",
         "placement_id": "1565",
         "hold_role": "13",
-        "count": 28,
+        "count": 40,
         "x": 12,
         "y": 26
     },
@@ -3691,7 +3683,7 @@
         "hold_id": "1459",
         "placement_id": "1470",
         "hold_role": "13",
-        "count": 8,
+        "count": 15,
         "x": 26,
         "y": 4
     },
@@ -3699,7 +3691,7 @@
         "hold_id": "1592",
         "placement_id": "1571",
         "hold_role": "13",
-        "count": 76,
+        "count": 104,
         "x": 36,
         "y": 26
     },
@@ -3707,7 +3699,7 @@
         "hold_id": "1430",
         "placement_id": "1421",
         "hold_role": "13",
-        "count": 12,
+        "count": 11,
         "x": 23,
         "y": 41
     },
@@ -3723,7 +3715,7 @@
         "hold_id": "1544",
         "placement_id": "1425",
         "hold_role": "13",
-        "count": 10,
+        "count": 11,
         "x": 31,
         "y": 41
     },
@@ -3731,7 +3723,7 @@
         "hold_id": "1601",
         "placement_id": "1427",
         "hold_role": "13",
-        "count": 7,
+        "count": 9,
         "x": 35,
         "y": 41
     },
@@ -3755,7 +3747,7 @@
         "hold_id": "1432",
         "placement_id": "1439",
         "hold_role": "13",
-        "count": 6,
+        "count": 4,
         "x": 25,
         "y": 43
     },
@@ -3763,7 +3755,7 @@
         "hold_id": "1577",
         "placement_id": "1481",
         "hold_role": "13",
-        "count": 7,
+        "count": 9,
         "x": 36,
         "y": 6
     },
@@ -3771,7 +3763,7 @@
         "hold_id": "1456",
         "placement_id": "1488",
         "hold_role": "13",
-        "count": 13,
+        "count": 22,
         "x": 26,
         "y": 8
     },
@@ -3779,7 +3771,7 @@
         "hold_id": "1627",
         "placement_id": "1491",
         "hold_role": "13",
-        "count": 3,
+        "count": 5,
         "x": 38,
         "y": 8
     },
@@ -3787,7 +3779,7 @@
         "hold_id": "1143",
         "placement_id": "1452",
         "hold_role": "13",
-        "count": 19,
+        "count": 27,
         "x": 30,
         "y": 0
     },
@@ -3795,7 +3787,7 @@
         "hold_id": "1203",
         "placement_id": "1430",
         "hold_role": "13",
-        "count": 4,
+        "count": 5,
         "x": 7,
         "y": 43
     },
@@ -3803,7 +3795,7 @@
         "hold_id": "1659",
         "placement_id": "1446",
         "hold_role": "13",
-        "count": 3,
+        "count": 4,
         "x": 39,
         "y": 43
     },
@@ -3811,7 +3803,7 @@
         "hold_id": "1187",
         "placement_id": "1546",
         "hold_role": "13",
-        "count": 48,
+        "count": 67,
         "x": 8,
         "y": 22
     },
@@ -3819,7 +3811,7 @@
         "hold_id": "1621",
         "placement_id": "1527",
         "hold_role": "13",
-        "count": 46,
+        "count": 65,
         "x": 38,
         "y": 16
     },
@@ -3827,7 +3819,7 @@
         "hold_id": "1170",
         "placement_id": "1107",
         "hold_role": "13",
-        "count": 24,
+        "count": 55,
         "x": 7,
         "y": 5
     },
@@ -3835,7 +3827,7 @@
         "hold_id": "1345",
         "placement_id": "1468",
         "hold_role": "13",
-        "count": 11,
+        "count": 26,
         "x": 18,
         "y": 4
     },
@@ -3843,7 +3835,7 @@
         "hold_id": "1263",
         "placement_id": "1399",
         "hold_role": "13",
-        "count": 5,
+        "count": 6,
         "x": 13,
         "y": 39
     },
@@ -3851,7 +3843,7 @@
         "hold_id": "1633",
         "placement_id": "1123",
         "hold_role": "13",
-        "count": 17,
+        "count": 45,
         "x": 39,
         "y": 5
     },
@@ -3859,7 +3851,7 @@
         "hold_id": "1172",
         "placement_id": "1124",
         "hold_role": "13",
-        "count": 35,
+        "count": 58,
         "x": 7,
         "y": 7
     },
@@ -3867,7 +3859,7 @@
         "hold_id": "1234",
         "placement_id": "1109",
         "hold_role": "13",
-        "count": 18,
+        "count": 63,
         "x": 11,
         "y": 5
     },
@@ -3875,7 +3867,7 @@
         "hold_id": "1628",
         "placement_id": "1139",
         "hold_role": "13",
-        "count": 30,
+        "count": 70,
         "x": 37,
         "y": 7
     },
@@ -3883,7 +3875,7 @@
         "hold_id": "1643",
         "placement_id": "1536",
         "hold_role": "13",
-        "count": 50,
+        "count": 63,
         "x": 40,
         "y": 18
     },
@@ -3891,7 +3883,7 @@
         "hold_id": "1342",
         "placement_id": "1486",
         "hold_role": "13",
-        "count": 9,
+        "count": 23,
         "x": 18,
         "y": 8
     },
@@ -3899,7 +3891,7 @@
         "hold_id": "1244",
         "placement_id": "1529",
         "hold_role": "13",
-        "count": 23,
+        "count": 35,
         "x": 12,
         "y": 18
     },
@@ -3907,7 +3899,7 @@
         "hold_id": "1139",
         "placement_id": "1450",
         "hold_role": "13",
-        "count": 12,
+        "count": 26,
         "x": 34,
         "y": 0
     },
@@ -3915,7 +3907,7 @@
         "hold_id": "1513",
         "placement_id": "1489",
         "hold_role": "13",
-        "count": 13,
+        "count": 28,
         "x": 30,
         "y": 8
     },
@@ -3923,7 +3915,7 @@
         "hold_id": "1195",
         "placement_id": "1582",
         "hold_role": "21",
-        "count": 23,
+        "count": 34,
         "x": 8,
         "y": 30
     },
@@ -3931,7 +3923,7 @@
         "hold_id": "1202",
         "placement_id": "1413",
         "hold_role": "13",
-        "count": 4,
+        "count": 6,
         "x": 7,
         "y": 41
     },
@@ -3939,7 +3931,7 @@
         "hold_id": "1624",
         "placement_id": "1509",
         "hold_role": "13",
-        "count": 24,
+        "count": 26,
         "x": 38,
         "y": 12
     },
@@ -3947,7 +3939,7 @@
         "hold_id": "1189",
         "placement_id": "1555",
         "hold_role": "13",
-        "count": 24,
+        "count": 31,
         "x": 6,
         "y": 24
     },
@@ -3955,7 +3947,7 @@
         "hold_id": "1231",
         "placement_id": "1466",
         "hold_role": "13",
-        "count": 6,
+        "count": 8,
         "x": 10,
         "y": 4
     },
@@ -3963,7 +3955,7 @@
         "hold_id": "1233",
         "placement_id": "1092",
         "hold_role": "13",
-        "count": 25,
+        "count": 70,
         "x": 11,
         "y": 3
     },
@@ -3971,7 +3963,7 @@
         "hold_id": "1135",
         "placement_id": "1448",
         "hold_role": "13",
-        "count": 4,
+        "count": 10,
         "x": 38,
         "y": 0
     },
@@ -3979,7 +3971,7 @@
         "hold_id": "1573",
         "placement_id": "1472",
         "hold_role": "13",
-        "count": 8,
+        "count": 6,
         "x": 34,
         "y": 4
     },
@@ -3987,7 +3979,7 @@
         "hold_id": "1489",
         "placement_id": "1441",
         "hold_role": "13",
-        "count": 4,
+        "count": 3,
         "x": 29,
         "y": 43
     },
@@ -3995,15 +3987,23 @@
         "hold_id": "1285",
         "placement_id": "1485",
         "hold_role": "13",
-        "count": 17,
+        "count": 22,
         "x": 14,
         "y": 8
+    },
+    "1232": {
+        "hold_id": "1232",
+        "placement_id": "1091",
+        "hold_role": "13",
+        "count": 41,
+        "x": 9,
+        "y": 3
     },
     "1632": {
         "hold_id": "1632",
         "placement_id": "1106",
         "hold_role": "13",
-        "count": 24,
+        "count": 51,
         "x": 39,
         "y": 3
     },
@@ -4011,7 +4011,7 @@
         "hold_id": "1168",
         "placement_id": "1090",
         "hold_role": "13",
-        "count": 22,
+        "count": 48,
         "x": 7,
         "y": 3
     },
@@ -4019,7 +4019,7 @@
         "hold_id": "1434",
         "placement_id": "1405",
         "hold_role": "13",
-        "count": 6,
+        "count": 5,
         "x": 25,
         "y": 39
     },
@@ -4027,7 +4027,7 @@
         "hold_id": "1288",
         "placement_id": "1467",
         "hold_role": "13",
-        "count": 9,
+        "count": 17,
         "x": 14,
         "y": 4
     },
@@ -4035,7 +4035,7 @@
         "hold_id": "1576",
         "placement_id": "1121",
         "hold_role": "13",
-        "count": 16,
+        "count": 41,
         "x": 35,
         "y": 5
     },
@@ -4043,7 +4043,7 @@
         "hold_id": "1191",
         "placement_id": "1564",
         "hold_role": "13",
-        "count": 12,
+        "count": 22,
         "x": 8,
         "y": 26
     },
@@ -4051,7 +4051,7 @@
         "hold_id": "1548",
         "placement_id": "1409",
         "hold_role": "13",
-        "count": 6,
+        "count": 5,
         "x": 33,
         "y": 39
     },
@@ -4059,7 +4059,7 @@
         "hold_id": "1463",
         "placement_id": "1479",
         "hold_role": "13",
-        "count": 19,
+        "count": 24,
         "x": 28,
         "y": 6
     },
@@ -4067,7 +4067,7 @@
         "hold_id": "1488",
         "placement_id": "1440",
         "hold_role": "13",
-        "count": 4,
+        "count": 5,
         "x": 27,
         "y": 43
     },
@@ -4075,7 +4075,7 @@
         "hold_id": "1228",
         "placement_id": "1484",
         "hold_role": "13",
-        "count": 10,
+        "count": 14,
         "x": 10,
         "y": 8
     },
@@ -4083,7 +4083,7 @@
         "hold_id": "1183",
         "placement_id": "1528",
         "hold_role": "13",
-        "count": 11,
+        "count": 22,
         "x": 8,
         "y": 18
     },
@@ -4091,7 +4091,7 @@
         "hold_id": "1558",
         "placement_id": "1562",
         "hold_role": "13",
-        "count": 22,
+        "count": 32,
         "x": 34,
         "y": 24
     },
@@ -4099,7 +4099,7 @@
         "hold_id": "1292",
         "placement_id": "1476",
         "hold_role": "13",
-        "count": 7,
+        "count": 18,
         "x": 16,
         "y": 6
     },
@@ -4115,7 +4115,7 @@
         "hold_id": "1545",
         "placement_id": "1442",
         "hold_role": "13",
-        "count": 4,
+        "count": 3,
         "x": 31,
         "y": 43
     },
@@ -4123,7 +4123,7 @@
         "hold_id": "1602",
         "placement_id": "1444",
         "hold_role": "13",
-        "count": 2,
+        "count": 4,
         "x": 35,
         "y": 43
     },
@@ -4131,7 +4131,7 @@
         "hold_id": "1349",
         "placement_id": "1477",
         "hold_role": "13",
-        "count": 12,
+        "count": 29,
         "x": 20,
         "y": 6
     },
@@ -4139,7 +4139,7 @@
         "hold_id": "1658",
         "placement_id": "1429",
         "hold_role": "13",
-        "count": 1,
+        "count": 4,
         "x": 39,
         "y": 41
     },
@@ -4155,7 +4155,7 @@
         "hold_id": "1546",
         "placement_id": "1443",
         "hold_role": "13",
-        "count": 2,
+        "count": 3,
         "x": 33,
         "y": 43
     },
@@ -4163,63 +4163,15 @@
         "hold_id": "1173",
         "placement_id": "1483",
         "hold_role": "13",
-        "count": 7,
+        "count": 11,
         "x": 6,
         "y": 8
-    },
-    "4293": {
-        "hold_id": "4293",
-        "placement_id": "4712",
-        "hold_role": "13",
-        "count": 34,
-        "x": 3,
-        "y": 25
-    },
-    "1235": {
-        "hold_id": "1235",
-        "placement_id": "1475",
-        "hold_role": "13",
-        "count": 8,
-        "x": 12,
-        "y": 6
-    },
-    "4366": {
-        "hold_id": "4366",
-        "placement_id": "4785",
-        "hold_role": "13",
-        "count": 17,
-        "x": 45,
-        "y": 19
-    },
-    "4326": {
-        "hold_id": "4326",
-        "placement_id": "4745",
-        "hold_role": "13",
-        "count": 11,
-        "x": 41,
-        "y": 15
-    },
-    "4268": {
-        "hold_id": "4268",
-        "placement_id": "4687",
-        "hold_role": "13",
-        "count": 39,
-        "x": 5,
-        "y": 13
-    },
-    "4272": {
-        "hold_id": "4272",
-        "placement_id": "4691",
-        "hold_role": "13",
-        "count": 22,
-        "x": 5,
-        "y": 21
     },
     "4270": {
         "hold_id": "4270",
         "placement_id": "4689",
         "hold_role": "13",
-        "count": 16,
+        "count": 36,
         "x": 5,
         "y": 17
     },
@@ -4227,7 +4179,7 @@
         "hold_id": "4273",
         "placement_id": "4692",
         "hold_role": "13",
-        "count": 21,
+        "count": 43,
         "x": 5,
         "y": 23
     },
@@ -4235,7 +4187,7 @@
         "hold_id": "1603",
         "placement_id": "1445",
         "hold_role": "13",
-        "count": 1,
+        "count": 3,
         "x": 37,
         "y": 43
     },
@@ -4243,7 +4195,7 @@
         "hold_id": "1640",
         "placement_id": "1518",
         "hold_role": "13",
-        "count": 15,
+        "count": 19,
         "x": 40,
         "y": 14
     },
@@ -4251,7 +4203,7 @@
         "hold_id": "4277",
         "placement_id": "4696",
         "hold_role": "13",
-        "count": 28,
+        "count": 71,
         "x": 5,
         "y": 31
     },
@@ -4259,7 +4211,7 @@
         "hold_id": "4324",
         "placement_id": "4743",
         "hold_role": "13",
-        "count": 8,
+        "count": 10,
         "x": 41,
         "y": 11
     },
@@ -4267,7 +4219,7 @@
         "hold_id": "4333",
         "placement_id": "4752",
         "hold_role": "13",
-        "count": 23,
+        "count": 51,
         "x": 41,
         "y": 29
     },
@@ -4275,23 +4227,23 @@
         "hold_id": "1169",
         "placement_id": "1465",
         "hold_role": "13",
-        "count": 8,
+        "count": 7,
         "x": 6,
         "y": 4
     },
-    "1171": {
-        "hold_id": "1171",
-        "placement_id": "1474",
+    "4272": {
+        "hold_id": "4272",
+        "placement_id": "4691",
         "hold_role": "13",
-        "count": 4,
-        "x": 8,
-        "y": 6
+        "count": 45,
+        "x": 5,
+        "y": 21
     },
     "4276": {
         "hold_id": "4276",
         "placement_id": "4695",
         "hold_role": "13",
-        "count": 31,
+        "count": 102,
         "x": 5,
         "y": 29
     },
@@ -4299,15 +4251,23 @@
         "hold_id": "4290",
         "placement_id": "4709",
         "hold_role": "13",
-        "count": 56,
+        "count": 113,
         "x": 3,
         "y": 19
+    },
+    "4293": {
+        "hold_id": "4293",
+        "placement_id": "4712",
+        "hold_role": "13",
+        "count": 112,
+        "x": 3,
+        "y": 25
     },
     "4316": {
         "hold_id": "4316",
         "placement_id": "4735",
         "hold_role": "13",
-        "count": 22,
+        "count": 49,
         "x": 1,
         "y": 33
     },
@@ -4315,95 +4275,15 @@
         "hold_id": "4336",
         "placement_id": "4755",
         "hold_role": "13",
-        "count": 36,
+        "count": 67,
         "x": 41,
         "y": 35
-    },
-    "4266": {
-        "hold_id": "4266",
-        "placement_id": "4685",
-        "hold_role": "13",
-        "count": 3,
-        "x": 5,
-        "y": 9
-    },
-    "4267": {
-        "hold_id": "4267",
-        "placement_id": "4686",
-        "hold_role": "13",
-        "count": 7,
-        "x": 5,
-        "y": 11
-    },
-    "4263": {
-        "hold_id": "4263",
-        "placement_id": "4682",
-        "hold_role": "13",
-        "count": 1,
-        "x": 5,
-        "y": 3
-    },
-    "4264": {
-        "hold_id": "4264",
-        "placement_id": "4683",
-        "hold_role": "13",
-        "count": 1,
-        "x": 5,
-        "y": 5
-    },
-    "4283": {
-        "hold_id": "4283",
-        "placement_id": "4702",
-        "hold_role": "13",
-        "count": 1,
-        "x": 3,
-        "y": 5
-    },
-    "4284": {
-        "hold_id": "4284",
-        "placement_id": "4703",
-        "hold_role": "13",
-        "count": 1,
-        "x": 3,
-        "y": 7
-    },
-    "4285": {
-        "hold_id": "4285",
-        "placement_id": "4704",
-        "hold_role": "13",
-        "count": 1,
-        "x": 3,
-        "y": 9
-    },
-    "4286": {
-        "hold_id": "4286",
-        "placement_id": "4705",
-        "hold_role": "13",
-        "count": 1,
-        "x": 3,
-        "y": 11
-    },
-    "4302": {
-        "hold_id": "4302",
-        "placement_id": "4721",
-        "hold_role": "13",
-        "count": 1,
-        "x": 1,
-        "y": 5
-    },
-    "4278": {
-        "hold_id": "4278",
-        "placement_id": "4697",
-        "hold_role": "13",
-        "count": 37,
-        "x": 5,
-        "y": 33
     },
     "4334": {
         "hold_id": "4334",
         "placement_id": "4753",
         "hold_role": "13",
-        "count": 35,
+        "count": 119,
         "x": 41,
         "y": 31
     },
@@ -4411,7 +4291,7 @@
         "hold_id": "4298",
         "placement_id": "4717",
         "hold_role": "13",
-        "count": 9,
+        "count": 22,
         "x": 3,
         "y": 35
     },
@@ -4419,47 +4299,15 @@
         "hold_id": "4354",
         "placement_id": "4773",
         "hold_role": "13",
-        "count": 43,
+        "count": 89,
         "x": 43,
         "y": 33
-    },
-    "4329": {
-        "hold_id": "4329",
-        "placement_id": "4748",
-        "hold_role": "13",
-        "count": 23,
-        "x": 41,
-        "y": 21
-    },
-    "4352": {
-        "hold_id": "4352",
-        "placement_id": "4771",
-        "hold_role": "13",
-        "count": 40,
-        "x": 43,
-        "y": 29
-    },
-    "4279": {
-        "hold_id": "4279",
-        "placement_id": "4698",
-        "hold_role": "13",
-        "count": 12,
-        "x": 5,
-        "y": 35
-    },
-    "4295": {
-        "hold_id": "4295",
-        "placement_id": "4714",
-        "hold_role": "13",
-        "count": 34,
-        "x": 3,
-        "y": 29
     },
     "4330": {
         "hold_id": "4330",
         "placement_id": "4749",
         "hold_role": "13",
-        "count": 37,
+        "count": 75,
         "x": 41,
         "y": 23
     },
@@ -4467,7 +4315,7 @@
         "hold_id": "4364",
         "placement_id": "4783",
         "hold_role": "13",
-        "count": 15,
+        "count": 30,
         "x": 45,
         "y": 15
     },
@@ -4475,7 +4323,7 @@
         "hold_id": "4365",
         "placement_id": "4784",
         "hold_role": "13",
-        "count": 10,
+        "count": 41,
         "x": 45,
         "y": 17
     },
@@ -4483,31 +4331,15 @@
         "hold_id": "4370",
         "placement_id": "4789",
         "hold_role": "13",
-        "count": 18,
+        "count": 44,
         "x": 45,
         "y": 27
-    },
-    "4332": {
-        "hold_id": "4332",
-        "placement_id": "4751",
-        "hold_role": "13",
-        "count": 67,
-        "x": 41,
-        "y": 27
-    },
-    "4347": {
-        "hold_id": "4347",
-        "placement_id": "4766",
-        "hold_role": "13",
-        "count": 54,
-        "x": 43,
-        "y": 19
     },
     "4271": {
         "hold_id": "4271",
         "placement_id": "4690",
         "hold_role": "13",
-        "count": 50,
+        "count": 153,
         "x": 5,
         "y": 19
     },
@@ -4515,87 +4347,47 @@
         "hold_id": "4288",
         "placement_id": "4707",
         "hold_role": "13",
-        "count": 14,
+        "count": 30,
         "x": 3,
         "y": 15
     },
-    "4307": {
-        "hold_id": "4307",
-        "placement_id": "4726",
+    "4295": {
+        "hold_id": "4295",
+        "placement_id": "4714",
         "hold_role": "13",
-        "count": 15,
-        "x": 1,
-        "y": 15
+        "count": 60,
+        "x": 3,
+        "y": 29
     },
-    "4310": {
-        "hold_id": "4310",
-        "placement_id": "4729",
+    "4352": {
+        "hold_id": "4352",
+        "placement_id": "4771",
         "hold_role": "13",
-        "count": 9,
-        "x": 1,
-        "y": 21
-    },
-    "4348": {
-        "hold_id": "4348",
-        "placement_id": "4767",
-        "hold_role": "13",
-        "count": 43,
+        "count": 60,
         "x": 43,
-        "y": 21
+        "y": 29
     },
-    "4368": {
-        "hold_id": "4368",
-        "placement_id": "4787",
+    "1235": {
+        "hold_id": "1235",
+        "placement_id": "1475",
         "hold_role": "13",
-        "count": 26,
-        "x": 45,
-        "y": 23
+        "count": 7,
+        "x": 12,
+        "y": 6
     },
-    "4308": {
-        "hold_id": "4308",
-        "placement_id": "4727",
+    "4279": {
+        "hold_id": "4279",
+        "placement_id": "4698",
         "hold_role": "13",
-        "count": 12,
-        "x": 1,
-        "y": 17
-    },
-    "4275": {
-        "hold_id": "4275",
-        "placement_id": "4694",
-        "hold_role": "13",
-        "count": 36,
+        "count": 27,
         "x": 5,
-        "y": 27
-    },
-    "4372": {
-        "hold_id": "4372",
-        "placement_id": "4791",
-        "hold_role": "13",
-        "count": 18,
-        "x": 45,
-        "y": 31
-    },
-    "4335": {
-        "hold_id": "4335",
-        "placement_id": "4754",
-        "hold_role": "13",
-        "count": 38,
-        "x": 41,
-        "y": 33
-    },
-    "4296": {
-        "hold_id": "4296",
-        "placement_id": "4715",
-        "hold_role": "13",
-        "count": 14,
-        "x": 3,
-        "y": 31
+        "y": 35
     },
     "4327": {
         "hold_id": "4327",
         "placement_id": "4746",
         "hold_role": "13",
-        "count": 51,
+        "count": 97,
         "x": 41,
         "y": 17
     },
@@ -4603,7 +4395,7 @@
         "hold_id": "4291",
         "placement_id": "4710",
         "hold_role": "13",
-        "count": 38,
+        "count": 70,
         "x": 3,
         "y": 21
     },
@@ -4611,7 +4403,7 @@
         "hold_id": "4312",
         "placement_id": "4731",
         "hold_role": "13",
-        "count": 16,
+        "count": 41,
         "x": 1,
         "y": 25
     },
@@ -4619,55 +4411,103 @@
         "hold_id": "4313",
         "placement_id": "4732",
         "hold_role": "13",
-        "count": 18,
+        "count": 57,
         "x": 1,
         "y": 27
+    },
+    "4329": {
+        "hold_id": "4329",
+        "placement_id": "4748",
+        "hold_role": "13",
+        "count": 60,
+        "x": 41,
+        "y": 21
+    },
+    "4278": {
+        "hold_id": "4278",
+        "placement_id": "4697",
+        "hold_role": "13",
+        "count": 103,
+        "x": 5,
+        "y": 33
     },
     "4344": {
         "hold_id": "4344",
         "placement_id": "4763",
         "hold_role": "13",
-        "count": 8,
+        "count": 25,
         "x": 43,
         "y": 13
+    },
+    "4296": {
+        "hold_id": "4296",
+        "placement_id": "4715",
+        "hold_role": "13",
+        "count": 43,
+        "x": 3,
+        "y": 31
     },
     "4351": {
         "hold_id": "4351",
         "placement_id": "4770",
         "hold_role": "13",
-        "count": 23,
+        "count": 40,
         "x": 43,
         "y": 27
     },
-    "4367": {
-        "hold_id": "4367",
-        "placement_id": "4786",
+    "4275": {
+        "hold_id": "4275",
+        "placement_id": "4694",
         "hold_role": "13",
-        "count": 12,
-        "x": 45,
-        "y": 21
+        "count": 78,
+        "x": 5,
+        "y": 27
     },
     "4331": {
         "hold_id": "4331",
         "placement_id": "4750",
         "hold_role": "13",
-        "count": 17,
+        "count": 49,
         "x": 41,
         "y": 25
     },
-    "4355": {
-        "hold_id": "4355",
-        "placement_id": "4774",
+    "4367": {
+        "hold_id": "4367",
+        "placement_id": "4786",
         "hold_role": "13",
-        "count": 5,
-        "x": 43,
-        "y": 35
+        "count": 30,
+        "x": 45,
+        "y": 21
+    },
+    "4326": {
+        "hold_id": "4326",
+        "placement_id": "4745",
+        "hold_role": "13",
+        "count": 46,
+        "x": 41,
+        "y": 15
+    },
+    "4368": {
+        "hold_id": "4368",
+        "placement_id": "4787",
+        "hold_role": "13",
+        "count": 54,
+        "x": 45,
+        "y": 23
+    },
+    "4372": {
+        "hold_id": "4372",
+        "placement_id": "4791",
+        "hold_role": "13",
+        "count": 33,
+        "x": 45,
+        "y": 31
     },
     "4311": {
         "hold_id": "4311",
         "placement_id": "4730",
         "hold_role": "13",
-        "count": 21,
+        "count": 61,
         "x": 1,
         "y": 23
     },
@@ -4675,7 +4515,7 @@
         "hold_id": "4269",
         "placement_id": "4688",
         "hold_role": "13",
-        "count": 19,
+        "count": 54,
         "x": 5,
         "y": 15
     },
@@ -4683,15 +4523,23 @@
         "hold_id": "4274",
         "placement_id": "4693",
         "hold_role": "13",
-        "count": 31,
+        "count": 64,
         "x": 5,
         "y": 25
+    },
+    "4268": {
+        "hold_id": "4268",
+        "placement_id": "4687",
+        "hold_role": "13",
+        "count": 92,
+        "x": 5,
+        "y": 13
     },
     "4314": {
         "hold_id": "4314",
         "placement_id": "4733",
         "hold_role": "13",
-        "count": 14,
+        "count": 55,
         "x": 1,
         "y": 29
     },
@@ -4699,23 +4547,39 @@
         "hold_id": "4349",
         "placement_id": "4768",
         "hold_role": "13",
-        "count": 13,
+        "count": 29,
         "x": 43,
         "y": 23
     },
-    "1630": {
-        "hold_id": "1630",
-        "placement_id": "1473",
+    "4332": {
+        "hold_id": "4332",
+        "placement_id": "4751",
         "hold_role": "13",
-        "count": 1,
-        "x": 38,
-        "y": 4
+        "count": 169,
+        "x": 41,
+        "y": 27
+    },
+    "4348": {
+        "hold_id": "4348",
+        "placement_id": "4767",
+        "hold_role": "13",
+        "count": 76,
+        "x": 43,
+        "y": 21
+    },
+    "4347": {
+        "hold_id": "4347",
+        "placement_id": "4766",
+        "hold_role": "13",
+        "count": 109,
+        "x": 43,
+        "y": 19
     },
     "4373": {
         "hold_id": "4373",
         "placement_id": "4792",
         "hold_role": "13",
-        "count": 9,
+        "count": 17,
         "x": 45,
         "y": 33
     },
@@ -4723,7 +4587,7 @@
         "hold_id": "4346",
         "placement_id": "4765",
         "hold_role": "13",
-        "count": 21,
+        "count": 43,
         "x": 43,
         "y": 17
     },
@@ -4731,183 +4595,47 @@
         "hold_id": "4328",
         "placement_id": "4747",
         "hold_role": "13",
-        "count": 63,
+        "count": 147,
         "x": 41,
+        "y": 19
+    },
+    "4309": {
+        "hold_id": "4309",
+        "placement_id": "4728",
+        "hold_role": "13",
+        "count": 52,
+        "x": 1,
         "y": 19
     },
     "4294": {
         "hold_id": "4294",
         "placement_id": "4713",
         "hold_role": "13",
-        "count": 29,
+        "count": 53,
         "x": 3,
         "y": 27
-    },
-    "4321": {
-        "hold_id": "4321",
-        "placement_id": "4740",
-        "hold_role": "13",
-        "count": 1,
-        "x": 41,
-        "y": 5
-    },
-    "4322": {
-        "hold_id": "4322",
-        "placement_id": "4741",
-        "hold_role": "13",
-        "count": 4,
-        "x": 41,
-        "y": 7
-    },
-    "4323": {
-        "hold_id": "4323",
-        "placement_id": "4742",
-        "hold_role": "13",
-        "count": 1,
-        "x": 41,
-        "y": 9
-    },
-    "4325": {
-        "hold_id": "4325",
-        "placement_id": "4744",
-        "hold_role": "13",
-        "count": 15,
-        "x": 41,
-        "y": 13
-    },
-    "4340": {
-        "hold_id": "4340",
-        "placement_id": "4759",
-        "hold_role": "13",
-        "count": 1,
-        "x": 43,
-        "y": 5
-    },
-    "4341": {
-        "hold_id": "4341",
-        "placement_id": "4760",
-        "hold_role": "13",
-        "count": 1,
-        "x": 43,
-        "y": 7
-    },
-    "4342": {
-        "hold_id": "4342",
-        "placement_id": "4761",
-        "hold_role": "13",
-        "count": 1,
-        "x": 43,
-        "y": 9
     },
     "4343": {
         "hold_id": "4343",
         "placement_id": "4762",
         "hold_role": "13",
-        "count": 11,
+        "count": 26,
         "x": 43,
         "y": 11
-    },
-    "4345": {
-        "hold_id": "4345",
-        "placement_id": "4764",
-        "hold_role": "13",
-        "count": 15,
-        "x": 43,
-        "y": 15
-    },
-    "4350": {
-        "hold_id": "4350",
-        "placement_id": "4769",
-        "hold_role": "13",
-        "count": 19,
-        "x": 43,
-        "y": 25
     },
     "4353": {
         "hold_id": "4353",
         "placement_id": "4772",
         "hold_role": "13",
-        "count": 14,
+        "count": 28,
         "x": 43,
         "y": 31
-    },
-    "4359": {
-        "hold_id": "4359",
-        "placement_id": "4778",
-        "hold_role": "13",
-        "count": 1,
-        "x": 45,
-        "y": 5
-    },
-    "4360": {
-        "hold_id": "4360",
-        "placement_id": "4779",
-        "hold_role": "13",
-        "count": 1,
-        "x": 45,
-        "y": 7
-    },
-    "4361": {
-        "hold_id": "4361",
-        "placement_id": "4780",
-        "hold_role": "13",
-        "count": 2,
-        "x": 45,
-        "y": 9
-    },
-    "4362": {
-        "hold_id": "4362",
-        "placement_id": "4781",
-        "hold_role": "13",
-        "count": 2,
-        "x": 45,
-        "y": 11
-    },
-    "4363": {
-        "hold_id": "4363",
-        "placement_id": "4782",
-        "hold_role": "13",
-        "count": 5,
-        "x": 45,
-        "y": 13
-    },
-    "4369": {
-        "hold_id": "4369",
-        "placement_id": "4788",
-        "hold_role": "13",
-        "count": 14,
-        "x": 45,
-        "y": 25
-    },
-    "4371": {
-        "hold_id": "4371",
-        "placement_id": "4790",
-        "hold_role": "13",
-        "count": 24,
-        "x": 45,
-        "y": 29
-    },
-    "4374": {
-        "hold_id": "4374",
-        "placement_id": "4793",
-        "hold_role": "13",
-        "count": 2,
-        "x": 45,
-        "y": 35
-    },
-    "4309": {
-        "hold_id": "4309",
-        "placement_id": "4728",
-        "hold_role": "13",
-        "count": 25,
-        "x": 1,
-        "y": 19
     },
     "4287": {
         "hold_id": "4287",
         "placement_id": "4706",
         "hold_role": "13",
-        "count": 5,
+        "count": 37,
         "x": 3,
         "y": 13
     },
@@ -4919,67 +4647,139 @@
         "x": 42,
         "y": 24
     },
+    "4363": {
+        "hold_id": "4363",
+        "placement_id": "4782",
+        "hold_role": "13",
+        "count": 13,
+        "x": 45,
+        "y": 13
+    },
+    "4371": {
+        "hold_id": "4371",
+        "placement_id": "4790",
+        "hold_role": "13",
+        "count": 50,
+        "x": 45,
+        "y": 29
+    },
+    "4335": {
+        "hold_id": "4335",
+        "placement_id": "4754",
+        "hold_role": "13",
+        "count": 74,
+        "x": 41,
+        "y": 33
+    },
     "4292": {
         "hold_id": "4292",
         "placement_id": "4711",
         "hold_role": "13",
-        "count": 14,
+        "count": 42,
         "x": 3,
         "y": 23
+    },
+    "4307": {
+        "hold_id": "4307",
+        "placement_id": "4726",
+        "hold_role": "13",
+        "count": 42,
+        "x": 1,
+        "y": 15
+    },
+    "4310": {
+        "hold_id": "4310",
+        "placement_id": "4729",
+        "hold_role": "13",
+        "count": 45,
+        "x": 1,
+        "y": 21
+    },
+    "4322": {
+        "hold_id": "4322",
+        "placement_id": "4741",
+        "hold_role": "13",
+        "count": 7,
+        "x": 41,
+        "y": 7
+    },
+    "4369": {
+        "hold_id": "4369",
+        "placement_id": "4788",
+        "hold_role": "13",
+        "count": 35,
+        "x": 45,
+        "y": 25
     },
     "4297": {
         "hold_id": "4297",
         "placement_id": "4716",
         "hold_role": "13",
-        "count": 5,
+        "count": 22,
         "x": 3,
         "y": 33
+    },
+    "4308": {
+        "hold_id": "4308",
+        "placement_id": "4727",
+        "hold_role": "13",
+        "count": 16,
+        "x": 1,
+        "y": 17
     },
     "4289": {
         "hold_id": "4289",
         "placement_id": "4708",
         "hold_role": "13",
-        "count": 15,
+        "count": 46,
         "x": 3,
         "y": 17
     },
-    "4356": {
-        "hold_id": "4356",
-        "placement_id": "4775",
+    "4350": {
+        "hold_id": "4350",
+        "placement_id": "4769",
         "hold_role": "13",
-        "count": 3,
+        "count": 49,
         "x": 43,
-        "y": 37
-    },
-    "4315": {
-        "hold_id": "4315",
-        "placement_id": "4734",
-        "hold_role": "13",
-        "count": 14,
-        "x": 1,
-        "y": 31
-    },
-    "4280": {
-        "hold_id": "4280",
-        "placement_id": "4699",
-        "hold_role": "13",
-        "count": 1,
-        "x": 5,
-        "y": 37
+        "y": 25
     },
     "4265": {
         "hold_id": "4265",
         "placement_id": "4684",
         "hold_role": "13",
-        "count": 3,
+        "count": 7,
         "x": 5,
         "y": 7
+    },
+    "4266": {
+        "hold_id": "4266",
+        "placement_id": "4685",
+        "hold_role": "13",
+        "count": 6,
+        "x": 5,
+        "y": 9
+    },
+    "1171": {
+        "hold_id": "1171",
+        "placement_id": "1474",
+        "hold_role": "13",
+        "count": 6,
+        "x": 8,
+        "y": 6
+    },
+    "4374": {
+        "hold_id": "4374",
+        "placement_id": "4793",
+        "hold_role": "13",
+        "count": 9,
+        "x": 45,
+        "y": 35
     },
     "4306": {
         "hold_id": "4306",
         "placement_id": "4725",
         "hold_role": "13",
-        "count": 6,
+        "count": 19,
         "x": 1,
         "y": 13
     },
@@ -4987,57 +4787,73 @@
         "hold_id": "4390",
         "placement_id": "4809",
         "hold_role": "13",
-        "count": 1,
+        "count": 2,
         "x": 4,
         "y": 14
+    },
+    "4366": {
+        "hold_id": "4366",
+        "placement_id": "4785",
+        "hold_role": "13",
+        "count": 41,
+        "x": 45,
+        "y": 19
     },
     "4317": {
         "hold_id": "4317",
         "placement_id": "4736",
         "hold_role": "13",
-        "count": 3,
+        "count": 7,
         "x": 1,
         "y": 35
+    },
+    "4356": {
+        "hold_id": "4356",
+        "placement_id": "4775",
+        "hold_role": "13",
+        "count": 10,
+        "x": 43,
+        "y": 37
     },
     "4337": {
         "hold_id": "4337",
         "placement_id": "4756",
         "hold_role": "13",
-        "count": 2,
+        "count": 12,
         "x": 41,
         "y": 37
     },
-    "4305": {
-        "hold_id": "4305",
-        "placement_id": "4724",
+    "4345": {
+        "hold_id": "4345",
+        "placement_id": "4764",
         "hold_role": "13",
-        "count": 3,
+        "count": 48,
+        "x": 43,
+        "y": 15
+    },
+    "4315": {
+        "hold_id": "4315",
+        "placement_id": "4734",
+        "hold_role": "13",
+        "count": 51,
         "x": 1,
+        "y": 31
+    },
+    "4355": {
+        "hold_id": "4355",
+        "placement_id": "4774",
+        "hold_role": "13",
+        "count": 17,
+        "x": 43,
+        "y": 35
+    },
+    "4267": {
+        "hold_id": "4267",
+        "placement_id": "4686",
+        "hold_role": "13",
+        "count": 15,
+        "x": 5,
         "y": 11
-    },
-    "4299": {
-        "hold_id": "4299",
-        "placement_id": "4718",
-        "hold_role": "13",
-        "count": 3,
-        "x": 3,
-        "y": 37
-    },
-    "4391": {
-        "hold_id": "4391",
-        "placement_id": "4810",
-        "hold_role": "13",
-        "count": 1,
-        "x": 2,
-        "y": 16
-    },
-    "4396": {
-        "hold_id": "4396",
-        "placement_id": "4815",
-        "hold_role": "13",
-        "count": 2,
-        "x": 4,
-        "y": 22
     },
     "4378": {
         "hold_id": "4378",
@@ -5063,11 +4879,19 @@
         "x": 4,
         "y": 18
     },
+    "4325": {
+        "hold_id": "4325",
+        "placement_id": "4744",
+        "hold_role": "13",
+        "count": 28,
+        "x": 41,
+        "y": 13
+    },
     "4375": {
         "hold_id": "4375",
         "placement_id": "4794",
         "hold_role": "13",
-        "count": 1,
+        "count": 5,
         "x": 45,
         "y": 37
     },
@@ -5083,7 +4907,7 @@
         "hold_id": "4384",
         "placement_id": "4803",
         "hold_role": "13",
-        "count": 1,
+        "count": 2,
         "x": 4,
         "y": 6
     },
@@ -5091,7 +4915,7 @@
         "hold_id": "4415",
         "placement_id": "4834",
         "hold_role": "13",
-        "count": 2,
+        "count": 4,
         "x": 44,
         "y": 18
     },
@@ -5099,15 +4923,23 @@
         "hold_id": "4377",
         "placement_id": "4796",
         "hold_role": "13",
-        "count": 2,
+        "count": 1,
         "x": 2,
         "y": 0
+    },
+    "4396": {
+        "hold_id": "4396",
+        "placement_id": "4815",
+        "hold_role": "13",
+        "count": 3,
+        "x": 4,
+        "y": 22
     },
     "4357": {
         "hold_id": "4357",
         "placement_id": "4776",
         "hold_role": "13",
-        "count": 1,
+        "count": 2,
         "x": 45,
         "y": 1
     },
@@ -5119,13 +4951,53 @@
         "x": 44,
         "y": 10
     },
-    "4412": {
-        "hold_id": "4412",
-        "placement_id": "4831",
+    "4379": {
+        "hold_id": "4379",
+        "placement_id": "4798",
         "hold_role": "13",
         "count": 1,
-        "x": 44,
-        "y": 14
+        "x": 42,
+        "y": 0
+    },
+    "4299": {
+        "hold_id": "4299",
+        "placement_id": "4718",
+        "hold_role": "13",
+        "count": 10,
+        "x": 3,
+        "y": 37
+    },
+    "4339": {
+        "hold_id": "4339",
+        "placement_id": "4758",
+        "hold_role": "13",
+        "count": 1,
+        "x": 43,
+        "y": 3
+    },
+    "4402": {
+        "hold_id": "4402",
+        "placement_id": "4821",
+        "hold_role": "13",
+        "count": 2,
+        "x": 4,
+        "y": 30
+    },
+    "4338": {
+        "hold_id": "4338",
+        "placement_id": "4757",
+        "hold_role": "13",
+        "count": 2,
+        "x": 43,
+        "y": 1
+    },
+    "4362": {
+        "hold_id": "4362",
+        "placement_id": "4781",
+        "hold_role": "13",
+        "count": 10,
+        "x": 45,
+        "y": 11
     },
     "4401": {
         "hold_id": "4401",
@@ -5139,32 +5011,296 @@
         "hold_id": "4403",
         "placement_id": "4822",
         "hold_role": "13",
-        "count": 1,
+        "count": 2,
         "x": 2,
         "y": 32
     },
-    "4338": {
-        "hold_id": "4338",
-        "placement_id": "4757",
+    "4305": {
+        "hold_id": "4305",
+        "placement_id": "4724",
+        "hold_role": "13",
+        "count": 10,
+        "x": 1,
+        "y": 11
+    },
+    "4399": {
+        "hold_id": "4399",
+        "placement_id": "4818",
+        "hold_role": "13",
+        "count": 2,
+        "x": 4,
+        "y": 26
+    },
+    "4280": {
+        "hold_id": "4280",
+        "placement_id": "4699",
+        "hold_role": "13",
+        "count": 9,
+        "x": 5,
+        "y": 37
+    },
+    "1630": {
+        "hold_id": "1630",
+        "placement_id": "1473",
+        "hold_role": "13",
+        "count": 6,
+        "x": 38,
+        "y": 4
+    },
+    "4392": {
+        "hold_id": "4392",
+        "placement_id": "4811",
+        "hold_role": "13",
+        "count": 2,
+        "x": 0,
+        "y": 18
+    },
+    "4318": {
+        "hold_id": "4318",
+        "placement_id": "4737",
+        "hold_role": "13",
+        "count": 5,
+        "x": 1,
+        "y": 37
+    },
+    "4394": {
+        "hold_id": "4394",
+        "placement_id": "4813",
+        "hold_role": "13",
+        "count": 4,
+        "x": 2,
+        "y": 20
+    },
+    "4342": {
+        "hold_id": "4342",
+        "placement_id": "4761",
+        "hold_role": "13",
+        "count": 8,
+        "x": 43,
+        "y": 9
+    },
+    "4421": {
+        "hold_id": "4421",
+        "placement_id": "4840",
         "hold_role": "13",
         "count": 1,
-        "x": 43,
-        "y": 1
+        "x": 44,
+        "y": 26
     },
-    "4339": {
-        "hold_id": "4339",
-        "placement_id": "4758",
+    "4360": {
+        "hold_id": "4360",
+        "placement_id": "4779",
         "hold_role": "13",
-        "count": 1,
-        "x": 43,
-        "y": 3
+        "count": 3,
+        "x": 45,
+        "y": 7
     },
-    "4379": {
-        "hold_id": "4379",
-        "placement_id": "4798",
+    "4416": {
+        "hold_id": "4416",
+        "placement_id": "4835",
         "hold_role": "13",
         "count": 1,
         "x": 42,
+        "y": 20
+    },
+    "4418": {
+        "hold_id": "4418",
+        "placement_id": "4837",
+        "hold_role": "13",
+        "count": 1,
+        "x": 44,
+        "y": 22
+    },
+    "4420": {
+        "hold_id": "4420",
+        "placement_id": "4839",
+        "hold_role": "13",
+        "count": 2,
+        "x": 46,
+        "y": 24
+    },
+    "4361": {
+        "hold_id": "4361",
+        "placement_id": "4780",
+        "hold_role": "13",
+        "count": 5,
+        "x": 45,
+        "y": 9
+    },
+    "4285": {
+        "hold_id": "4285",
+        "placement_id": "4704",
+        "hold_role": "13",
+        "count": 8,
+        "x": 3,
+        "y": 9
+    },
+    "4304": {
+        "hold_id": "4304",
+        "placement_id": "4723",
+        "hold_role": "13",
+        "count": 6,
+        "x": 1,
+        "y": 9
+    },
+    "4323": {
+        "hold_id": "4323",
+        "placement_id": "4742",
+        "hold_role": "13",
+        "count": 6,
+        "x": 41,
+        "y": 9
+    },
+    "4423": {
+        "hold_id": "4423",
+        "placement_id": "4842",
+        "hold_role": "13",
+        "count": 3,
+        "x": 46,
+        "y": 28
+    },
+    "4286": {
+        "hold_id": "4286",
+        "placement_id": "4705",
+        "hold_role": "13",
+        "count": 6,
+        "x": 3,
+        "y": 11
+    },
+    "4391": {
+        "hold_id": "4391",
+        "placement_id": "4810",
+        "hold_role": "13",
+        "count": 1,
+        "x": 2,
+        "y": 16
+    },
+    "4262": {
+        "hold_id": "4262",
+        "placement_id": "4681",
+        "hold_role": "13",
+        "count": 2,
+        "x": 5,
+        "y": 1
+    },
+    "4281": {
+        "hold_id": "4281",
+        "placement_id": "4700",
+        "hold_role": "13",
+        "count": 1,
+        "x": 3,
+        "y": 1
+    },
+    "4398": {
+        "hold_id": "4398",
+        "placement_id": "4817",
+        "hold_role": "13",
+        "count": 2,
+        "x": 0,
+        "y": 26
+    },
+    "4341": {
+        "hold_id": "4341",
+        "placement_id": "4760",
+        "hold_role": "13",
+        "count": 3,
+        "x": 43,
+        "y": 7
+    },
+    "4376": {
+        "hold_id": "4376",
+        "placement_id": "4795",
+        "hold_role": "13",
+        "count": 1,
+        "x": 4,
         "y": 0
+    },
+    "4303": {
+        "hold_id": "4303",
+        "placement_id": "4722",
+        "hold_role": "13",
+        "count": 3,
+        "x": 1,
+        "y": 7
+    },
+    "4284": {
+        "hold_id": "4284",
+        "placement_id": "4703",
+        "hold_role": "13",
+        "count": 2,
+        "x": 3,
+        "y": 7
+    },
+    "4319": {
+        "hold_id": "4319",
+        "placement_id": "4738",
+        "hold_role": "13",
+        "count": 1,
+        "x": 41,
+        "y": 1
+    },
+    "4302": {
+        "hold_id": "4302",
+        "placement_id": "4721",
+        "hold_role": "13",
+        "count": 1,
+        "x": 1,
+        "y": 5
+    },
+    "4283": {
+        "hold_id": "4283",
+        "placement_id": "4702",
+        "hold_role": "13",
+        "count": 1,
+        "x": 3,
+        "y": 5
+    },
+    "4264": {
+        "hold_id": "4264",
+        "placement_id": "4683",
+        "hold_role": "13",
+        "count": 2,
+        "x": 5,
+        "y": 5
+    },
+    "4321": {
+        "hold_id": "4321",
+        "placement_id": "4740",
+        "hold_role": "13",
+        "count": 1,
+        "x": 41,
+        "y": 5
+    },
+    "4340": {
+        "hold_id": "4340",
+        "placement_id": "4759",
+        "hold_role": "13",
+        "count": 1,
+        "x": 43,
+        "y": 5
+    },
+    "4359": {
+        "hold_id": "4359",
+        "placement_id": "4778",
+        "hold_role": "13",
+        "count": 2,
+        "x": 45,
+        "y": 5
+    },
+    "4395": {
+        "hold_id": "4395",
+        "placement_id": "4814",
+        "hold_role": "13",
+        "count": 1,
+        "x": 0,
+        "y": 22
+    },
+    "4425": {
+        "hold_id": "4425",
+        "placement_id": "4844",
+        "hold_role": "13",
+        "count": 1,
+        "x": 42,
+        "y": 32
     }
 }
